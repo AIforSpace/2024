@@ -241,8 +241,12 @@ acknowledgements: ""
       <h6>ESA</h6>
     </div>
   </div>
-
-
+  
+  </div>
+  
+  
+  <div class="row">
+  
   <div class="col-xs-2">
     <a href="https://www.linkedin.com/in/pablo-gomez-ml/">
       <img class="people-pic" src="{{ "/static/img/people/pablo.png" | prepend:site.baseurl }}">
@@ -253,9 +257,6 @@ acknowledgements: ""
     </div>
   </div>
   
-  </div>
-  
-  <div class="row">
   <div class="col-xs-2">
     <a href="https://bochenys.github.io/">
       <img class="people-pic" src="{{ "/static/img/people/bo.jpg" | prepend:site.baseurl }}">
@@ -265,6 +266,7 @@ acknowledgements: ""
       <h6>The University of Adelaide</h6>
     </div>
   </div>
+  
 </div>
 
 
