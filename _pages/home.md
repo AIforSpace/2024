@@ -253,6 +253,9 @@ acknowledgements: ""
     </div>
   </div>
   
+  </div>
+  
+  <div class="row">
   <div class="col-xs-2">
     <a href="https://bochenys.github.io/">
       <img class="people-pic" src="{{ "/static/img/people/bo.jpg" | prepend:site.baseurl }}">
@@ -262,27 +265,10 @@ acknowledgements: ""
       <h6>The University of Adelaide</h6>
     </div>
   </div>
-
 </div>
 
 
 <hr>
-
-{% if page.acknowledgements %}
-<div class="row">
-  <div class="col-xs-12">
-    <h2>Acknowledgments</h2>
-  </div>
-</div>
-<a name="/acknowledgements"></a>
-<div class="row">
-  <div class="col-xs-12">
-    <p>
-      Thanks to <span style="color:#1a1aff;font-weight:400;"> <a href="https://visualdialog.org/">visualdialog.org</a></span> for the webpage format.
-    </p>
-  </div>
-</div>
-{% endif %}
 
 <br>
 
