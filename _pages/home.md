@@ -365,36 +365,6 @@ acknowledgements: ""
 </div><br>
 
 
-<!-- 131 -->
-<div class="row">
-  <div class="col-md-12">
-    <a href="https://people.eecs.berkeley.edu/~malik/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/speakers/jitendra.gif" | prepend:site.baseurl }}"></a>
-    <p>
-      <b><a href="https://people.eecs.berkeley.edu/~malik/">Jitendra Malik</a></b> received the B.Tech degree in Electrical Engineering from Indian Institute of Technology, Kanpur in 1980 and the PhD degree in Computer Science from Stanford University in 1985. In January 1986, he joined the university of California at Berkeley, where he is currently the Arthur J. Chick Professor in the Department of Electrical Engineering and Computer Sciences. Since January 2018, he is also Research Director and Site Lead of Facebook AI Research in Menlo Park. Prof. Malik's research group has worked on many different topics in computer vision, computational modeling of human vision, computer graphics and the analysis of biological images. Several well-known concepts and algorithms arose in this research, such as anisotropic diffusion, normalized cuts, high dynamic range imaging, shape contexts and R-CNN. He has mentored more than 60 PhD students and postdoctoral fellows. His publications have received numerous best paper awards, including five test of time awards - the Longuet-Higgins Prize for papers published at CVPR (twice) and the Helmholtz Prize for papers published at ICCV (three times). He received the 2013 IEEE PAMI-TC Distinguished Researcher in Computer Vision Award, the 2014 K.S. Fu Prize from the International Association of Pattern Recognition, the 2016 ACM-AAAI Allen Newell Award, the 2018 IJCAI Award for Research Excellence in AI, and the 2019 IEEE Computer Society Computer Pioneer Award. He is a fellow of the IEEE and the ACM. He is a member of the National Academy of Engineering and the National Academy of Sciences, and a fellow of the American Academy of Arts and Sciences.
-    </p>
-  </div>
-</div><br>
-
-<!-- 47 -->
-<div class="row">
-  <div class="col-md-12">
-    <a href="https://www.cs.utoronto.ca/~fidler/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/speakers/sanja.jpg" | prepend:site.baseurl }}"></a>
-    <p>
-      <b><a href="https://www.cs.utoronto.ca/~fidler/">Sanja Fidler</a></b> is an Assistant Professor at University of Toronto, and a Director of AI at NVIDIA, leading a research lab in Toronto. Prior coming to Toronto, in 2012/2013, she was a Research Assistant Professor at Toyota Technological Institute at Chicago, an academic institute located in the campus of University of Chicago. She did her postdoc with Prof. Sven Dickinson at University of Toronto in 2011/2012. She finished her PhD in 2010 at University of Ljubljana in Slovenia in the group of Prof. Ales Leonardis. In 2010, she was visiting Prof. Trevor Darrell's group at UC Berkeley and ICSI. 
-    </p>
-  </div>
-</div><br>
-
-<!-- 36 -->
-<div class="row">
-  <div class="col-md-12">
-    <a href="https://www.cs.purdue.edu/homes/aliaga/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/speakers/aliaga.png" | prepend:site.baseurl }}"></a>
-    <p>
-      <b><a href="https://www.cs.purdue.edu/homes/aliaga/">Daniel Aliaga</a></b> does research primarily in the area of 3D computer graphics but overlaps with computer vision and visualization while also having strong multi-disciplinary collaborations outside of computer science. His research activities are divided into three groups: a) his pioneering work in the multi-disciplinary area of inverse modeling and design; b) his first-of-its-kind work in codifying information into images and surfaces, and c) his compelling work in a visual computing framework including high-quality 3D acquisition methods. Dr. Aliaga’s inverse modeling and design is particularly focused at digital city planning applications that provide innovative “what-if” design tools enabling urban stake holders from cities worldwide to automatically integrate, process, analyze, and visualize the complex interdependencies between the urban form, function, and the natural environment.
-    </p>
-  </div>
-</div><br>
-
 <!-- 26 -->
 <div class="row">
   <div class="col-md-12">
@@ -434,17 +404,6 @@ acknowledgements: ""
     </p>
   </div>
 </div><br>
-
-<!-- 8 -->
-<div class="row">
-  <div class="col-md-12">
-    <a href="https://paulguerrero.net/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/speakers/paul.png" | prepend:site.baseurl }}"></a>
-    <p>
-      <b><a href="https://paulguerrero.net/">Paul Guerrero</a></b> recently joined Adobe Research in London, working on the analysis of shapes and irregular structures, such as graphs, meshes, or vector graphics, by combining methods from machine learning, optimization, and computational geometry. Previously, he was a post-doctoral researcher at the Smart Geometry Processing Group, UCL. He completed my PhD at the Insitute for Computer Graphics and Algorithms, Vienna University of Technology, and at the Visual Computing Center in KAUST.
-    </p>
-  </div>
-</div><br>
-
 
 
 
@@ -520,82 +479,6 @@ acknowledgements: ""
 
 </div>
 
-<div class="row">
-
-  <div class="col-xs-2">
-    <a href="http://www.cim.mcgill.ca/~derek/">
-      <img class="people-pic" src="{{ "/static/img/people/derek.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="http://www.cim.mcgill.ca/~derek/">Derek Nowrouzezahrai</a>
-      <h6>McGill, MILA</h6>
-    </div>
-  </div>
-
-  <div class="col-xs-2">
-    <a href="http://www.pedro.opinheiro.com/">
-      <img class="people-pic" src="{{ "/static/img/people/pedro.png" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="http://www.pedro.opinheiro.com/">Pedro O. Pinheiro</a>
-      <h6>Element AI</h6>
-    </div>
-  </div>
-
-  <div class="col-xs-2">
-    <a href="https://mila.quebec/en/person/sai-rajeshwar/">
-      <img class="people-pic" src="{{ "/static/img/people/sai.png" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://mila.quebec/en/person/sai-rajeshwar/">Sai Rajeswar</a>
-      <h6>MILA, Element AI</h6>
-    </div>
-  </div>
-
-  <div class="col-xs-2">
-    <a href="http://msavva.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/manolis.png" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="http://msavva.github.io/">Manolis Savva</a>
-      <h6>Simon Fraser University</h6>
-    </div>
-  </div>
-
-  <div class="col-xs-2">
-    <a href="http://www.david-vazquez.com/">
-      <img class="people-pic" src="{{ "/static/img/people/david.jpeg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="http://www.david-vazquez.com/">David Vazquez</a>
-      <h6>Element AI</h6>
-    </div>
-  </div>
-
-  <div class="col-xs-2">
-    <a href="https://kevinkaixu.net/">
-      <img class="people-pic" src="{{ "/static/img/people/kevin.png" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://kevinkaixu.net/">Kai (Kevin) Xu</a>
-      <h6>NUDT</h6>
-    </div>
-  </div>
-  
-</div>
-<div class="row">
-
-  <div class="col-xs-2">
-    <a href="https://www.cs.sfu.ca/~haoz/">
-      <img class="people-pic" src="{{ "/static/img/people/richard.png" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://www.cs.sfu.ca/~haoz/">Hao (Richard) Zhang</a>
-      <h6>Simon Fraser University</h6>
-    </div>
-  </div>
-
-</div>
 
 <hr>
 
