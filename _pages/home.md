@@ -40,13 +40,13 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-    The space sector is experiencing renewed interest and significant growth. Currently planned activities and utilisation models also greatly exceed the scope, ambition and/or commercial value of space missions in the previous century, e.g., autonomous spacecraft, space mining, and understanding the universe. Achieving these ambitious goals requires surmounting non-trivial technical obstacles. AI4Space focuses on the role of AI, particularly computer vision and machine learning, in helping to solve those technical hurdles. The workshop will highlight the space capabilities that draw from and/or overlap significantly with vision and learning research, outline the unique difficulties presented by space applications to vision and learning, and discuss recent advances towards overcoming those obstacles.
+    The space sector is experiencing significant growth. Currently planned activities and utilisation models also greatly exceed the scope, ambition and/or commercial value of space missions in the previous century, e.g., autonomous spacecraft, space mining, and understanding the universe. Achieving these ambitious goals requires surmounting non-trivial technical obstacles. AI4Space focuses on the role of AI, particularly computer vision and machine learning, in helping to solve those technical hurdles. The workshop will highlight the space capabilities that draw from and/or overlap significantly with vision and learning research, outline the unique difficulties presented by space applications to vision and learning, and discuss recent advances towards overcoming those obstacles.
     </p>
     <p>
     The workshop will feature 
     <ul>
-      <li>Keynotes from established AI4Space researchers; <a href='#speakers'>(keynote speakers)</a></li>
-      <li>Presentations of recent work on vision and learning with a space focus. <a href='#schedule'>(program)</a></li>
+      <li><a href='#speakers'>Keynotes</a> from established AI4Space researchers; and</li>
+      <li><a href='#schedule'>Presentations</a> of recent work on vision and learning with a space focus.</li>
     </ul>
     </p>
   </div>
