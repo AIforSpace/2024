@@ -43,8 +43,10 @@ acknowledgements: ""
     </p>
     <p>
     The workshop will feature 
-    - Keynotes from established AI4Space researchers; [(keynote speakers)](#speakers)
-    - Presentations of recent work on vision and learning with a space focus. [(program)](#program)
+    <ul>
+      <li>Keynotes from established AI4Space researchers; <a href='#speakers'>(keynote speakers)</a></li>
+      <li>Presentations of recent work on vision and learning with a space focus. <a href='#schedule'>(program)</a></li>
+    </ul>
     </p>
   </div>
 </div> <br>   
@@ -57,15 +59,20 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-      <span style="font-weight:500;">Call for papers:</span> We invite novel full papers of 4 to 6 pages (extended abstracts are not allowed) for work on tasks related to data-driven 3D generative modeling or tasks leveraging generated 3D content.
-      Paper topics may include but are not limited to:
+      <span style="font-weight:500;">Call for papers:</span> The general emphasis of AI4Space is vision and learning algorithms in off-Earth environments, including in the orbital region, surface and underground environments on other planetary bodies (e.g., the moon, Mars and asteroids), interplanetary space and solar system, and distant galaxies. Target application areas include autonomous spacecraft, space robotics, space traffic management, astronomy, astrobiology and cosmology. Emphasis is also placed on novel sensors and processing hardware for vision and learning in space, mitigating the challenges of the space environment towards vision and learning (e.g., solar radiation, extreme temperatures), and solving practical difficulties in vision and learning for space (e.g., lack of training data, unknown or partially known characteristics of operating environments).
     </p>
+    A specific list of topics at AI4Space is as follows:
     <ul>
-      <li>Generative models for 3D shape and 3D scene synthesis</li>
-      <li>Generating 3D shapes and scenes from real world data (images, videos, or scans)</li>
-      <li>Representations for 3D shapes and scenes</li>
-      <li>Unsupervised feature learning for embodied vision tasks via 3D generative models</li>
-      <li>Training data synthesis/augmentation for embodied vision tasks via 3D generative models</li>
+      <li>Visual navigation for spacecraft operations (including close proximity rendezvous, docking, space maneuvers, pose estimation, entry descent landing).</li>
+      <li>Vision and learning for space robotics.</li>
+      <li>Positioning, mapping and SLAM for the moon and Mars.</li>
+      <li>Autonomous celestial positioning.</li>
+      <li>Space debris monitoring and mitigation.</li>
+      <li>Vision and learning for astronomy, astrobiology and cosmology.</li>
+      <li>Sensors for space applications (e.g., optical, multispectral, lidar, radar, event-based).</li>
+      <li>Processing hardware for vision and learning in space, including satellite on-board processing.</li>
+      <li>Mitigating challenges of the space environment to vision and learning.</li>
+      <li>Datasets, transfer learning and domain gap for space problems.</li>
     </ul>
     <p>
       <span style="font-weight:500;">Submission:</span> we encourage submissions of up to 6 pages excluding references and acknowledgements.
@@ -241,12 +248,7 @@ acknowledgements: ""
     </div>
   </div>
   
-  </div>
-  
-  
-  <div class="row">
-  
-  <div class="col-sm-3">
+  <div class="col-xs-2">
     <a href="https://www.linkedin.com/in/pablo-gomez-ml/">
       <img class="people-pic" src="{{ "/static/img/people/pablo.png" | prepend:site.baseurl }}">
     </a>
@@ -256,7 +258,11 @@ acknowledgements: ""
     </div>
   </div>
   
-  <div class="col-sm-3">
+  </div>
+  
+  
+  <div class="row">
+  <div class="col-xs-2">
     <a href="https://bochenys.github.io/">
       <img class="people-pic" src="{{ "/static/img/people/bo.jpg" | prepend:site.baseurl }}">
     </a>
@@ -265,7 +271,6 @@ acknowledgements: ""
       <h6>The University of Adelaide</h6>
     </div>
   </div>
-  
 </div>
 
 
