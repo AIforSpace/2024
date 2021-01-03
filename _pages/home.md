@@ -13,10 +13,8 @@ acknowledgements: ""
 <br>
 <div class="row header-row">
   <div class="col-xs-12 header-img">  
-    <center><h1>Learning 3D Generative Models</h1></center>
-    <center><h2>CVPR 2020 Workshop, Seattle, WA</h2></center>
-    <center><span style="font-weight:400;">14th of June 2020</span></center>
-    <!--<center><span style="color:#e74c3c;font-weight:400;">Time and Location TBD</span></center>-->
+    <center><h1>1st CVPR Workshop on AI for Space, 2021</h1></center>
+    <!-- <center><span style="font-weight:400;">14th of June 2020</span></center> -->
     <br/>
   </div>
 </div>
@@ -75,12 +73,13 @@ acknowledgements: ""
       <li>Datasets, transfer learning and domain gap for space problems.</li>
     </ul>
     <p>
-      <span style="font-weight:500;">Submission:</span> we encourage submissions of up to 6 pages excluding references and acknowledgements.
+      <span style="font-weight:500;">Submission:</span> TBA
+      <!--we encourage submissions of up to 6 pages excluding references and acknowledgements.
       The submission should be in the CVPR format.
       Reviewing will be single blind.
       Accepted works will be published in the CVPR 2020 proceedings (online/app, IEEE Xplore, and CVF open access).
       Due to the archival nature of these publications, we are looking for work that has not been published before.
-      The submissions will be handled by the <a href='https://cmt3.research.microsoft.com/L3DGM2020'>CMT paper management system</a>. 
+      The submissions will be handled by the <a href='https://cmt3.research.microsoft.com/L3DGM2020'>CMT paper management system</a>.  -->
       <!--Please submit your paper to the following address by the deadline: <span style="color:#1a1aff;font-weight:400;"><a href="mailto:learn3dgen@gmail.com">learn3dgen@gmail.com</a></span>-->
     </p>
   </div>
@@ -89,6 +88,9 @@ acknowledgements: ""
 <div class="row" id="dates">
   <div class="col-xs-12">
     <h2>Important Dates</h2>
+    <p>
+    All times/dates below are in Pacific Standard Time.
+    </p>
   </div>
 </div>
 
@@ -98,19 +100,19 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>Paper Submission Deadline</td>
-          <td>March 30 2020 - AoE time (UTC -12)</td>
+          <td>11:59pm 6 Mar 2021</td>
         </tr>
         <tr>
           <td>Notification to Authors</td>
-          <td>April 13 2020</td>
+          <td>13 Apr 2021.</td>
         </tr>
         <tr>
           <td>Camera-Ready Deadline</td>
-          <td>April 20 2020</td>
+          <td>20 Apr 2021</td>
         </tr>
         <tr>
           <td>Workshop Date</td>
-          <td>June 14 2020</td>
+          <td>TBA</td>
         </tr>
       </tbody>
     </table>
