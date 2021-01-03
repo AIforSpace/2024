@@ -39,13 +39,12 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-      The past several years have seen an explosion of interest in generative modeling: unsupervised models which learn to synthesize new elements from the training data domain. Such models have been used to breathtaking effect for generating realistic images, especially of human faces, which are in some cases indistinguishable from reality. The unsupervised latent representations learned by these models can also prove powerful when used as feature sets for supervised learning tasks.
+    The space sector is experiencing renewed interest and significant growth. Currently planned activities and utilisation models also greatly exceed the scope, ambition and/or commercial value of space missions in the previous century, e.g., autonomous spacecraft, space mining, and understanding the universe. Achieving these ambitious goals requires surmounting non-trivial technical obstacles. AI4Space focuses on the role of AI, particularly computer vision and machine learning, in helping to solve those technical hurdles. The workshop will highlight the space capabilities that draw from and/or overlap significantly with vision and learning research, outline the unique difficulties presented by space applications to vision and learning, and discuss recent advances towards overcoming those obstacles.
     </p>
     <p>
-      Thus far, the vision community's attention has mostly focused on generative models of 2D images. However, in computer graphics, there has been a recent surge of activity in generative models of three-dimensional content: learnable models which can synthesize novel 3D objects, or even larger scenes composed of multiple objects. As the vision community turns from passive internet-images based vision toward more <i>embodied</i> vision tasks, these kinds of 3D generative models become increasingly important: as unsupervised feature learners, as training data synthesizers, as a platform to study 3D representations for 3D vision tasks, and as a way of equipping an embodied agent with a 3D `imagination' about the kinds of objects and scenes it might encounter.
-    </p>
-    <p>
-     With this workshop, we aim to bring together researchers working on generative models of 3D shapes and scenes with researchers and practitioners who can use these generative models to improve embodied vision tasks. For our purposes, we define ``generative model'' to include methods that synthesize geometry unconditionally as well as from sensory inputs (e.g. images), language, or other high-level specifications. Vision tasks that can benefit from such models include scene classification and segmentation, 3D reconstruction, human activity recognition, robotic visual navigation, question answering, and more.
+    The workshop will feature 
+    - Keynotes from established AI4Space researchers; [(keynote speakers)](#speakers)
+    - Presentations of recent work on vision and learning with a space focus. [(program)](#program)
     </p>
   </div>
 </div> <br>   
@@ -247,7 +246,7 @@ acknowledgements: ""
   
   <div class="row">
   
-  <div class="col-s-3">
+  <div class="col-sm-3">
     <a href="https://www.linkedin.com/in/pablo-gomez-ml/">
       <img class="people-pic" src="{{ "/static/img/people/pablo.png" | prepend:site.baseurl }}">
     </a>
@@ -257,7 +256,7 @@ acknowledgements: ""
     </div>
   </div>
   
-  <div class="col-s-3">
+  <div class="col-sm-3">
     <a href="https://bochenys.github.io/">
       <img class="people-pic" src="{{ "/static/img/people/bo.jpg" | prepend:site.baseurl }}">
     </a>
