@@ -13,6 +13,9 @@ acknowledgements: ""
 <br>
 <div class="row header-row">
   <div class="col-xs-12 header-img">  
+    <center><br></center>
+    <center><br></center>
+    <center><br></center>
     <center><h1>1st CVPR Workshop on AI for Space, 2021</h1></center>
     <!-- <center><span style="font-weight:400;">14th of June 2020</span></center> -->
     <br/>
