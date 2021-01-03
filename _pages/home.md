@@ -247,7 +247,7 @@ acknowledgements: ""
   
   <div class="row">
   
-  <div class="col-xs-2">
+  <div class="col-xs-3">
     <a href="https://www.linkedin.com/in/pablo-gomez-ml/">
       <img class="people-pic" src="{{ "/static/img/people/pablo.png" | prepend:site.baseurl }}">
     </a>
@@ -257,7 +257,7 @@ acknowledgements: ""
     </div>
   </div>
   
-  <div class="col-xs-2">
+  <div class="col-xs-3">
     <a href="https://bochenys.github.io/">
       <img class="people-pic" src="{{ "/static/img/people/bo.jpg" | prepend:site.baseurl }}">
     </a>
