@@ -13,7 +13,6 @@ acknowledgements: ""
 <br>
 <div class="row header-row" id="home">
   <div class="col-xs-12 header-img">  
-    <br>
     <center><h1 style="font-size:60px">AI4Space 2021</h1></center>
     <center><br></center>
     <center><br></center>
@@ -131,7 +130,7 @@ acknowledgements: ""
     </ul>
     <p>
       <span style="font-weight:500;">Submission:</span>
-      Submissions should be in the <a href="http://cvpr2021.thecvf.com/sites/default/files/2020-09/cvpr2021AuthorKit_2.zip">CVPR format</a> and are limited to 8 pages excluding reference.
+      Submissions should be in the <a href="http://cvpr2021.thecvf.com/sites/default/files/2020-09/cvpr2021AuthorKit_2.zip" download>CVPR format</a> and are limited to 8 pages excluding reference.
       Please refer to the main conference's <a href="http://cvpr2021.thecvf.com/node/33#submission-guidelines">submission guildlines</a> for more details. 
       Accepted works will be published in the CVPR 2021 proceedings (online/app, IEEE Xplore, and CVF open access).
       The submissions will be handled by the CMT paper management system (link to be anounced). 
