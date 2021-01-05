@@ -17,7 +17,7 @@ acknowledgements: ""
     <center><br></center>
     <center><br></center>
     <br>
-    <center><h3><p style="color:white;">1st Workshop on AI for Space</p></h3></center>
+    <center><p style="color:white;">1st Workshop on AI for Space</p></center>
     <center><h3>In conjunction with <a href="http://cvpr2021.thecvf.com/">CVPR 2021</a></h3></center>    
     <!-- <center><span style="font-weight:400;">14th of June 2020</span></center> -->
   </div>
