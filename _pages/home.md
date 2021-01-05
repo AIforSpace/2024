@@ -13,12 +13,12 @@ acknowledgements: ""
 <br>
 <div class="row header-row">
   <div class="col-xs-12 header-img">  
-    <center><br></center>
+    <center><h1>AI for Space 2021</h1></center>
     <center><br></center>
     <center><br></center>
     <br>
-    <center><h1>1st Workshop on AI for Space</h1></center>
-    <center><h1>In conjunction with <a href="http://cvpr2021.thecvf.com/">CVPR 2021</a></h1></center>    
+    <center><h3>1st Workshop on AI for Space</h3></center>
+    <center><h3>In conjunction with <a href="http://cvpr2021.thecvf.com/">CVPR 2021</a></h3></center>    
     <!-- <center><span style="font-weight:400;">14th of June 2020</span></center> -->
   </div>
 </div>
