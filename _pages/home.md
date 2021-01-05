@@ -13,7 +13,7 @@ acknowledgements: ""
 <br>
 <div class="row header-row">
   <div class="col-xs-12 header-img">  
-    <center><h1 style="font-size:80px">AI4Space 2021</h1></center>
+    <center><h1 style="font-size:60px">AI4Space 2021</h1></center>
     <center><br></center>
     <center><br></center>
     <br>
