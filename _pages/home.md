@@ -1,7 +1,7 @@
 ---
 layout: project
-urltitle:  "AI for Space"
-title: "AI for Space"
+urltitle:  "AI4Space 2021"
+title: "AI4Space 2021"
 categories: cvpr, workshop, artificial intelligence, computer vision, space 
 permalink: /
 favicon: /static/img/ico/favicon.png
@@ -13,7 +13,7 @@ acknowledgements: ""
 <br>
 <div class="row header-row">
   <div class="col-xs-12 header-img">  
-    <center><h1>AI for Space 2021</h1></center>
+    <center><h1 style="font-size:200px">AI4Space 2021</h1></center>
     <center><br></center>
     <center><br></center>
     <br>
