@@ -51,8 +51,58 @@ acknowledgements: ""
     </ul>
     </p>
   </div>
-</div> <br>   
+</div> 
 
+
+<br>
+<div class="row" id="speakers">
+  <div class="col-xs-12">
+    <h2>Invited Speakers</h2>
+  </div>
+</div><br>
+
+
+<!-- 26 -->
+<div class="row">
+  <div class="col-md-12">
+    <a href="https://www.simonsfoundation.org/team/shirley-ho/"><img class="people-pic-big" style="float:left;margin-right:30px;" src="{{ "/static/img/speakers/shirley.png" | prepend:site.baseurl }}"></a>
+    <p>
+      <b><a href="https://www.simonsfoundation.org/team/shirley-ho/">Shirley Ho</a></b> is Leader of the Cosmology X Data Science group at the Center for Computational Astrophysics (CCA), Flatiron Institute. Her research interests range from fundamental cosmological measurements to exoplanet statistics to using machine learning to estimate how much dark matter is in the universe. Her goal is to understand the universe’s beginning, evolution and its ultimate fate. Recently she has been developing novel tools using machine learning to solve astrophysical challenges. Shirley plans, builds and analyzes data from a number of astronomical surveys such as Actacama Cosmology Telescope, Euclid, the Large Synoptic Survey Telescope, Simons Observatory, Sloan Digital Sky Survey and the Wide Field Infrared Survey Telescope. She has broad expertise in theory, observation and data science, and her significant experience on machine learning for cosmology will deliver plenty of insights to the CVPR audience. Shirley earned her Ph.D. in astrophysical sciences from Princeton in 2008 and her bachelor’s degrees in computer science and physics from the UC Berkeley in 2004. She was a Chamberlain fellow and a Seaborg fellow at Lawrence Berkeley National Laboratory before joining CMU in 2011 as an assistant professor. She became the Cooper Siegel Career Development Chair Professor and was appointed associate professor with tenure in 2016. She moved to Lawrence Berkeley Lab as a Senior Scientist in 2016. Since 2011, she has been a primary mentor to more than 15 postdoctoral fellows, six graduate students and 14 undergraduates.
+    </p>
+  </div>
+</div><br>
+
+<!-- 24 -->
+<div class="row">
+  <div class="col-md-12">
+    <a href="https://www.linkedin.com/in/courtneymario"><img class="people-pic-big" style="float:left;margin-right:30px;" src="{{ "/static/img/speakers/courtney.png" | prepend:site.baseurl }}"></a>
+    <p>
+      <b><a href="https://www.linkedin.com/in/courtneymario">Courtney Mario</a></b> is a Principal Member of the Technical Staff at The Charles Stark Draper Laboratory (Draper Lab) in the Perception and Autonomy Group. Draper Lab is a not-for-profit R&D organization headquartered in Cambridge, Massachusetts. The lab specializes in the design, development, and deployment of advanced technology solutions to problems in space exploration, health care and energy. She is currently a member of the Natural Feature Tracking team for OSIRIS-REx (NASA’s asteroid sample return mission) and is also leading the algorithm development for Draper’s lunar precision landing capability. Prior work has included developing vision-inertial systems for GPS-denied applications for ground vehicles, UAVs, and pedestrians. Courtney has over 9 years of experience in vision navigation systems for GPS-denied environments, and the lessons she has learnt on the challenges of visual navigation in the space environment will be extremely beneficial to the CVPR community. Courtney earned a Bachelor’s degree (graduated Magna Cum Laude) and Master’s degree in mechanical engineering, both from Tufts University.
+    </p>
+  </div>
+</div><br>
+
+<!-- 23 -->
+<div class="row">
+  <div class="col-md-12">
+    <a href="https://www.esa.int/gsp/ACT/team/dario_izzo/"><img class="people-pic-big" style="float:left;margin-right:30px;" src="{{ "/static/img/speakers/dario.png" | prepend:site.baseurl }}"></a>
+    <p>
+      <b><a href="https://www.esa.int/gsp/ACT/team/dario_izzo/">Dario Izzo</a></b> is the Scientific Coordinator of the Advanced Concepts Team (ACT) at ESA, where he coordinates all the scientific activities of the ACT and manages the interface of the ACT to the rest of ESA. Dario is a major proponent of AI and champion of deep neural networks to solve space problems. He led studies in interplanetary trajectory design using AI and was responsible for starting the Global Trajectory Optimization Competitions events, the ESA’s Summer of Code in Space, and the Kelvins competition platform which brings together AI and space researchers. At the proposed workshop, Dario will be sharing his expertise and experience on AI algorithms for spacecraft guidance dynamics and control. Dario has published more than 150 papers in journals, conferences and books. In 2013, he received the Humies Gold Medal for the work on grand tours of the galilean moons and, the following year, he won the 8th edition of the Global Trajectory Optimization Competition, organized by NASA/JPL, leading a mixed team of ESA/JAXA scientists. Dario graduated in Aeronautical Engineering from the University Sapienza of Rome in 1999. He later obtained a second master in “Satellite Platforms” at the University of Cranfield in the UK and a Ph.D. in Mathematical Modelling in 2003, at the University Sapienza of Rome where he had the honour to assist Prof. Chiara Valente throughout the classical mechanics and space flight mechanics courses during the academic years 2001-2003.
+    </p>
+  </div>
+</div><br>
+
+<!-- 16 -->
+<div class="row">
+  <div class="col-md-12">
+    <a href="https://www.surrey.ac.uk/people/yang-gao"><img class="people-pic-big" style="float:left;margin-right:30px;" src="{{ "/static/img/speakers/yang.jpg" | prepend:site.baseurl }}"></a>
+    <p>
+      <b><a href="https://www.surrey.ac.uk/people/yang-gao">Yang Gao</a></b> is the Professor of Space Autonomous Systems at Surrey Space Centre (SSC) and the Head of the STAR LAB which specializes in visual sensing and navigation in extreme environments. She has 20 years of research experience in developing robotics and autonomous systems, and has been funded by UK Research Innovation, Royal Academy of Engineering, European Commission, European Space Agency, UK Space Agency, as well as industrial companies such as Airbus, NEPTEC, Sellafield and OHB. Yang is also actively involved in the R&D real-world space missions, e.g., ESA's ExoMars, Proba3 and LUCE-ice mapper, UK's MoonLITE/Moonraker, and China's Chang'E 3. Her expertise in solving real-world space visual navigation problems will be of significant interest to the CVPR audience. Yang is an Elected Fellow of Institute of Engineering and Technology (IET) and Royal Aeronautical Society (RAeS). Her research work led to international acclaim, such as International Astronautical Federation’s 3AF Edmond Brun Silver Medal in 2013, COSPAR's Outstanding Paper Award in 2016, First Prize of UKSEDS Lunar Rover Competition in 2017, Finalist of IEEE/ASME's AIM Best Paper Award 2019 and First Prize of Best Poster Award at ICRA 2020 Space Robotics Workshop. Prior to joining SSC in 2004, Yang was an awardee of the prestigious Singapore Millennium Foundation (SMF) Postdoctoral Fellowship and worked on intelligent and autonomous vehicles. She gained the B.Eng. and Ph.D. degrees from the Nanyang Technological University in 2000 and 2003 respectively.
+    </p>
+  </div>
+</div><br>
+
+   
 <div class="row" id="cfp">
   <div class="col-xs-12">
     <h2>Call for Papers</h2>
@@ -134,68 +184,8 @@ acknowledgements: ""
 </div>
 
 
-<br>
-<div class="row" id="accepted">
-  <div class="col-md-12">
-    <h2>Accepted Papers</h2>
-    <p>
-      TBA.
-    </p>
-  </div>
-</div>
-
 
 <br>
-<div class="row" id="speakers">
-  <div class="col-xs-12">
-    <h2>Invited Speakers</h2>
-  </div>
-</div><br>
-
-
-<!-- 26 -->
-<div class="row">
-  <div class="col-md-12">
-    <a href="https://www.simonsfoundation.org/team/shirley-ho/"><img class="people-pic-big" style="float:left;margin-right:30px;" src="{{ "/static/img/speakers/shirley.png" | prepend:site.baseurl }}"></a>
-    <p>
-      <b><a href="https://www.simonsfoundation.org/team/shirley-ho/">Shirley Ho</a></b> is Leader of the Cosmology X Data Science group at the Center for Computational Astrophysics (CCA), Flatiron Institute. Her research interests range from fundamental cosmological measurements to exoplanet statistics to using machine learning to estimate how much dark matter is in the universe. Her goal is to understand the universe’s beginning, evolution and its ultimate fate. Recently she has been developing novel tools using machine learning to solve astrophysical challenges. Shirley plans, builds and analyzes data from a number of astronomical surveys such as Actacama Cosmology Telescope, Euclid, the Large Synoptic Survey Telescope, Simons Observatory, Sloan Digital Sky Survey and the Wide Field Infrared Survey Telescope. She has broad expertise in theory, observation and data science, and her significant experience on machine learning for cosmology will deliver plenty of insights to the CVPR audience. Shirley earned her Ph.D. in astrophysical sciences from Princeton in 2008 and her bachelor’s degrees in computer science and physics from the UC Berkeley in 2004. She was a Chamberlain fellow and a Seaborg fellow at Lawrence Berkeley National Laboratory before joining CMU in 2011 as an assistant professor. She became the Cooper Siegel Career Development Chair Professor and was appointed associate professor with tenure in 2016. She moved to Lawrence Berkeley Lab as a Senior Scientist in 2016. Since 2011, she has been a primary mentor to more than 15 postdoctoral fellows, six graduate students and 14 undergraduates.
-    </p>
-  </div>
-</div><br>
-
-<!-- 24 -->
-<div class="row">
-  <div class="col-md-12">
-    <a href="https://www.linkedin.com/in/courtneymario"><img class="people-pic-big" style="float:left;margin-right:30px;" src="{{ "/static/img/speakers/courtney.png" | prepend:site.baseurl }}"></a>
-    <p>
-      <b><a href="https://www.linkedin.com/in/courtneymario">Courtney Mario</a></b> is a Principal Member of the Technical Staff at The Charles Stark Draper Laboratory (Draper Lab) in the Perception and Autonomy Group. Draper Lab is a not-for-profit R&D organization headquartered in Cambridge, Massachusetts. The lab specializes in the design, development, and deployment of advanced technology solutions to problems in space exploration, health care and energy. She is currently a member of the Natural Feature Tracking team for OSIRIS-REx (NASA’s asteroid sample return mission) and is also leading the algorithm development for Draper’s lunar precision landing capability. Prior work has included developing vision-inertial systems for GPS-denied applications for ground vehicles, UAVs, and pedestrians. Courtney has over 9 years of experience in vision navigation systems for GPS-denied environments, and the lessons she has learnt on the challenges of visual navigation in the space environment will be extremely beneficial to the CVPR community. Courtney earned a Bachelor’s degree (graduated Magna Cum Laude) and Master’s degree in mechanical engineering, both from Tufts University.
-    </p>
-  </div>
-</div><br>
-
-<!-- 23 -->
-<div class="row">
-  <div class="col-md-12">
-    <a href="https://www.esa.int/gsp/ACT/team/dario_izzo/"><img class="people-pic-big" style="float:left;margin-right:30px;" src="{{ "/static/img/speakers/dario.png" | prepend:site.baseurl }}"></a>
-    <p>
-      <b><a href="https://www.esa.int/gsp/ACT/team/dario_izzo/">Dario Izzo</a></b> is the Scientific Coordinator of the Advanced Concepts Team (ACT) at ESA, where he coordinates all the scientific activities of the ACT and manages the interface of the ACT to the rest of ESA. Dario is a major proponent of AI and champion of deep neural networks to solve space problems. He led studies in interplanetary trajectory design using AI and was responsible for starting the Global Trajectory Optimization Competitions events, the ESA’s Summer of Code in Space, and the Kelvins competition platform which brings together AI and space researchers. At the proposed workshop, Dario will be sharing his expertise and experience on AI algorithms for spacecraft guidance dynamics and control. Dario has published more than 150 papers in journals, conferences and books. In 2013, he received the Humies Gold Medal for the work on grand tours of the galilean moons and, the following year, he won the 8th edition of the Global Trajectory Optimization Competition, organized by NASA/JPL, leading a mixed team of ESA/JAXA scientists. Dario graduated in Aeronautical Engineering from the University Sapienza of Rome in 1999. He later obtained a second master in “Satellite Platforms” at the University of Cranfield in the UK and a Ph.D. in Mathematical Modelling in 2003, at the University Sapienza of Rome where he had the honour to assist Prof. Chiara Valente throughout the classical mechanics and space flight mechanics courses during the academic years 2001-2003.
-    </p>
-  </div>
-</div><br>
-
-<!-- 16 -->
-<div class="row">
-  <div class="col-md-12">
-    <a href="https://www.surrey.ac.uk/people/yang-gao"><img class="people-pic-big" style="float:left;margin-right:30px;" src="{{ "/static/img/speakers/yang.jpg" | prepend:site.baseurl }}"></a>
-    <p>
-      <b><a href="https://www.surrey.ac.uk/people/yang-gao">Yang Gao</a></b> is the Professor of Space Autonomous Systems at Surrey Space Centre (SSC) and the Head of the STAR LAB which specializes in visual sensing and navigation in extreme environments. She has 20 years of research experience in developing robotics and autonomous systems, and has been funded by UK Research Innovation, Royal Academy of Engineering, European Commission, European Space Agency, UK Space Agency, as well as industrial companies such as Airbus, NEPTEC, Sellafield and OHB. Yang is also actively involved in the R&D real-world space missions, e.g., ESA's ExoMars, Proba3 and LUCE-ice mapper, UK's MoonLITE/Moonraker, and China's Chang'E 3. Her expertise in solving real-world space visual navigation problems will be of significant interest to the CVPR audience. Yang is an Elected Fellow of Institute of Engineering and Technology (IET) and Royal Aeronautical Society (RAeS). Her research work led to international acclaim, such as International Astronautical Federation’s 3AF Edmond Brun Silver Medal in 2013, COSPAR's Outstanding Paper Award in 2016, First Prize of UKSEDS Lunar Rover Competition in 2017, Finalist of IEEE/ASME's AIM Best Paper Award 2019 and First Prize of Best Poster Award at ICRA 2020 Space Robotics Workshop. Prior to joining SSC in 2004, Yang was an awardee of the prestigious Singapore Millennium Foundation (SMF) Postdoctoral Fellowship and worked on intelligent and autonomous vehicles. She gained the B.Eng. and Ph.D. degrees from the Nanyang Technological University in 2000 and 2003 respectively.
-    </p>
-  </div>
-</div><br>
-
-
-
-
 <div class="row" id="organizers">
   <div class="col-xs-12">
     <h2>Organizers</h2>
@@ -279,6 +269,15 @@ acknowledgements: ""
   </div>
 </div>
 
+<br>
+<div class="row" id="sponsors">
+  <div class="col-md-12">
+    <h2>Sponsors</h2>
+    <p>
+      TBA.
+    </p>
+  </div>
+</div>
 
 <hr>
 
