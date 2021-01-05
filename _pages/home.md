@@ -130,14 +130,11 @@ acknowledgements: ""
       <li>Datasets, transfer learning and domain gap for space problems.</li>
     </ul>
     <p>
-      <span style="font-weight:500;">Submission:</span> TBA
-      <!--we encourage submissions of up to 6 pages excluding references and acknowledgements.
-      The submission should be in the CVPR format.
-      Reviewing will be single blind.
-      Accepted works will be published in the CVPR 2020 proceedings (online/app, IEEE Xplore, and CVF open access).
-      Due to the archival nature of these publications, we are looking for work that has not been published before.
-      The submissions will be handled by the <a href='https://cmt3.research.microsoft.com/L3DGM2020'>CMT paper management system</a>.  -->
-      <!--Please submit your paper to the following address by the deadline: <span style="color:#1a1aff;font-weight:400;"><a href="mailto:learn3dgen@gmail.com">learn3dgen@gmail.com</a></span>-->
+      <span style="font-weight:500;">Submission:</span>
+      Submissions should be in the <a href="http://cvpr2021.thecvf.com/sites/default/files/2020-09/cvpr2021AuthorKit_2.zip">CVPR format</a> and are limited to 8 pages excluding reference.
+      Please refer to the main conference's <a href="http://cvpr2021.thecvf.com/node/33#submission-guidelines">submission guildlines</a> for more details. 
+      Accepted works will be published in the CVPR 2021 proceedings (online/app, IEEE Xplore, and CVF open access).
+      The submissions will be handled by the CMT paper management system (link to be anounced). 
     </p>
   </div>
 </div><br>
