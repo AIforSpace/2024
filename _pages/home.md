@@ -19,10 +19,10 @@ acknowledgements: ""
     <br>
     <br>
     <br>
+    <br>
     <center><h3 style="color:white">1st Workshop on AI for Space</h3></center>
     <center><h3 style="color:white">In conjunction with <a href="http://cvpr2021.thecvf.com/">CVPR 2021</a></h3></center>    
     <!-- <center><span style="font-weight:400;">14th of June 2020</span></center> -->
-    <br>
   </div>
 </div>
 
@@ -131,7 +131,8 @@ acknowledgements: ""
     </ul>
     <p>
       <span style="font-weight:500;">Submission:</span>
-      Submissions should be in the <a href="http://cvpr2021.thecvf.com/sites/default/files/2020-09/cvpr2021AuthorKit_2.zip" download="cvpr2021AuthorKit_2" target="_blank">CVPR format</a> and are limited to 8 pages excluding reference.
+      Submissions should be in the CVPR format and are limited to 8 pages excluding reference.
+      Please use the <a href="/static/cvpr2021AuthorKit_2.zip" download>template</a> files for detailed formatting instructions.
       Please refer to the main conference's <a href="http://cvpr2021.thecvf.com/node/33#submission-guidelines">submission guildlines</a> for more details. 
       Accepted works will be published in the CVPR 2021 proceedings (online/app, IEEE Xplore, and CVF open access).
       The submissions will be handled by the CMT paper management system (link to be anounced). 
