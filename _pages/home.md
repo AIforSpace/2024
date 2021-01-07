@@ -55,7 +55,7 @@ acknowledgements: ""
     </p>
   
   <p style="font-size:30px">
-  <a href="#cfp">Call for papers</a>
+  <blink><a href="#cfp">Call for papers</a></blink>
   </p>
   </div>
 </div> 
