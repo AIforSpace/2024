@@ -114,6 +114,10 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
+      We solicit papers for AI4Space. Papers will be fully peer reviewed, and accepted papers will be published in the proceedings of CVPR Workshops. Authors of accepted papers will also be invited to present virtually at the workshop at CVPR 2021 (virtual).
+      </p>
+      
+      <p>
       The general emphasis of AI4Space is vision and learning algorithms in off-Earth environments, including in the orbital region, surface and underground environments on other planetary bodies (e.g., the moon, Mars and asteroids), interplanetary space and solar system, and distant galaxies. Target application areas include autonomous spacecraft, space robotics, space traffic management, astronomy, astrobiology and cosmology. Emphasis is also placed on novel sensors and processing hardware for vision and learning in space, mitigating the challenges of the space environment towards vision and learning (e.g., solar radiation, extreme temperatures), and solving practical difficulties in vision and learning for space (e.g., lack of training data, unknown or partially known characteristics of operating environments).
     </p>
     A specific list of topics is as follows:
@@ -129,6 +133,9 @@ acknowledgements: ""
       <li>Mitigating challenges of the space environment to vision and learning.</li>
       <li>Datasets, transfer learning and domain gap for space problems.</li>
     </ul>
+    <p>
+    <span style="font-weight:500;">Peaceful usage of AI for space:</span> All papers published via this workshop must be aimed towards the peaceful usage of AI for space.
+    </p>
     <p>
       <span style="font-weight:500;">Submission:</span>
       Submissions should be in the CVPR format and are limited to 8 pages excluding reference.
