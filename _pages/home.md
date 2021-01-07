@@ -54,7 +54,7 @@ acknowledgements: ""
     </ul>
     </p>
   
-  <p style="font-size:20">
+  <p style="font-size:20px">
   <a href="#cfp">Call for papers</a>
   </p>
   </div>
