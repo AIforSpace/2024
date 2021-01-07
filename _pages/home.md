@@ -40,7 +40,7 @@ acknowledgements: ""
 
 <div class="row" id="intro">
   <div class="col-xs-12">
-    <center><h2 style="font-size:40px"><a href="#cfp">Call for papers</a></h2></center>
+    <center><h2 style="font-size:40px"><a href="#cfp">Call for Papers</a></h2></center>
   </div>
 </div>
 
