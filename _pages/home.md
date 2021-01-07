@@ -41,7 +41,7 @@ acknowledgements: ""
 <div class="row" id="intro">
   <div class="col-xs-12">
     <center><h2 style="font-size:40px"><a href="#cfp">Call for Papers</a></h2></center>
-    <center><h3 style="font-size:10px">Submission Deadline: 11:59pm 6 Mar 2021 (PST)</h3></center>    
+    <center><h3 style="font-size:15px">Submission Deadline: 11:59pm 6 Mar 2021 (PST)</h3></center>    
   </div>
 </div>
 
