@@ -39,11 +39,11 @@ acknowledgements: ""
 
 <div class="row" id="intro">
   <div class="col-xs-12">
-    <center>
   <p style="font-size:30px">
-    <blink><b><a href="#cfp">Call for papers</a></b></blink>
-  </p>
+    <center>
+    <b><a href="#cfp">Call for papers</a></b>
 </center>
+  </p>
   </div>
 </div>
 
