@@ -53,6 +53,10 @@ acknowledgements: ""
       <li><a href='#schedule'>Presentations</a> of recent work on vision and learning with a space focus.</li>
     </ul>
     </p>
+  
+  <p>
+  <a href="#cfp">Call for papers</a>
+  </p>
   </div>
 </div> 
 
