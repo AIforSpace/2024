@@ -36,6 +36,17 @@ acknowledgements: ""
 </div> -->
 
 <br>
+
+<div class="row" id="intro">
+  <div class="col-xs-12">
+    <center>
+  <p style="font-size:30px">
+    <blink><b><a href="#cfp">Call for papers</a></b></blink>
+  </p>
+</center>
+  </div>
+</div>
+
 <div class="row" id="intro">
   <div class="col-xs-12">
     <h2>Introduction</h2>
@@ -53,11 +64,7 @@ acknowledgements: ""
       <li><a href='#schedule'>Presentations</a> of recent work on vision and learning with a space focus.</li>
     </ul>
     </p>
-  
-  <p style="font-size:30px">
-  <blink><a href="#cfp">Call for papers</a></blink>
-  </p>
-  </div>
+    </div>
 </div> 
 
 
