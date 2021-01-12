@@ -3,7 +3,7 @@ layout: project
 urltitle:  "AI4Space 2021"
 title: "AI4Space 2021"
 categories: cvpr, workshop, artificial intelligence, computer vision, space 
-permalink: /2021
+permalink: /
 favicon: /static/img/ico/favicon.png
 bibtex: true
 paper: true
