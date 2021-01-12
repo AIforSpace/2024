@@ -123,7 +123,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-      We solicit papers for AI4Space. Papers will be fully peer reviewed, and accepted papers will be published in the proceedings of CVPR Workshops. Authors of accepted papers will also be invited to present virtually at the workshop at CVPR 2021 (virtual).
+      We solicit papers for AI4Space. Papers will be fully peer reviewed, and accepted papers will be published in the proceedings of CVPR Workshops. Authors of accepted papers will also be invited to present at the workshop at CVPR 2021 (virtual).
       </p>
       
       <p>
@@ -131,16 +131,16 @@ acknowledgements: ""
     </p>
     A specific list of topics is as follows:
     <ul>
-      <li>Visual navigation for spacecraft operations (including close proximity rendezvous, docking, space maneuvers, pose estimation, entry descent landing).</li>
-      <li>Vision and learning for space robotics.</li>
-      <li>Positioning, mapping and SLAM for the moon and Mars.</li>
-      <li>Autonomous celestial positioning.</li>
-      <li>Space debris monitoring and mitigation.</li>
-      <li>Vision and learning for astronomy, astrobiology and cosmology.</li>
-      <li>Sensors for space applications (e.g., optical, multispectral, lidar, radar, event-based).</li>
-      <li>Processing hardware for vision and learning in space, including satellite on-board processing.</li>
-      <li>Mitigating challenges of the space environment to vision and learning.</li>
-      <li>Datasets, transfer learning and domain gap for space problems.</li>
+      <li>Visual navigation for spacecraft operations (including close proximity rendezvous, docking, space maneuvers, pose estimation, entry descent landing)</li>
+      <li>Vision and learning for space robotics</li>
+      <li>Positioning, mapping and SLAM for the moon and Mars</li>
+      <li>Autonomous celestial positioning</li>
+      <li>Space debris monitoring and mitigation</li>
+      <li>Vision and learning for astronomy, astrobiology and cosmology</li>
+      <li>Sensors for space applications (e.g., optical, multispectral, lidar, radar, event-based)</li>
+      <li>Processing hardware for vision and learning in space, including satellite on-board processing</li>
+      <li>Mitigating challenges of the space environment to vision and learning</li>
+      <li>Datasets, transfer learning and domain gap for space problems</li>
     </ul>
     <p>
     <span style="font-weight:500;">Peaceful usage of AI for space:</span> All papers published via this workshop must be aimed towards the peaceful usage of AI for space.
