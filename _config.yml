@@ -2,7 +2,7 @@ title: AI4Space 2021
 email: bo.chen@adelaide.edu.au
 description: Website for the Workshop on AI for Space at CVPR 2021
   ---
-baseurl: "https://aiforspace.github.io/2021" # the subpath of your site, e.g. /blog
+baseurl: "/2021" # the subpath of your site, e.g. /blog
 
 # Build settings
 markdown: kramdown
