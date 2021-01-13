@@ -137,6 +137,7 @@ acknowledgements: ""
       <li>Space debris monitoring and mitigation</li>
       <li>Vision and learning for astronomy, astrobiology and cosmology</li>
       <li>Sensors for space applications (e.g., optical, multispectral, lidar, radar, event-based)</li>
+      <li>AI and learning-based satellite communications and IOT</li>
       <li>Processing hardware for vision and learning in space, including satellite on-board processing</li>
       <li>Mitigating challenges of the space environment to vision and learning</li>
       <li>Datasets, transfer learning and domain gap for space problems</li>
