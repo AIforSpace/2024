@@ -151,7 +151,10 @@ acknowledgements: ""
       Use the <a href="/2021/static/cvpr2021AuthorKit_2.zip" download>template</a> files for detailed formatting instructions.
       Please refer to the main conference's <a href="http://cvpr2021.thecvf.com/node/33#submission-guidelines">submission guildlines</a> for more details. 
       Accepted works will be published in the CVPR 2021 proceedings (online/app, IEEE Xplore, and CVF open access).
-      The submissions will be handled by the CMT paper management system (link to be anounced). 
+    </p>  
+      
+    <p>  
+      <a href="https://cmt3.research.microsoft.com/AI4Space2021">Submit your paper</a>. 
     </p>
   </div>
 </div><br>
