@@ -293,6 +293,43 @@ acknowledgements: ""
 <br>
 <div class="row" id="sponsors">
   <div class="col-md-12">
+    <h2>Program Committee</h2>
+    <p>
+    <ul>
+      <li>Alina Bialkowski, The University of Queensland</li>
+      <li>Alvaro Parra, The University of Adelaide</li>
+      <li>Anne Mergy, European Space Agency</li>
+      <li>Artur Nowakowski, European Space Agency</li>
+      <li>Binfeng Pan, Northwestern Polytechnical University</li>
+      <li>Bo Chen, The University of Adelaide</li>
+      <li>Cesar Cadena, ETH Zurich</li>
+      <li>Dawa Derksen, European Space Agency</li>
+      <li>Diego Valsesia, Politecnico di Torino</li>
+      <li>Gabriele Meoni, European Space Agency</li>
+      <li>Giovanni Beltrame, Polytechnique de Montreal</li>
+      <li>Gurvan Lecuyer, European Space Agency</li>
+      <li>Heng Yang, Massachusetts Institute of Technology</li>
+      <li>Huangying Zhan, The University of Adelaide</li>
+      <li>Jan Dirk Wegner, ETH Zurich</li>
+      <li>Jonathan Kelly, University of Toronto</li>
+      <li>Joseph O'Leary, EOS Systems</li>
+      <li>Laura Henderson,	DRAPER</li>
+      <li>Marrie Farrel, University of Manchester</li>
+      <li>Michele Sasdelli, The University of Adelaide</li>
+      <li>Moritz Von Looz, European Space Agency</li>
+      <li>Peyman Moghadam, CSIRO</li>
+      <li>Rasit Abay, UNSW</li>
+      <li>Viorela Ila, The University of Sydney</li>
+      <li>Yasir Latif, The University of Adelaide</li>      
+    </ul>
+    </p>
+  </div>
+</div>
+
+
+<br>
+<div class="row" id="sponsors">
+  <div class="col-md-12">
     <h2>Sponsors</h2>
     <p>
       TBA.
