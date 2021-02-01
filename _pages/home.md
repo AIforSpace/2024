@@ -128,6 +128,7 @@ acknowledgements: ""
       <p>
       The general emphasis of AI4Space is vision and learning algorithms in off-Earth environments, including in the orbital region, surface and underground environments on other planetary bodies (e.g., the moon, Mars and asteroids), interplanetary space and solar system, and distant galaxies. Target application areas include autonomous spacecraft, space robotics, space traffic management, astronomy, astrobiology and cosmology. Emphasis is also placed on novel sensors and processing hardware for vision and learning in space, mitigating the challenges of the space environment towards vision and learning (e.g., solar radiation, extreme temperatures), and solving practical difficulties in vision and learning for space (e.g., lack of training data, unknown or partially known characteristics of operating environments).
     </p>
+    <p>
     A specific list of topics is as follows:
     <ul>
       <li>Visual navigation for spacecraft operations (including close proximity rendezvous, docking, space maneuvers, pose estimation, entry descent landing)</li>
@@ -142,6 +143,8 @@ acknowledgements: ""
       <li>Mitigating challenges of the space environment to vision and learning</li>
       <li>Datasets, transfer learning and domain gap for space problems</li>
     </ul>
+  Accepted works will be published in the CVPR 2021 proceedings (online/app, IEEE Xplore, and CVF open access).
+    </p>
     <p>
     <span style="font-weight:500;">Peaceful usage of AI for space:</span> All papers published via this workshop must be aimed towards the peaceful usage of AI for space.
     </p>
@@ -149,9 +152,17 @@ acknowledgements: ""
       <span style="font-weight:500;">Submission:</span>
       Submissions should be in the CVPR format and are limited to 8 pages excluding reference.
       Use the <a href="/2021/static/cvpr2021AuthorKit_2.zip" download>template</a> files for detailed formatting instructions.
-      Please refer to the main conference's <a href="http://cvpr2021.thecvf.com/node/33#submission-guidelines">submission guildlines</a> for more details. 
-      Accepted works will be published in the CVPR 2021 proceedings (online/app, IEEE Xplore, and CVF open access).
-    </p>  
+      Please refer to the main conference's <a href="http://cvpr2021.thecvf.com/node/33#submission-guidelines">submission guildelines</a> for more details. 
+
+    </p>
+    
+    <h3>Submission</h3>
+    
+    <p>
+      Submissions should be in the CVPR format and are limited to 8 pages excluding reference.
+      Use the <a href="/2021/static/cvpr2021AuthorKit_2.zip" download>template</a> files for detailed formatting instructions.
+      Please refer to the main conference's <a href="http://cvpr2021.thecvf.com/node/33#submission-guidelines">submission guildelines</a> for more details. 
+      </p>
       
     <p>  
       <a href="https://cmt3.research.microsoft.com/AI4Space2021">Submit your paper</a>. 
