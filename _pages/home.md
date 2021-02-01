@@ -295,7 +295,7 @@ acknowledgements: ""
 </div>
 
 <br>
-<div class="row" id="sponsors">
+<div class="row" id="PCs">
   <div class="col-md-12">
     <h2>Program Committee</h2>
     <p>
