@@ -143,29 +143,18 @@ acknowledgements: ""
       <li>Mitigating challenges of the space environment to vision and learning</li>
       <li>Datasets, transfer learning and domain gap for space problems</li>
     </ul>
-  Accepted works will be published in the CVPR 2021 proceedings (online/app, IEEE Xplore, and CVF open access).
     </p>
     <p>
     <span style="font-weight:500;">Peaceful usage of AI for space:</span> All papers published via this workshop must be aimed towards the peaceful usage of AI for space.
     </p>
+    <h3>Submission</h3>  
     <p>
-      <span style="font-weight:500;">Submission:</span>
       Submissions should be in the CVPR format and are limited to 8 pages excluding reference.
       Use the <a href="/2021/static/cvpr2021AuthorKit_2.zip" download>template</a> files for detailed formatting instructions.
-      Please refer to the main conference's <a href="http://cvpr2021.thecvf.com/node/33#submission-guidelines">submission guildelines</a> for more details. 
-
+      Please refer to the main conference's <a href="http://cvpr2021.thecvf.com/node/33#submission-guidelines">submission guildelines</a> for more details. Accepted works will be published in the CVPR 2021 proceedings (online/app, IEEE Xplore, and CVF open access).
     </p>
-    
-    <h3>Submission</h3>
-    
-    <p>
-      Submissions should be in the CVPR format and are limited to 8 pages excluding reference.
-      Use the <a href="/2021/static/cvpr2021AuthorKit_2.zip" download>template</a> files for detailed formatting instructions.
-      Please refer to the main conference's <a href="http://cvpr2021.thecvf.com/node/33#submission-guidelines">submission guildelines</a> for more details. 
-      </p>
-      
     <p>  
-      <a href="https://cmt3.research.microsoft.com/AI4Space2021">Submit your paper</a>. 
+      <a href="https://cmt3.research.microsoft.com/AI4Space2021">Submit your paper via the CMT3 submission system</a>. 
     </p>
   </div>
 </div><br>
