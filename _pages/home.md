@@ -175,7 +175,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>Notification to Authors</td>
-          <td>13 Apr 2021.</td>
+          <td>13 Apr 2021</td>
         </tr>
         <tr>
           <td>Camera-Ready Deadline</td>
