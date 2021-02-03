@@ -324,7 +324,7 @@ acknowledgements: ""
       <li>Peyman Moghadam, CSIRO</li>
       <li>Rasit Abay, UNSW</li>
       <li>Simone D'Amico, Stanford</li>
-      <li>SumantSharma, Stanford</li>
+      <li>Sumant Sharma, Stanford</li>
       <li>Viorela Ila, The University of Sydney</li>
       <li>Yasir Latif, The University of Adelaide</li>      
     </ul>
