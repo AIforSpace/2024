@@ -318,7 +318,7 @@ acknowledgements: ""
       <li>Jonathan Kelly, University of Toronto</li>
       <li>Joseph O'Leary, EOS Systems</li>
       <li>Laura Henderson,	DRAPER</li>
-      <li>Marrie Farrel, University of Manchester</li>
+      <li>Marie Farrel, Maynooth University</li>
       <li>Michele Sasdelli, The University of Adelaide</li>
       <li>Moritz Von Looz, European Space Agency</li>
       <li>Peyman Moghadam, CSIRO</li>
