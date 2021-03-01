@@ -340,11 +340,24 @@ acknowledgements: ""
   </div>
 </div>
 
+
 <div class="row">
+
 <div class="col-xs-3">
     <img src="{{ "/static/img/sponsors/blackswan.png" | prepend:site.baseurl }}">
     <a href="https://lt.linkedin.com/company/blackswanspace/">Blackswan Technologies</a> is making satellites autonomous. The company’s products are designed to manage the expected ten-fold increase in space traffic in the coming years by lowering collision risk, reducing costs of operations and expanding the range of autonomous activities in orbit. Our ultimate goal is to help build a self sustaining market economy where complex tasks such as debris removal, on-orbit servicing and construction can be performed by using autonomous satellites
 </div>
+
+<div class="col-xs-3">
+    <img src="{{ "/static/img/sponsors/asa.jpg" | prepend:site.baseurl }}">
+    The <a href="https://www.space.gov.au/">Australian Space Agency</a> will transform and grow a globally respected Australian space industry that lifts the broader economy, inspires and improves the lives of Australians – underpinned by strong international and national engagement.
+</div>
+
+<div class="col-xs-3">
+    <img src="{{ "/static/img/sponsors/smartsat_crc.jpg" | prepend:site.baseurl }}">
+    The <a href="https://smartsatcrc.com/">SmartSat CRC</a> is a consortium of universities and other research organisations, partnered with industry that has been funded by the Australian Government to develop know-how and technologies in advanced telecommunications and IoT connectivity, intelligent satellite systems and Earth observation next generation data services. The impact of this research will be to develop intellectual property and a specialist industry expertise that will spawn new businesses, create export economic value and generate new high-tech jobs for all Australians.
+</div>
+
 </div>
 
 <hr>
