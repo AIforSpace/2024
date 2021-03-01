@@ -349,12 +349,12 @@ acknowledgements: ""
 </div>
 
 <div class="col-xs-3">
-    <img src="{{ "/static/img/sponsors/asa.jpg" | prepend:site.baseurl }}">
+    <img src="{{ "/static/img/sponsors/asa.png" | prepend:site.baseurl }}">
     The <a href="https://www.space.gov.au/">Australian Space Agency</a> will transform and grow a globally respected Australian space industry that lifts the broader economy, inspires and improves the lives of Australians – underpinned by strong international and national engagement.
 </div>
 
 <div class="col-xs-3">
-    <img src="{{ "/static/img/sponsors/smartsat_crc.jpg" | prepend:site.baseurl }}">
+    <img src="{{ "/static/img/sponsors/smartsat_crc.png" | prepend:site.baseurl }}">
     The <a href="https://smartsatcrc.com/">SmartSat CRC</a> is a consortium of universities and other research organisations, partnered with industry that has been funded by the Australian Government to develop know-how and technologies in advanced telecommunications and IoT connectivity, intelligent satellite systems and Earth observation next generation data services. The impact of this research will be to develop intellectual property and a specialist industry expertise that will spawn new businesses, create export economic value and generate new high-tech jobs for all Australians.
 </div>
 
