@@ -337,10 +337,18 @@ acknowledgements: ""
 <div class="row" id="sponsors">
   <div class="col-md-12">
     <h2>Sponsors</h2>
-    <p>
-      TBA.
-    </p>
   </div>
+</div>
+
+<div class="row">
+<div class="col-md-12">
+  <a href="https://lt.linkedin.com/company/blackswanspace/">
+    <img class="people-pic-big" src="{{ "/static/img/sponsors/blackswan.png" | prepend:site.baseurl }}">
+  </a>
+  <div class="people-name">
+    <a href="https://lt.linkedin.com/company/blackswanspace/">Blackswan Technologies</a> is making satellites autonomous. The company’s products are designed to manage the expected ten-fold increase in space traffic in the coming years by lowering collision risk, reducing costs of operations and expanding the range of autonomous activities in orbit. Our ultimate goal is to help build a self sustaining market economy where complex tasks such as debris removal, on-orbit servicing and construction can be performed by using autonomous satellites
+  </div>
+</div>
 </div>
 
 <hr>
