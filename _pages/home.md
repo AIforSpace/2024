@@ -64,7 +64,7 @@ acknowledgements: ""
     </ul>
     </p>
     <p>
-    Sponsors
+  <h3>Sponsors and affiliated organisations</h3>
     <div class="col-xs-2">
         <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/blackswan.png" | prepend:site.baseurl }}"></a>
     </div>
