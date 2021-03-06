@@ -78,6 +78,16 @@ acknowledgements: ""
     <div class="col-xs-2">
         <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/smartsat_crc.png" | prepend:site.baseurl }}"></a>
     </div>
+    <div class="col-xs-1">
+    </div>
+    <div class="col-xs-2">
+        <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/esa.png" | prepend:site.baseurl }}"></a>
+    </div>
+    </p>
+    <p>
+    <div class="col-xs-2">
+        <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/act.jpg" | prepend:site.baseurl }}"></a>
+    </div>
     </p>
     </div>
 </div> 
