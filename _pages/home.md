@@ -65,15 +65,16 @@ acknowledgements: ""
         </p>
   </div>
 </div> 
+
 <div class="row">
     <div class="col-xs-6">
         <p>
             <h3>Sponsors</h3>
         </p>
-        <div class="col-xs-3">
+        <div class="col-xs-6">
             <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/blackswan.png" | prepend:site.baseurl }}"></a>
         </div>
-        <div class="col-xs-3">
+        <div class="col-xs-6">
             <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/asa.png" | prepend:site.baseurl }}"></a>
         </div>
     </div>
@@ -82,10 +83,10 @@ acknowledgements: ""
             <h3>Sponsors</h3>
         </p>
         <p>
-            <div class="col-xs-2">
+            <div class="col-xs-4">
                 <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/blackswan.png" | prepend:site.baseurl }}"></a>
             </div>
-            <div class="col-xs-1">
+            <div class="col-xs-2">
             </div>
         </p>
     </div>
