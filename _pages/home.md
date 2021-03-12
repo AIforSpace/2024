@@ -67,7 +67,7 @@ acknowledgements: ""
 </div> 
 
 <div class="row">
-    <div class="col-xs-5">
+    <div class="col-xs-4">
         <p>
             <h3>Sponsors</h3>
         </p>
@@ -78,11 +78,10 @@ acknowledgements: ""
             <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/blackswan.png" | prepend:site.baseurl }}"></a>
         </div>
     </div>
-    <div class="col-xs-7">
+    <div class="col-xs-8">
          <p>
             <h3>Affiliated organisations</h3>
          </p>
-         <br>
          <p>
              <div class="col-xs-3">
                  <a href="#sponsors"><img class="people-pic" src="{{ "/static/img/sponsors/asa.png" | prepend:site.baseurl }}"></a>
@@ -378,9 +377,14 @@ acknowledgements: ""
 
 <div class="row">
 
-<div class="col-xs-3">
+<div class="col-xs-6">
+    <a href="https://www.draper.com/"><img class="people-pic-big" src="{{ "/static/img/sponsors/draper.png" | prepend:site.baseurl }}"></a> 
+    At <a href="https://www.draper.com/">Draper</a>, we believe exciting things happen when we combine our diverse disciplines to imagine and create new solutions. From whiteboard concept to fielded systems, Draper engineers design, develop and deploy advanced technology solutions for the world’s most difficult and important problems. More than a thousand engineers and scientists — experts in fields ranging from GN&C to microfabrication — bring a multidisciplinary advantage to system design. The breadth and depth of our expertise enable us to take on almost any challenge. By building and field-testing working prototypes we accelerate design iterations. We can complete small production runs, license our intellectual property and transition technology for large-volume production. We provide full life-cycle support, including technology refresh. We provide engineering services directly to government, commercial companies and academia; work on teams as prime contractor or subcontractor; and participate as a collaborator in consortia. As a not-for-profit engineering innovation company, we provide unbiased assessments of technology or systems designed or recommended by other organizations — whether custom-designed or commercial-off-the-shelf.
+</div>
+
+<div class="col-xs-6">
     <a href="https://lt.linkedin.com/company/blackswanspace/"><img class="people-pic-big" src="{{ "/static/img/sponsors/blackswan.png" | prepend:site.baseurl }}"></a> 
-    <a href="https://lt.linkedin.com/company/blackswanspace/">Blackswan Technologies</a> is making satellites autonomous. The company’s products are designed to manage the expected ten-fold increase in space traffic in the coming years by lowering collision risk, reducing costs of operations and expanding the range of autonomous activities in orbit. Our ultimate goal is to help build a self sustaining market economy where complex tasks such as debris removal, on-orbit servicing and construction can be performed by using autonomous satellites
+    <a href="https://lt.linkedin.com/company/blackswanspace/">Blackswan Technologies</a> is making satellites autonomous. The company’s products are designed to manage the expected ten-fold increase in space traffic in the coming years by lowering collision risk, reducing costs of operations and expanding the range of autonomous activities in orbit. Our ultimate goal is to help build a self sustaining market economy where complex tasks such as debris removal, on-orbit servicing and construction can be performed by using autonomous satellites.
 </div>
 
 </div>
