@@ -67,7 +67,7 @@ acknowledgements: ""
 </div> 
 
 <div class="row">
-    <div class="col-xs-6">
+    <div class="col-xs-5">
         <p>
             <h3>Sponsors</h3>
         </p>
@@ -78,7 +78,7 @@ acknowledgements: ""
             <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/blackswan.png" | prepend:site.baseurl }}"></a>
         </div>
     </div>
-    <div class="col-xs-6">
+    <div class="col-xs-7">
          <p>
             <h3>Affiliated organisations</h3>
          </p>
@@ -386,9 +386,9 @@ acknowledgements: ""
 
 
 <br>
-<div class="row" id="organizations">
+<div class="row" id="organisations">
   <div class="col-md-12">
-    <h2>Affiliated organizations</h2>
+    <h2>Affiliated organisations</h2>
   </div>
 </div>
 
