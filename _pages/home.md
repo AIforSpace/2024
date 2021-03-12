@@ -379,12 +379,8 @@ acknowledgements: ""
 
 <div class="col-xs-6">
     <p>
-        <div class="col-xs-3">
-        </div>
-        <div class="col-xs-6">
+        <div class="col-xs-12">
         <a href="https://www.draper.com/"><img class="people-pic-big" src="{{ "/static/img/sponsors/draper.png" | prepend:site.baseurl }}"></a> 
-        </div>
-        <div class="col-xs-3">
         </div>
     </p>
     <p>
