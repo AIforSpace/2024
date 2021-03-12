@@ -79,23 +79,6 @@ acknowledgements: ""
     <div class="col-xs-1">
     </p>
     </div>
-    <div class="col-xs-6">
-    <p>
-    <h3>Affiliated organisations</h3>
-    </p>
-    <p>
-    </div>
-    <div class="col-xs-2">
-        <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/smartsat_crc.png" | prepend:site.baseurl }}"></a>
-    </div>
-    <div class="col-xs-2">
-        <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/esa.png" | prepend:site.baseurl }}"></a>
-    </div>
-    <div class="col-xs-2">
-        <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/act.png" | prepend:site.baseurl }}"></a>
-    </div>
-    </p>
-    </div>
     </div>
 </div> 
 
