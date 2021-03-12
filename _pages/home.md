@@ -83,6 +83,9 @@ acknowledgements: ""
             <h3>Affiliated organisations</h3>
          </p>
          <p>
+            <br>
+         </p>
+         <p>
              <div class="col-xs-3">
                  <a href="#sponsors"><img class="people-pic" src="{{ "/static/img/sponsors/asa.png" | prepend:site.baseurl }}"></a>
              </div>
