@@ -71,10 +71,27 @@ acknowledgements: ""
             <h3>Sponsors</h3>
         </p>
         <p>
-            <div class="col-xs-3">
+            <div class="col-xs-2">
                 <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/blackswan.png" | prepend:site.baseurl }}"></a>
             </div>
-            <div class="col-xs-3">
+            <div class="col-xs-1">
+            </div>
+            <div class="col-xs-2">
+                <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/asa.png" | prepend:site.baseurl }}"></a>
+            </div>
+        </p>
+    </div>
+    <div class="col-xs-6">
+        <p>
+            <h3>Sponsors</h3>
+        </p>
+        <p>
+            <div class="col-xs-2">
+                <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/blackswan.png" | prepend:site.baseurl }}"></a>
+            </div>
+            <div class="col-xs-1">
+            </div>
+            <div class="col-xs-2">
                 <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/asa.png" | prepend:site.baseurl }}"></a>
             </div>
         </p>
