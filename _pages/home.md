@@ -63,8 +63,9 @@ acknowledgements: ""
       <li><a href='#schedule'>Presentations</a> of recent work on vision and learning with a space focus.</li>
     </ul>
     </p>
+    <div class="col-xs-6">
     <p>
-  <h3>Sponsors and affiliated organisations</h3>
+    <h3>Sponsors</h3>
     </p>
     <p>
     <div class="col-xs-2">
@@ -76,21 +77,25 @@ acknowledgements: ""
         <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/asa.png" | prepend:site.baseurl }}"></a>
     </div>
     <div class="col-xs-1">
+    </p>
+    </div>
+    <div class="col-xs-6">
+    <p>
+    <h3>Affiliated organisations</h3>
+    </p>
+    <p>
     </div>
     <div class="col-xs-2">
         <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/smartsat_crc.png" | prepend:site.baseurl }}"></a>
     </div>
-    <div class="col-xs-1">
-    </div>
     <div class="col-xs-2">
         <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/esa.png" | prepend:site.baseurl }}"></a>
     </div>
-    </p>
-    <p>
     <div class="col-xs-2">
         <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/act.png" | prepend:site.baseurl }}"></a>
     </div>
     </p>
+    </div>
     </div>
 </div> 
 
