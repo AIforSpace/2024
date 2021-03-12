@@ -379,7 +379,9 @@ acknowledgements: ""
 
 <div class="col-xs-6">
     <p>
-        <div class="col-xs-12">
+        <div class="col-xs-3">
+        </div>
+        <div class="col-xs-9">
         <a href="https://www.draper.com/"><img class="people-pic-big" src="{{ "/static/img/sponsors/draper.png" | prepend:site.baseurl }}"></a> 
         </div>
     </p>
@@ -392,10 +394,8 @@ acknowledgements: ""
     <p>
         <div class="col-xs-3">
         </div>
-        <div class="col-xs-6">
+        <div class="col-xs-9">
         <a href="https://lt.linkedin.com/company/blackswanspace/"><img class="people-pic-big" src="{{ "/static/img/sponsors/blackswan.png" | prepend:site.baseurl }}"></a> 
-        </div>
-        <div class="col-xs-3">
         </div>
     </p>
     <p>
