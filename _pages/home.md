@@ -84,16 +84,16 @@ acknowledgements: ""
          </p>
          <p>
              <div class="col-xs-3">
-                 <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/asa.png" | prepend:site.baseurl }}"></a>
+                 <a href="#sponsors"><img class="people-pic" src="{{ "/static/img/sponsors/asa.png" | prepend:site.baseurl }}"></a>
              </div>
              <div class="col-xs-3">
-                 <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/smartsat_crc.png" | prepend:site.baseurl }}"></a>
+                 <a href="#sponsors"><img class="people-pic" src="{{ "/static/img/sponsors/smartsat_crc.png" | prepend:site.baseurl }}"></a>
              </div>
              <div class="col-xs-3">
-                 <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/esa.png" | prepend:site.baseurl }}"></a>
+                 <a href="#sponsors"><img class="people-pic" src="{{ "/static/img/sponsors/esa.png" | prepend:site.baseurl }}"></a>
              </div>
              <div class="col-xs-3">
-                 <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/act.png" | prepend:site.baseurl }}"></a>
+                 <a href="#sponsors"><img class="people-pic" src="{{ "/static/img/sponsors/act.png" | prepend:site.baseurl }}"></a>
              </div>
          </p>
      </div>
