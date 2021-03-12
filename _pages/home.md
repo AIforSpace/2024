@@ -382,6 +382,18 @@ acknowledgements: ""
     <a href="https://lt.linkedin.com/company/blackswanspace/">Blackswan Technologies</a> is making satellites autonomous. The company’s products are designed to manage the expected ten-fold increase in space traffic in the coming years by lowering collision risk, reducing costs of operations and expanding the range of autonomous activities in orbit. Our ultimate goal is to help build a self sustaining market economy where complex tasks such as debris removal, on-orbit servicing and construction can be performed by using autonomous satellites
 </div>
 
+</div>
+
+
+<br>
+<div class="row" id="organizations">
+  <div class="col-md-12">
+    <h2>Affiliated organizations</h2>
+  </div>
+</div>
+
+<div class="row">
+
 <div class="col-xs-3">
     <a href="https://www.space.gov.au/"><img class="people-pic-big" src="{{ "/static/img/sponsors/asa.png" | prepend:site.baseurl }}"></a>
     The <a href="https://www.space.gov.au/">Australian Space Agency</a> will transform and grow a globally respected Australian space industry that lifts the broader economy, inspires and improves the lives of Australians – underpinned by strong international and national engagement.
@@ -396,10 +408,6 @@ acknowledgements: ""
     <a href="https://www.esa.int/"><img class="people-pic-big" src="{{ "/static/img/sponsors/esa.png" | prepend:site.baseurl }}"></a>
     The <a href="https://www.esa.int/">European Space Agency (ESA)</a> is Europe’s gateway to space. Its mission is to shape the development of Europe’s space capability and ensure that investment in space continues to deliver benefits to the citizens of Europe and the world.
 </div>
-
-</div>
-
-<div class="row">
 
 <div class="col-xs-3">
     <a href="https://www.esa.int/gsp/ACT/"><img class="people-pic-big" src="{{ "/static/img/sponsors/act.png" | prepend:site.baseurl }}"></a>
