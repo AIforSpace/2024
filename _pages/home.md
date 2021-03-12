@@ -63,21 +63,24 @@ acknowledgements: ""
               <li><a href='#schedule'>Presentations</a> of recent work on vision and learning with a space focus.</li>
             </ul>
         </p>
-        <div class="col-xs-6">
-            <p>
-                <h3>Sponsors</h3>
-            </p>
-            <p>
-                <div class="col-xs-3">
-                    <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/blackswan.png" | prepend:site.baseurl }}"></a>
-                </div>
-                <div class="col-xs-3">
-                    <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/asa.png" | prepend:site.baseurl }}"></a>
-                </div>
-            </p>
-        </div>
   </div>
 </div> 
+<div class="row">
+    <div class="col-xs-6">
+        <p>
+            <h3>Sponsors</h3>
+        </p>
+        <p>
+            <div class="col-xs-3">
+                <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/blackswan.png" | prepend:site.baseurl }}"></a>
+            </div>
+            <div class="col-xs-3">
+                <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/asa.png" | prepend:site.baseurl }}"></a>
+            </div>
+        </p>
+    </div>
+</div>
+
 
 
 <br>
