@@ -336,6 +336,7 @@ acknowledgements: ""
     <ul>
       <li>Alina Bialkowski, The University of Queensland</li>
       <li>Alvaro Parra, The University of Adelaide</li>
+      <li>Andrew Olguin, DRAPER</li>
       <li>Anne Mergy, European Space Agency</li>
       <li>Artur Nowakowski, European Space Agency</li>
       <li>Binfeng Pan, Northwestern Polytechnical University</li>
@@ -345,20 +346,22 @@ acknowledgements: ""
       <li>Diego Valsesia, Politecnico di Torino</li>
       <li>Gabriele Meoni, European Space Agency</li>
       <li>Giovanni Beltrame, Polytechnique de Montreal</li>
+      <li>Grace Gao, Stanford University</li>
       <li>Gurvan Lecuyer, European Space Agency</li>
       <li>Heng Yang, Massachusetts Institute of Technology</li>
       <li>Huangying Zhan, The University of Adelaide</li>
       <li>Jan Dirk Wegner, ETH Zurich</li>
       <li>Jonathan Kelly, University of Toronto</li>
       <li>Joseph O'Leary, EOS Systems</li>
-      <li>Laura Henderson,	DRAPER</li>
+      <li>Laura Henderson, DRAPER</li>
       <li>Marie Farrel, Maynooth University</li>
+      <li>Melrose Brown, UNSW</li>
       <li>Michele Sasdelli, The University of Adelaide</li>
       <li>Moritz Von Looz, European Space Agency</li>
       <li>Peyman Moghadam, CSIRO</li>
       <li>Rasit Abay, UNSW</li>
-      <li>Simone D'Amico, Stanford</li>
-      <li>Sumant Sharma, Stanford</li>
+      <li>Simone D'Amico, Stanford University</li>
+      <li>Sumant Sharma, Stanford University</li>
       <li>Viorela Ila, The University of Sydney</li>
       <li>Yasir Latif, The University of Adelaide</li>      
     </ul>
