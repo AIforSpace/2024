@@ -103,12 +103,7 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12">
-    <p>
-       <h3>Block A</h3>
-        Europe (Central) start time: 04:00pm 19 Jun 2021 <br>
-        Australia (Sydney) start time: 00:00am 20 Jun 2021 <br>
-        N. America (East) start time: 10:00am 19 Jun 2021
-    </p>
+    <h3>Block A</h3>
     <table class="table table-striped">
       <tbody>
         <tr>
@@ -175,45 +170,51 @@ acknowledgements: ""
     <table class="table table-striped">
       <tbody>
         <tr>
-            <th>Duration (mins)</th>
+            <th>Europe (Central)<br>20 June 2021</th>
+            <th>Australia (Sydney)<br>20 June 2021</th>
+            <th>N. America (East)<br>20 June 2021</th>
             <th>Activity</th>
-            <th>Host</th>
         </tr>
         <tr>
-          <td>5</td>
+          <td>09:00</td>
+          <td>17:00</td>
+          <td>03:00</td>          
           <td>Welcome address</td>
-          <td>Tat-Jun Chin</td>
         </tr>
         <tr>
-          <td>30</td>
+          <td>09:05</td>
+          <td>17:05</td>
+          <td>03:05</td>          
           <td>Keynote 3: Dario Izzo</td>
-          <td>Clinton Fookes</td>
         </tr>
         <tr>
-          <td>30</td>
+          <td>09:35</td>
+          <td>17:35</td>
+          <td>03:35</td>          
           <td>Keynote 4: Yang Gao</td>
-          <td>Marcus Märtens</td>
         </tr>
         <tr>
-          <td>45</td>
+          <td>10:05</td>
+          <td>18:05</td>
+          <td>04:05</td>          
           <td>Spotlight presentations (see <a href="#papers">paper list</a>)</td>
-          <td>Luke Heffernan</td>
         </tr>
         <tr>
-          <td>20</td>
+          <td>10:50</td>
+          <td>18:50</td>
+          <td>04:50</td>          
           <td>Poster session</td>
-          <td>Tat-Jun Chin, Clinton Fookes, Marcus Märtens, Luke Heffernan</td>
         </tr>
         <tr>
-          <td>10</td>
+          <td>11:10</td>
+          <td>19:10</td>
+          <td>05:10</td>          
           <td>Award announcements and conclusion</td>
-          <td>Tat-Jun Chin</td>
         </tr>
       </tbody>
     </table>
   </div>
 </div><br>
-
 
 <div class="row" id="papers">
   <div class="col-xs-12">
