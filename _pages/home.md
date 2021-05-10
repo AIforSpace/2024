@@ -208,7 +208,7 @@ acknowledgements: ""
       </tbody>
     </table>
   </div>
-</div>
+</div><br>
 
 <div class="row" id="speakers">
   <div class="col-xs-12">
@@ -254,7 +254,7 @@ acknowledgements: ""
       <b><a href="https://www.surrey.ac.uk/people/yang-gao">Yang Gao</a></b> is the Professor of Space Autonomous Systems at Surrey Space Centre (SSC) and the Head of the STAR LAB which specializes in visual sensing and navigation in extreme environments. She has 20 years of research experience in developing robotics and autonomous systems, and has been funded by UK Research Innovation, Royal Academy of Engineering, European Commission, European Space Agency, UK Space Agency, as well as industrial companies such as Airbus, NEPTEC, Sellafield and OHB. Yang is also actively involved in the R&D real-world space missions, e.g., ESA's ExoMars, Proba3 and LUCE-ice mapper, UK's MoonLITE/Moonraker, and China's Chang'E 3. Her expertise in solving real-world space visual navigation problems will be of significant interest to the CVPR audience. Yang is an Elected Fellow of Institute of Engineering and Technology (IET) and Royal Aeronautical Society (RAeS). Her research work led to international acclaim, such as International Astronautical Federation’s 3AF Edmond Brun Silver Medal in 2013, COSPAR's Outstanding Paper Award in 2016, First Prize of UKSEDS Lunar Rover Competition in 2017, Finalist of IEEE/ASME's AIM Best Paper Award 2019 and First Prize of Best Poster Award at ICRA 2020 Space Robotics Workshop. Prior to joining SSC in 2004, Yang was an awardee of the prestigious Singapore Millennium Foundation (SMF) Postdoctoral Fellowship and worked on intelligent and autonomous vehicles. She gained the B.Eng. and Ph.D. degrees from the Nanyang Technological University in 2000 and 2003 respectively.
     </p>
   </div>
-</div>
+</div><br>
 
 <div class="row" id="papers">
   <div class="col-xs-12">
@@ -321,11 +321,7 @@ acknowledgements: ""
       </tbody>
     </table>
   </div>
-</div>
-
-
-
-
+</div><br>
    
 <div class="row" id="cfp">
   <div class="col-xs-12">
