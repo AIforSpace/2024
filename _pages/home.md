@@ -58,7 +58,7 @@ acknowledgements: ""
 </div><br>
 
 <div class="row">
-    <div class="col-xs-5">
+    <div class="col-xs-7">
         <p>
             <h2>Sponsors</h2>
         </p>
@@ -68,17 +68,17 @@ acknowledgements: ""
         <div class="col-xs-6">
             <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/blackswan.png" | prepend:site.baseurl }}"></a>
         </div>
+        <div class="col-xs-6">
+            <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/smartsat2.png" | prepend:site.baseurl }}"></a>
+        </div>
     </div>
-    <div class="col-xs-7">
+    <div class="col-xs-5">
          <p>
             <h2>Affiliated organisations</h2>
          </p>
          <p>
              <div class="col-xs-3">
                  <a href="#organisations"><img class="people-pic" src="{{ "/static/img/sponsors/asa2.png" | prepend:site.baseurl }}"></a>
-             </div>
-             <div class="col-xs-3">
-                 <a href="#organisations"><img class="people-pic" src="{{ "/static/img/sponsors/smartsat2.png" | prepend:site.baseurl }}"></a>
              </div>
              <div class="col-xs-3">
                  <a href="#organisations"><img class="people-pic" src="{{ "/static/img/sponsors/esa2.png" | prepend:site.baseurl }}"></a>
@@ -123,7 +123,7 @@ acknowledgements: ""
           <td>16:35</td>
           <td>00:35</td>
           <td>10:35</td>          
-          <td>Keynote 2: Courtney Mario</td>
+          <td>Keynote 2: <a href="#Courtney">Courtney Mario</a></td>
         </tr>
         <tr>
           <td>17:05</td>
@@ -175,13 +175,13 @@ acknowledgements: ""
           <td>09:05</td>
           <td>17:05</td>
           <td>03:05</td>          
-          <td>Keynote 3: Dario Izzo</td>
+          <td>Keynote 3: <a href="#Dario">Dario Izzo</a></td>
         </tr>
         <tr>
           <td>09:35</td>
           <td>17:35</td>
           <td>03:35</td>          
-          <td>Keynote 4: Yang Gao</td>
+          <td>Keynote 4: <a href="#Yang">Yang Gao</a></td>
         </tr>
         <tr>
           <td>10:05</td>
@@ -224,7 +224,7 @@ acknowledgements: ""
 
 <!-- 24 -->
 <div class="row">
-  <div class="col-md-12">
+  <div class="col-md-12" id="Courtney">
     <a href="https://www.linkedin.com/in/courtneymario"><img class="people-pic-big" style="float:left;margin-right:30px;" src="{{ "/static/img/speakers/courtney.jpg" | prepend:site.baseurl }}"></a>
     <p>
       <b><a href="https://www.linkedin.com/in/courtneymario">Courtney Mario</a></b> is a Principal Member of the Technical Staff at The Charles Stark Draper Laboratory (Draper) in the Perception and Autonomy Group. Draper is a not-for-profit R&D organization headquartered in Cambridge, Massachusetts. The lab specializes in the design, development, and deployment of advanced technology solutions to problems in space exploration, health care and energy and was originally best known for providing the Apollo Guidance computer. She is a member of the Natural Feature Tracking team for OSIRIS-REx, NASA’s asteroid sample return mission that successfully autonomously navigated to the asteroid surface in October 2020 to collect the sample. She is also currently leading the algorithm development for Draper’s lunar precision landing capability. Prior work has included developing vision-inertial systems for GPS-denied applications for ground vehicles, UAVs, and pedestrians. Courtney has over ten years of experience in vision navigation systems for GPS-denied environments, and the lessons she has learnt on the challenges of visual navigation in the space environment will be extremely beneficial to the CVPR community. Courtney earned a Bachelor’s degree (graduated Magna Cum Laude) and Master’s degree in mechanical engineering, both from Tufts University.
@@ -234,7 +234,7 @@ acknowledgements: ""
 
 <!-- 23 -->
 <div class="row">
-  <div class="col-md-12">
+  <div class="col-md-12" id="Dario">
     <a href="https://www.esa.int/gsp/ACT/team/dario_izzo/"><img class="people-pic-big" style="float:left;margin-right:30px;" src="{{ "/static/img/speakers/dario.png" | prepend:site.baseurl }}"></a>
     <p>
       <b><a href="https://www.esa.int/gsp/ACT/team/dario_izzo/">Dario Izzo</a></b> is the Scientific Coordinator of the Advanced Concepts Team (ACT) at ESA, where he coordinates all the scientific activities of the ACT and manages the interface of the ACT to the rest of ESA. Dario is a major proponent of AI and champion of deep neural networks to solve space problems. He led studies in interplanetary trajectory design using AI and was responsible for starting the Global Trajectory Optimization Competitions events, the ESA’s Summer of Code in Space, and the Kelvins competition platform which brings together AI and space researchers. At the proposed workshop, Dario will be sharing his expertise and experience on AI algorithms for spacecraft guidance dynamics and control. Dario has published more than 150 papers in journals, conferences and books. In 2013, he received the Humies Gold Medal for the work on grand tours of the galilean moons and, the following year, he won the 8th edition of the Global Trajectory Optimization Competition, organized by NASA/JPL, leading a mixed team of ESA/JAXA scientists. Dario graduated in Aeronautical Engineering from the University Sapienza of Rome in 1999. He later obtained a second master in “Satellite Platforms” at the University of Cranfield in the UK and a Ph.D. in Mathematical Modelling in 2003, at the University Sapienza of Rome where he had the honour to assist Prof. Chiara Valente throughout the classical mechanics and space flight mechanics courses during the academic years 2001-2003.
@@ -244,7 +244,7 @@ acknowledgements: ""
 
 <!-- 16 -->
 <div class="row">
-  <div class="col-md-12">
+  <div class="col-md-12" id="Yang">
     <a href="https://www.surrey.ac.uk/people/yang-gao"><img class="people-pic-big" style="float:left;margin-right:30px;" src="{{ "/static/img/speakers/yang.jpg" | prepend:site.baseurl }}"></a>
     <p>
       <b><a href="https://www.surrey.ac.uk/people/yang-gao">Yang Gao</a></b> is the Professor of Space Autonomous Systems at Surrey Space Centre (SSC) and the Head of the STAR LAB which specializes in visual sensing and navigation in extreme environments. She has 20 years of research experience in developing robotics and autonomous systems, and has been funded by UK Research Innovation, Royal Academy of Engineering, European Commission, European Space Agency, UK Space Agency, as well as industrial companies such as Airbus, NEPTEC, Sellafield and OHB. Yang is also actively involved in the R&D real-world space missions, e.g., ESA's ExoMars, Proba3 and LUCE-ice mapper, UK's MoonLITE/Moonraker, and China's Chang'E 3. Her expertise in solving real-world space visual navigation problems will be of significant interest to the CVPR audience. Yang is an Elected Fellow of Institute of Engineering and Technology (IET) and Royal Aeronautical Society (RAeS). Her research work led to international acclaim, such as International Astronautical Federation’s 3AF Edmond Brun Silver Medal in 2013, COSPAR's Outstanding Paper Award in 2016, First Prize of UKSEDS Lunar Rover Competition in 2017, Finalist of IEEE/ASME's AIM Best Paper Award 2019 and First Prize of Best Poster Award at ICRA 2020 Space Robotics Workshop. Prior to joining SSC in 2004, Yang was an awardee of the prestigious Singapore Millennium Foundation (SMF) Postdoctoral Fellowship and worked on intelligent and autonomous vehicles. She gained the B.Eng. and Ph.D. degrees from the Nanyang Technological University in 2000 and 2003 respectively.
@@ -259,28 +259,45 @@ acknowledgements: ""
     <table class="table table-striped">
       <tbody>
         <tr>
-          <td>AI for dating stars: a benchmarking study for gyrochronology</td>
+          <td>
+          AI for dating stars: a benchmarking study for gyrochronology
+          <br>Andres Moya, Jarmi Recio Martínez, Roberto Javier Lopez-Sastre
+          </td>
         </tr>
         <tr>
-          <td>AI4MARS: A Dataset for Terrain-Aware Autonomous Driving on Mars</td>
+          <td>AI4MARS: A Dataset for Terrain-Aware Autonomous Driving on Mars
+          <br>R. Michael Swan, Deegan J Atha, Henry A Leopold, Cindy Chiu, Matthew Gildner, Stephanie L Oij, Masahiro Ono
+          </td>
         </tr>
         <tr>
-          <td>Autonomous Planetary Landing via Deep Reinforcement Learning and Transfer Learning</td>
+          <td>Autonomous Planetary Landing via Deep Reinforcement Learning and Transfer Learning
+          <br>Giulia Ciabatti, Shreyansh Daftry, Roberto Capobianco
+          </td>
         </tr>
         <tr>
-          <td>Improving Astronomy Image Quality Through Real-time Wavefront Estimation</td>
+          <td>Improving Astronomy Image Quality Through Real-time Wavefront Estimation
+          <br>David Thomas, Joshua Meyers, Steven Kahn
+          </td>
         </tr>
         <tr>
-          <td>On-Orbit Inspection of an Unknown Tumbling Target using NASA's Astrobee Robotic Free-Flyers</td>
+          <td>On-Orbit Inspection of an Unknown Tumbling Target using NASA's Astrobee Robotic Free-Flyers
+          <br>Charles E Oestreich, Antonio Teran Espinoza, Jessica Todd, Keenan Albee, Richard Linares
+          </td>
         </tr>
         <tr>
-          <td>Spacecraft Time-Series Anomaly Detection Using Transfer Learning</td>
+          <td>Spacecraft Time-Series Anomaly Detection Using Transfer Learning
+          <br>Sriram Baireddy, Sundip Desai, James Mathieson, Richard Foster, Moses Chan, Mary Comer, Edward Delp
+          </td>
         </tr>
         <tr>
-          <td>SPACESeg: Automated Detection of Bed Junction Morphologies Indicating Signs of Life in Ediacaran Period</td>
+          <td>SPACESeg: Automated Detection of Bed Junction Morphologies Indicating Signs of Life in Ediacaran Period
+          <br>Padmaja Jonnalagedda, Rachel Surprenant, Mary Droser, Bir Bhanu
+          </td>
         </tr>
         <tr>
-          <td>Visual SLAM for Asteroid Relative Navigation</td>
+          <td>Visual SLAM for Asteroid Relative Navigation
+          <br>Mehregan Dor, Katherine A Skinner, Travis Driver, Panagiotis Tsiotras
+          </td>
         </tr>
       </tbody>
     </table>
@@ -288,31 +305,49 @@ acknowledgements: ""
     <table class="table table-striped">
       <tbody>
         <tr>
-          <td>A Monocular Pose Estimation Case Study: The Hayabusa2 Minerva-II2 Deployment</td>
+          <td>A Monocular Pose Estimation Case Study: The Hayabusa2 Minerva-II2 Deployment
+          <br>Andrew Price, Kazuya Yoshida
+          </td>
         </tr>
         <tr>
-          <td>A Spacecraft Dataset for Detection, Segmentation and Parts Recognition</td>
+          <td>A Spacecraft Dataset for Detection, Segmentation and Parts Recognition
+          <br>Dung Anh Hoang, Bo Chen, Tat-Jun Chin
+          </td>
         </tr>
         <tr>
-          <td>Event-based spacecraft landing using time-to-contact</td>
+          <td>Event-based spacecraft landing using time-to-contact
+          <br>Olaf Sikorski, Dario Izzo, Gabriele Meoni
+          </td>
         </tr>
         <tr>
-          <td>From Rocks to Walls: a Model-free Reinforcement Learning Approach to Dry Stacking with Irregular Rocks</td>
+          <td>From Rocks to Walls: a Model-free Reinforcement Learning Approach to Dry Stacking with Irregular Rocks
+          <br>André Menezes, Pedro Vicente, Alexandre Bernardino, Rodrigo Ventura
+          </td>
         </tr>
         <tr>
-          <td>Investigating Spiking Neural Networks for Energy-Efficient On-Board AI Applications. A Case Study in Land Cover and Land Use Classification</td>
+          <td>Investigating Spiking Neural Networks for Energy-Efficient On-Board AI Applications. A Case Study in Land Cover and Land Use Classification
+          <br>Andrzej S Kucik, Gabriele Meoni
+          </td>
         </tr>
         <tr>
-          <td>LSPnet: A 2D Localization-oriented Spacecraft Pose Estimation Neural Network</td>
+          <td>LSPnet: A 2D Localization-oriented Spacecraft Pose Estimation Neural Network
+          <br>Albert Garcia, Mohamed Adel Musallam, Vincent Gaudilliere, Enjie Ghorbel, Kassem Al Ismaeil, Marcos Perez, Djamila Aouada
+          </td>
         </tr>
         <tr>
-          <td>MRSCAtt: A Spatio-Channel Attention-Guided Network for Mars Rover Image Classification</td>
+          <td>MRSCAtt: A Spatio-Channel Attention-Guided Network for Mars Rover Image Classification
+          <br>Anirudh Srinivasan Chakravarthy, Roshan Roy, Praveen  Ravirathinam
+          </td>
         </tr>
         <tr>
-          <td>Spot the GEO Satellites: From Dataset to Kelvins SpotGEO Challenge</td>
+          <td>Spot the GEO Satellites: From Dataset to Kelvins SpotGEO Challenge
+          <br>Bo Chen, Daqi Liu, Tat-Jun Chin, Mark Rutten, Dawa Derksen, Marcus Maertens, Moritz Von Looz, Gurvan Lecuyer, Dario Izzo
+          </td>
         </tr>
         <tr>
-          <td>Vision-based Neural Scene Representations for Spacecraft</td>
+          <td>Vision-based Neural Scene Representations for Spacecraft
+          <br>Anne Mergy, Gurvan Lecuyer, Dawa Derksen, Dario Izzo
+          </td>
         </tr>
       </tbody>
     </table>
@@ -549,30 +584,19 @@ acknowledgements: ""
 
 <div class="row">
 
-<div class="col-xs-6">
-    <p>
-        <div class="col-xs-3">
-        </div>
-        <div class="col-xs-9">
+<div class="col-xs-4">
         <a href="https://www.draper.com/"><img class="people-pic-big" src="{{ "/static/img/sponsors/draper.png" | prepend:site.baseurl }}"></a> 
-        </div>
-    </p>
-    <p>
         At <a href="https://www.draper.com/">Draper</a>, we believe exciting things happen when we combine our diverse disciplines to imagine and create new solutions. From whiteboard concept to fielded systems, Draper engineers design, develop and deploy advanced technology solutions for the world’s most difficult and important problems. More than a thousand engineers and scientists — experts in fields ranging from GN&C to microfabrication — bring a multidisciplinary advantage to system design. The breadth and depth of our expertise enable us to take on almost any challenge. By building and field-testing working prototypes we accelerate design iterations. We can complete small production runs, license our intellectual property and transition technology for large-volume production. We provide full life-cycle support, including technology refresh. We provide engineering services directly to government, commercial companies and academia; work on teams as prime contractor or subcontractor; and participate as a collaborator in consortia. As a not-for-profit engineering innovation company, we provide unbiased assessments of technology or systems designed or recommended by other organizations — whether custom-designed or commercial-off-the-shelf.
-    </p>
 </div>
 
-<div class="col-xs-6">
-    <p>
-        <div class="col-xs-3">
-        </div>
-        <div class="col-xs-9">
+<div class="col-xs-4">
         <a href="https://lt.linkedin.com/company/blackswanspace/"><img class="people-pic-big" src="{{ "/static/img/sponsors/blackswan.png" | prepend:site.baseurl }}"></a> 
-        </div>
-    </p>
-    <p>
         <a href="https://lt.linkedin.com/company/blackswanspace/">Blackswan Technologies</a> is making satellites autonomous. The company’s products are designed to manage the expected ten-fold increase in space traffic in the coming years by lowering collision risk, reducing costs of operations and expanding the range of autonomous activities in orbit. Our ultimate goal is to help build a self sustaining market economy where complex tasks such as debris removal, on-orbit servicing and construction can be performed by using autonomous satellites.
-    </p>
+</div>
+
+<div class="col-xs-4">
+    <a href="https://smartsatcrc.com/"><img class="people-pic-big" src="{{ "/static/img/sponsors/smartsat_crc.png" | prepend:site.baseurl }}"></a>
+    The <a href="https://smartsatcrc.com/">SmartSat CRC</a> is a consortium of universities and other research organisations, partnered with industry that has been funded by the Australian Government to develop know-how and technologies in advanced telecommunications and IoT connectivity, intelligent satellite systems and Earth observation next generation data services. The impact of this research will be to develop intellectual property and a specialist industry expertise that will spawn new businesses, create export economic value and generate new high-tech jobs for all Australians.
 </div>
 
 </div>
@@ -590,11 +614,6 @@ acknowledgements: ""
 <div class="col-xs-3">
     <a href="https://www.space.gov.au/"><img class="people-pic-big" src="{{ "/static/img/sponsors/asa.png" | prepend:site.baseurl }}"></a>
     The <a href="https://www.space.gov.au/">Australian Space Agency</a> will transform and grow a globally respected Australian space industry that lifts the broader economy, inspires and improves the lives of Australians – underpinned by strong international and national engagement.
-</div>
-
-<div class="col-xs-3">
-    <a href="https://smartsatcrc.com/"><img class="people-pic-big" src="{{ "/static/img/sponsors/smartsat_crc.png" | prepend:site.baseurl }}"></a>
-    The <a href="https://smartsatcrc.com/">SmartSat CRC</a> is a consortium of universities and other research organisations, partnered with industry that has been funded by the Australian Government to develop know-how and technologies in advanced telecommunications and IoT connectivity, intelligent satellite systems and Earth observation next generation data services. The impact of this research will be to develop intellectual property and a specialist industry expertise that will spawn new businesses, create export economic value and generate new high-tech jobs for all Australians.
 </div>
 
 <div class="col-xs-3">
