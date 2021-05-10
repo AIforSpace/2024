@@ -58,7 +58,7 @@ acknowledgements: ""
 </div><br>
 
 <div class="row">
-    <div class="col-xs-7">
+    <div class="col-xs-6">
         <p>
             <h2>Sponsors</h2>
         </p>
@@ -135,7 +135,7 @@ acknowledgements: ""
           <td>17:20</td>
           <td>01:20</td>
           <td>11:20</td>          
-          <td>Spotlight presentations<br>5 mins per paper<br> <a href="#papers">List of papers</a></td>
+          <td>Spotlight presentations<br>5 mins per paper<br> <a href="#papers_a">List of papers</a></td>
         </tr>
         <tr>
           <td>18:00</td>
@@ -187,7 +187,7 @@ acknowledgements: ""
           <td>10:05</td>
           <td>18:05</td>
           <td>04:05</td>          
-          <td>Spotlight presentations<br>5 mins per paper<br><a href="#papers">List of papers</a></td>
+          <td>Spotlight presentations<br>5 mins per paper<br><a href="#papers_b">List of papers</a></td>
         </tr>
         <tr>
           <td>10:50</td>
@@ -256,7 +256,7 @@ acknowledgements: ""
   <div class="col-xs-12">
     <h2>Accepted Papers</h2>
     <h3>Block A</h3>
-    <table class="table table-striped">
+    <table class="table table-striped" id="papers_a">
       <tbody>
         <tr>
           <td>
@@ -302,7 +302,7 @@ acknowledgements: ""
       </tbody>
     </table>
     <h3>Block B</h3>
-    <table class="table table-striped">
+    <table class="table table-striped" id="papers_b">
       <tbody>
         <tr>
           <td>A Monocular Pose Estimation Case Study: The Hayabusa2 Minerva-II2 Deployment
