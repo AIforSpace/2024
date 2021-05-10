@@ -585,8 +585,16 @@ acknowledgements: ""
 <div class="row">
 
 <div class="col-xs-4">
-        <a href="https://www.draper.com/"><img class="people-pic-big" src="{{ "/static/img/sponsors/draper.png" | prepend:site.baseurl }}"></a> 
+    <p>
+        <div class="col-xs-1.5">
+        </div>
+        <div class="col-xs-10.5">
+            <a href="https://www.draper.com/"><img class="people-pic-big" src="{{ "/static/img/sponsors/draper.png" | prepend:site.baseurl }}"></a> 
+        </div>
+    </p>
+    <p>
         At <a href="https://www.draper.com/">Draper</a>, we believe exciting things happen when we combine our diverse disciplines to imagine and create new solutions. From whiteboard concept to fielded systems, Draper engineers design, develop and deploy advanced technology solutions for the world’s most difficult and important problems. More than a thousand engineers and scientists — experts in fields ranging from GN&C to microfabrication — bring a multidisciplinary advantage to system design. The breadth and depth of our expertise enable us to take on almost any challenge. By building and field-testing working prototypes we accelerate design iterations. We can complete small production runs, license our intellectual property and transition technology for large-volume production. We provide full life-cycle support, including technology refresh. We provide engineering services directly to government, commercial companies and academia; work on teams as prime contractor or subcontractor; and participate as a collaborator in consortia. As a not-for-profit engineering innovation company, we provide unbiased assessments of technology or systems designed or recommended by other organizations — whether custom-designed or commercial-off-the-shelf.
+    </p>
 </div>
 
 <div class="col-xs-4">
