@@ -112,7 +112,7 @@ acknowledgements: ""
     <table class="table table-striped">
       <tbody>
         <tr>
-            <th>Europe (Central)</th>
+            <th>Europe (Central)<br>19 June 2021</th>
             <th>Australia (Sydney)</th>
             <th>N. America (East)</th>
             <th>Activity</th>
