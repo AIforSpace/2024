@@ -112,44 +112,52 @@ acknowledgements: ""
     <table class="table table-striped">
       <tbody>
         <tr>
-            <th>Duration (mins)</th>
+            <th>Europe (Central)</th>
+            <th>Australia (Sydney)</th>
+            <th>N. America (East)</th>
             <th>Activity</th>
-            <th>Host</th>
         </tr>
         <tr>
           <td>5</td>
+          <td>5</td>
+          <td>5</td>          
           <td>Welcome address</td>
-          <td>Tat-Jun Chin</td>
         </tr>
         <tr>
           <td>30</td>
+          <td>30</td>
+          <td>30</td>          
           <td>Keynote 1: Shirley Ho</td>
-          <td>Tat-Jun Chin</td>
         </tr>
         <tr>
           <td>30</td>
+          <td>30</td>
+          <td>30</td>          
           <td>Keynote 2: Courtney Mario</td>
-          <td>Luca Carlone</td>
         </tr>
         <tr>
           <td>15</td>
+          <td>15</td>
+          <td>15</td>          
           <td>Intro to MDS Software (Blackswan Technologies)</td>
-          <td>Marius Klimavicius</td>
         </tr>
         <tr>
           <td>40</td>
+          <td>40</td>
+          <td>40</td>          
           <td>Spotlight presentations (see <a href="#papers">paper list</a>)</td>
-          <td>Pablo Gómez</td>
         </tr>
         <tr>
           <td>20</td>
+          <td>20</td>
+          <td>20</td>          
           <td>Poster session</td>
-          <td>Tat-Jun Chin, Luca Carlone, Marius Klimavicius, Pablo Gómez</td>
         </tr>
         <tr>
           <td>10</td>
+          <td>10</td>
+          <td>10</td>          
           <td>Award announcements</td>
-          <td>Tat-Jun Chin</td>
         </tr>
       </tbody>
     </table>
