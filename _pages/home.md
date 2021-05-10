@@ -21,7 +21,7 @@ acknowledgements: ""
     <br>
     <center><h3 style="color:white">1st Workshop on AI for Space</h3></center>
     <center><h3 style="color:white">In conjunction with <a href="http://cvpr2021.thecvf.com/">CVPR 2021</a></h3></center>    
-    <center><h3 style="color:white">Date: June 2021</h3></center>
+    <center><h3 style="color:white">Date: 10am 19 June 2021 (N. America East)</h3></center>
     <!-- <center><span style="font-weight:400;">14th of June 2020</span></center> -->
     <br>
   </div>
@@ -58,20 +58,13 @@ acknowledgements: ""
         <p>
             The space sector is experiencing significant growth. Currently planned activities and utilisation models also greatly exceed the scope, ambition and/or commercial value of space missions in the previous century, e.g., autonomous spacecraft, space mining, and understanding the universe. Achieving these ambitious goals requires surmounting non-trivial technical obstacles. AI4Space focuses on the role of AI, particularly computer vision and machine learning, in helping to solve those technical hurdles. The workshop will highlight the space capabilities that draw from and/or overlap significantly with vision and learning research, outline the unique difficulties presented by space applications to vision and learning, and discuss recent advances towards overcoming those obstacles.
         </p>
-        <p>
-            The workshop will feature 
-            <ul>
-              <li><a href='#speakers'>Keynotes</a> from established AI4Space researchers; and</li>
-              <li><a href='#schedule'>Presentations</a> of recent work on vision and learning with a space focus.</li>
-            </ul>
-        </p>
   </div>
 </div> 
 
 <div class="row">
     <div class="col-xs-5">
         <p>
-            <h3>Sponsors</h3>
+            <h2>Sponsors</h2>
         </p>
         <div class="col-xs-6">
             <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/draper.png" | prepend:site.baseurl }}"></a>
@@ -82,7 +75,7 @@ acknowledgements: ""
     </div>
     <div class="col-xs-7">
          <p>
-            <h3>Affiliated organisations</h3>
+            <h2>Affiliated organisations</h2>
          </p>
          <p>
              <div class="col-xs-3">
