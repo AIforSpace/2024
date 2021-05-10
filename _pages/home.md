@@ -227,7 +227,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>Workshop Date</td>
-          <td>19--20 Jun 2021</td>
+          <td>19-20 Jun 2021</td>
         </tr>
       </tbody>
     </table>
@@ -297,8 +297,7 @@ acknowledgements: ""
       </tbody>
     </table>
   </div>
-</div><br>
-
+</div>
 
 <div class="row">
   <div class="col-xs-12">
@@ -424,6 +423,7 @@ acknowledgements: ""
   
   
   <div class="row">
+  
   <div class="col-xs-2">
     <a href="https://bochenys.github.io/">
       <img class="people-pic" src="{{ "/static/img/people/bo.jpg" | prepend:site.baseurl }}">
@@ -433,6 +433,17 @@ acknowledgements: ""
       <h6>The University of Adelaide</h6>
     </div>
   </div>
+  
+  <div class="col-xs-2">
+    <a href="https://www.linkedin.com/in/luke-heffernan/">
+      <img class="people-pic" src="{{ "/static/img/people/luke.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www.linkedin.com/in/luke-heffernan/">Luke Heffernan</a>
+      <h6>The University of Adelaide</h6>
+    </div>
+  </div>
+  
 </div>
 
 <br>
