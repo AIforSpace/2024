@@ -118,9 +118,9 @@ acknowledgements: ""
             <th>Activity</th>
         </tr>
         <tr>
-          <td>5</td>
-          <td>5</td>
-          <td>5</td>          
+          <td>16:00 19 June</td>
+          <td>00:00 20 June</td>
+          <td>10:00 19 June</td>          
           <td>Welcome address</td>
         </tr>
         <tr>
