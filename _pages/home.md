@@ -77,13 +77,13 @@ acknowledgements: ""
             <h2>Affiliated organisations</h2>
          </p>
          <p>
-             <div class="col-xs-3">
+             <div class="col-xs-4">
                  <a href="#organisations"><img class="people-pic" src="{{ "/static/img/sponsors/asa2.png" | prepend:site.baseurl }}"></a>
              </div>
-             <div class="col-xs-3">
+             <div class="col-xs-4">
                  <a href="#organisations"><img class="people-pic" src="{{ "/static/img/sponsors/esa2.png" | prepend:site.baseurl }}"></a>
              </div>
-             <div class="col-xs-3">
+             <div class="col-xs-4">
                  <a href="#organisations"><img class="people-pic" src="{{ "/static/img/sponsors/act2.png" | prepend:site.baseurl }}"></a>
              </div>
          </p>
@@ -586,9 +586,9 @@ acknowledgements: ""
 
 <div class="col-xs-4">
     <p>
-        <div class="col-xs-1.5">
+        <div class="col-xs-3">
         </div>
-        <div class="col-xs-10.5">
+        <div class="col-xs-9">
             <a href="https://www.draper.com/"><img class="people-pic-big" src="{{ "/static/img/sponsors/draper.png" | prepend:site.baseurl }}"></a> 
         </div>
     </p>
@@ -598,13 +598,29 @@ acknowledgements: ""
 </div>
 
 <div class="col-xs-4">
+    <p>
+    <div class="col-xs-3">
+    </div>
+    <div class="col-xs-9">
         <a href="https://lt.linkedin.com/company/blackswanspace/"><img class="people-pic-big" src="{{ "/static/img/sponsors/blackswan.png" | prepend:site.baseurl }}"></a> 
+        </div>
+    </p>
+    <p>
         <a href="https://lt.linkedin.com/company/blackswanspace/">Blackswan Technologies</a> is making satellites autonomous. The company’s products are designed to manage the expected ten-fold increase in space traffic in the coming years by lowering collision risk, reducing costs of operations and expanding the range of autonomous activities in orbit. Our ultimate goal is to help build a self sustaining market economy where complex tasks such as debris removal, on-orbit servicing and construction can be performed by using autonomous satellites.
+        </p>
 </div>
 
 <div class="col-xs-4">
+    <p>
+    <div class="col-xs-3">
+    </div>
+    <div class="col-xs-9">
     <a href="https://smartsatcrc.com/"><img class="people-pic-big" src="{{ "/static/img/sponsors/smartsat_crc.png" | prepend:site.baseurl }}"></a>
+    </div>
+    </p>
+    <p>
     The <a href="https://smartsatcrc.com/">SmartSat CRC</a> is a consortium of universities and other research organisations, partnered with industry that has been funded by the Australian Government to develop know-how and technologies in advanced telecommunications and IoT connectivity, intelligent satellite systems and Earth observation next generation data services. The impact of this research will be to develop intellectual property and a specialist industry expertise that will spawn new businesses, create export economic value and generate new high-tech jobs for all Australians.
+    </p>
 </div>
 
 </div>
