@@ -227,7 +227,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>Workshop Date</td>
-          <td>TBA</td>
+          <td>19--20 Jun 2021</td>
         </tr>
       </tbody>
     </table>
