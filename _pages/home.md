@@ -58,7 +58,7 @@ acknowledgements: ""
 </div><br>
 
 <div class="row">
-    <div class="col-xs-6">
+    <div class="col-xs-7">
         <p>
             <h2>Sponsors</h2>
         </p>
