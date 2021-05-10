@@ -98,16 +98,13 @@ acknowledgements: ""
 <div class="row" id="program">
   <div class="col-xs-12">
     <h2>Program</h2>
-    <p>
-      The programe of the workshop is divided into two blocks of sessions. 
-    </p>
   </div>
 </div>
 
 <div class="row">
   <div class="col-xs-12">
     <p>
-       <b>Block A</b><br>
+       <h3>Block A</h3>
         Europe (Central) start time: 04:00pm 19 Jun 2021 <br>
         Australia (Sydney) start time: 00:00am 20 Jun 2021 <br>
         N. America (East) start time: 10:00am 19 Jun 2021
@@ -162,7 +159,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-       <b>Block B</b><br>
+       <h3>Block B</h3>
         Europe (Central) start time: 09:00am 20 Jun 2021 <br>
         Australia (Sydney) start time: 05:00pm 20 Jun 2021 <br>
         N. America (East) start time: 03:00am 20 Jun 2021
