@@ -261,42 +261,42 @@ acknowledgements: ""
         <tr>
           <td>
           AI for dating stars: a benchmarking study for gyrochronology
-          <br>Andres Moya, Jarmi Recio Martínez, Roberto Javier Lopez-Sastre
+          <br><em>Andres Moya, Jarmi Recio Martínez, Roberto Javier Lopez-Sastre</em>
           </td>
         </tr>
         <tr>
           <td>AI4MARS: A Dataset for Terrain-Aware Autonomous Driving on Mars
-          <br>R. Michael Swan, Deegan J Atha, Henry A Leopold, Cindy Chiu, Matthew Gildner, Stephanie L Oij, Masahiro Ono
+          <br><em>R. Michael Swan, Deegan J Atha, Henry A Leopold, Cindy Chiu, Matthew Gildner, Stephanie L Oij, Masahiro Ono</em>
           </td>
         </tr>
         <tr>
           <td>Autonomous Planetary Landing via Deep Reinforcement Learning and Transfer Learning
-          <br>Giulia Ciabatti, Shreyansh Daftry, Roberto Capobianco
+          <br><em>Giulia Ciabatti, Shreyansh Daftry, Roberto Capobianco</em>
           </td>
         </tr>
         <tr>
           <td>Improving Astronomy Image Quality Through Real-time Wavefront Estimation
-          <br>David Thomas, Joshua Meyers, Steven Kahn
+          <br><em>David Thomas, Joshua Meyers, Steven Kahn</em>
           </td>
         </tr>
         <tr>
           <td>On-Orbit Inspection of an Unknown Tumbling Target using NASA's Astrobee Robotic Free-Flyers
-          <br>Charles E Oestreich, Antonio Teran Espinoza, Jessica Todd, Keenan Albee, Richard Linares
+          <br><em>Charles E Oestreich, Antonio Teran Espinoza, Jessica Todd, Keenan Albee, Richard Linares</em>
           </td>
         </tr>
         <tr>
           <td>Spacecraft Time-Series Anomaly Detection Using Transfer Learning
-          <br>Sriram Baireddy, Sundip Desai, James Mathieson, Richard Foster, Moses Chan, Mary Comer, Edward Delp
+          <br><em>Sriram Baireddy, Sundip Desai, James Mathieson, Richard Foster, Moses Chan, Mary Comer, Edward Delp</em>
           </td>
         </tr>
         <tr>
           <td>SPACESeg: Automated Detection of Bed Junction Morphologies Indicating Signs of Life in Ediacaran Period
-          <br>Padmaja Jonnalagedda, Rachel Surprenant, Mary Droser, Bir Bhanu
+          <br><em>Padmaja Jonnalagedda, Rachel Surprenant, Mary Droser, Bir Bhanu</em>
           </td>
         </tr>
         <tr>
           <td>Visual SLAM for Asteroid Relative Navigation
-          <br>Mehregan Dor, Katherine A Skinner, Travis Driver, Panagiotis Tsiotras
+          <br><em>Mehregan Dor, Katherine A Skinner, Travis Driver, Panagiotis Tsiotras</em>
           </td>
         </tr>
       </tbody>
@@ -306,47 +306,47 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>A Monocular Pose Estimation Case Study: The Hayabusa2 Minerva-II2 Deployment
-          <br>Andrew Price, Kazuya Yoshida
+          <br><em>Andrew Price, Kazuya Yoshida</em>
           </td>
         </tr>
         <tr>
           <td>A Spacecraft Dataset for Detection, Segmentation and Parts Recognition
-          <br>Dung Anh Hoang, Bo Chen, Tat-Jun Chin
+          <br><em>Dung Anh Hoang, Bo Chen, Tat-Jun Chin</em>
           </td>
         </tr>
         <tr>
           <td>Event-based spacecraft landing using time-to-contact
-          <br>Olaf Sikorski, Dario Izzo, Gabriele Meoni
+          <br><em>Olaf Sikorski, Dario Izzo, Gabriele Meoni</em>
           </td>
         </tr>
         <tr>
           <td>From Rocks to Walls: a Model-free Reinforcement Learning Approach to Dry Stacking with Irregular Rocks
-          <br>André Menezes, Pedro Vicente, Alexandre Bernardino, Rodrigo Ventura
+          <br><em>André Menezes, Pedro Vicente, Alexandre Bernardino, Rodrigo Ventura</em>
           </td>
         </tr>
         <tr>
           <td>Investigating Spiking Neural Networks for Energy-Efficient On-Board AI Applications. A Case Study in Land Cover and Land Use Classification
-          <br>Andrzej S Kucik, Gabriele Meoni
+          <br><em>Andrzej S Kucik, Gabriele Meoni</em>
           </td>
         </tr>
         <tr>
           <td>LSPnet: A 2D Localization-oriented Spacecraft Pose Estimation Neural Network
-          <br>Albert Garcia, Mohamed Adel Musallam, Vincent Gaudilliere, Enjie Ghorbel, Kassem Al Ismaeil, Marcos Perez, Djamila Aouada
+          <br><em>Albert Garcia, Mohamed Adel Musallam, Vincent Gaudilliere, Enjie Ghorbel, Kassem Al Ismaeil, Marcos Perez, Djamila Aouada</em>
           </td>
         </tr>
         <tr>
           <td>MRSCAtt: A Spatio-Channel Attention-Guided Network for Mars Rover Image Classification
-          <br>Anirudh Srinivasan Chakravarthy, Roshan Roy, Praveen  Ravirathinam
+          <br><em>Anirudh Srinivasan Chakravarthy, Roshan Roy, Praveen  Ravirathinam</em>
           </td>
         </tr>
         <tr>
           <td>Spot the GEO Satellites: From Dataset to Kelvins SpotGEO Challenge
-          <br>Bo Chen, Daqi Liu, Tat-Jun Chin, Mark Rutten, Dawa Derksen, Marcus Maertens, Moritz Von Looz, Gurvan Lecuyer, Dario Izzo
+          <br><em>Bo Chen, Daqi Liu, Tat-Jun Chin, Mark Rutten, Dawa Derksen, Marcus Maertens, Moritz Von Looz, Gurvan Lecuyer, Dario Izzo</em>
           </td>
         </tr>
         <tr>
           <td>Vision-based Neural Scene Representations for Spacecraft
-          <br>Anne Mergy, Gurvan Lecuyer, Dawa Derksen, Dario Izzo
+          <br><em>Anne Mergy, Gurvan Lecuyer, Dawa Derksen, Dario Izzo</em>
           </td>
         </tr>
       </tbody>
