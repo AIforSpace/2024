@@ -382,26 +382,24 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>Paper Submission Deadline</td>
-          <td><strike>11:59pm 6 Mar 2021</strike> extended to 11:59pm 20 Mar 2021</td>
+          <td><strike>11:59pm 6 Mar 2021</strike> <strike>extended to 11:59pm 20 Mar 2021</strike></td>
         </tr>
         <tr>
           <td>Notification to Authors</td>
-          <td>13 Apr 2021</td>
+          <td><strike>13 Apr 2021</strike></td>
         </tr>
         <tr>
           <td>Camera-Ready Deadline</td>
-          <td>20 Apr 2021</td>
+          <td><strike>20 Apr 2021</strike></td>
         </tr>
         <tr>
           <td>Workshop Date</td>
-          <td>19-20 Jun 2021</td>
+          <td>10am 19 Jun 2021 (N. America East)</td>
         </tr>
       </tbody>
     </table>
   </div>
 </div><br>
-
-
 
 <br>
 <div class="row" id="organizers">
