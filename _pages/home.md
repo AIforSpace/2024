@@ -161,12 +161,7 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12">
-    <p>
-       <h3>Block B</h3>
-        Europe (Central) start time: 09:00am 20 Jun 2021 <br>
-        Australia (Sydney) start time: 05:00pm 20 Jun 2021 <br>
-        N. America (East) start time: 03:00am 20 Jun 2021
-    </p>
+    <h3>Block B</h3>
     <table class="table table-striped">
       <tbody>
         <tr>
@@ -216,81 +211,6 @@ acknowledgements: ""
   </div>
 </div><br>
 
-<div class="row" id="papers">
-  <div class="col-xs-12">
-    <h2>Accepted Papers</h2>
-    <p>
-      <b>Block A</b>
-    </p>
-    <table class="table table-striped">
-      <tbody>
-        <tr>
-          <td>AI for dating stars: a benchmarking study for gyrochronology</td>
-        </tr>
-        <tr>
-          <td>AI4MARS: A Dataset for Terrain-Aware Autonomous Driving on Mars</td>
-        </tr>
-        <tr>
-          <td>Autonomous Planetary Landing via Deep Reinforcement Learning and Transfer Learning</td>
-        </tr>
-        <tr>
-          <td>Improving Astronomy Image Quality Through Real-time Wavefront Estimation</td>
-        </tr>
-        <tr>
-          <td>On-Orbit Inspection of an Unknown Tumbling Target using NASA's Astrobee Robotic Free-Flyers</td>
-        </tr>
-        <tr>
-          <td>Spacecraft Time-Series Anomaly Detection Using Transfer Learning</td>
-        </tr>
-        <tr>
-          <td>SPACESeg: Automated Detection of Bed Junction Morphologies Indicating Signs of Life in Ediacaran Period</td>
-        </tr>
-        <tr>
-          <td>Visual SLAM for Asteroid Relative Navigation</td>
-        </tr>
-      </tbody>
-    </table>
-    <p>
-      <b>Block B</b>
-    </p>
-    <table class="table table-striped">
-      <tbody>
-        <tr>
-          <td>A Monocular Pose Estimation Case Study: The Hayabusa2 Minerva-II2 Deployment</td>
-        </tr>
-        <tr>
-          <td>A Spacecraft Dataset for Detection, Segmentation and Parts Recognition</td>
-        </tr>
-        <tr>
-          <td>Event-based spacecraft landing using time-to-contact</td>
-        </tr>
-        <tr>
-          <td>From Rocks to Walls: a Model-free Reinforcement Learning Approach to Dry Stacking with Irregular Rocks</td>
-        </tr>
-        <tr>
-          <td>Investigating Spiking Neural Networks for Energy-Efficient On-Board AI Applications. A Case Study in Land Cover and Land Use Classification</td>
-        </tr>
-        <tr>
-          <td>LSPnet: A 2D Localization-oriented Spacecraft Pose Estimation Neural Network</td>
-        </tr>
-        <tr>
-          <td>MRSCAtt: A Spatio-Channel Attention-Guided Network for Mars Rover Image Classification</td>
-        </tr>
-        <tr>
-          <td>Spot the GEO Satellites: From Dataset to Kelvins SpotGEO Challenge</td>
-        </tr>
-        <tr>
-          <td>Vision-based Neural Scene Representations for Spacecraft</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-</div>
-
-
-
-
-<br>
 <div class="row" id="speakers">
   <div class="col-xs-12">
     <h2>Invited Speakers</h2>
@@ -336,7 +256,83 @@ acknowledgements: ""
       <b><a href="https://www.surrey.ac.uk/people/yang-gao">Yang Gao</a></b> is the Professor of Space Autonomous Systems at Surrey Space Centre (SSC) and the Head of the STAR LAB which specializes in visual sensing and navigation in extreme environments. She has 20 years of research experience in developing robotics and autonomous systems, and has been funded by UK Research Innovation, Royal Academy of Engineering, European Commission, European Space Agency, UK Space Agency, as well as industrial companies such as Airbus, NEPTEC, Sellafield and OHB. Yang is also actively involved in the R&D real-world space missions, e.g., ESA's ExoMars, Proba3 and LUCE-ice mapper, UK's MoonLITE/Moonraker, and China's Chang'E 3. Her expertise in solving real-world space visual navigation problems will be of significant interest to the CVPR audience. Yang is an Elected Fellow of Institute of Engineering and Technology (IET) and Royal Aeronautical Society (RAeS). Her research work led to international acclaim, such as International Astronautical Federation’s 3AF Edmond Brun Silver Medal in 2013, COSPAR's Outstanding Paper Award in 2016, First Prize of UKSEDS Lunar Rover Competition in 2017, Finalist of IEEE/ASME's AIM Best Paper Award 2019 and First Prize of Best Poster Award at ICRA 2020 Space Robotics Workshop. Prior to joining SSC in 2004, Yang was an awardee of the prestigious Singapore Millennium Foundation (SMF) Postdoctoral Fellowship and worked on intelligent and autonomous vehicles. She gained the B.Eng. and Ph.D. degrees from the Nanyang Technological University in 2000 and 2003 respectively.
     </p>
   </div>
-</div><br>
+</div>
+
+
+
+
+
+
+
+<div class="row" id="papers">
+  <div class="col-xs-12">
+    <h2>Accepted Papers</h2>
+    <h3>Block A</h3>
+    <table class="table table-striped">
+      <tbody>
+        <tr>
+          <td>AI for dating stars: a benchmarking study for gyrochronology</td>
+        </tr>
+        <tr>
+          <td>AI4MARS: A Dataset for Terrain-Aware Autonomous Driving on Mars</td>
+        </tr>
+        <tr>
+          <td>Autonomous Planetary Landing via Deep Reinforcement Learning and Transfer Learning</td>
+        </tr>
+        <tr>
+          <td>Improving Astronomy Image Quality Through Real-time Wavefront Estimation</td>
+        </tr>
+        <tr>
+          <td>On-Orbit Inspection of an Unknown Tumbling Target using NASA's Astrobee Robotic Free-Flyers</td>
+        </tr>
+        <tr>
+          <td>Spacecraft Time-Series Anomaly Detection Using Transfer Learning</td>
+        </tr>
+        <tr>
+          <td>SPACESeg: Automated Detection of Bed Junction Morphologies Indicating Signs of Life in Ediacaran Period</td>
+        </tr>
+        <tr>
+          <td>Visual SLAM for Asteroid Relative Navigation</td>
+        </tr>
+      </tbody>
+    </table>
+    <h3>Block B</h3>
+    <table class="table table-striped">
+      <tbody>
+        <tr>
+          <td>A Monocular Pose Estimation Case Study: The Hayabusa2 Minerva-II2 Deployment</td>
+        </tr>
+        <tr>
+          <td>A Spacecraft Dataset for Detection, Segmentation and Parts Recognition</td>
+        </tr>
+        <tr>
+          <td>Event-based spacecraft landing using time-to-contact</td>
+        </tr>
+        <tr>
+          <td>From Rocks to Walls: a Model-free Reinforcement Learning Approach to Dry Stacking with Irregular Rocks</td>
+        </tr>
+        <tr>
+          <td>Investigating Spiking Neural Networks for Energy-Efficient On-Board AI Applications. A Case Study in Land Cover and Land Use Classification</td>
+        </tr>
+        <tr>
+          <td>LSPnet: A 2D Localization-oriented Spacecraft Pose Estimation Neural Network</td>
+        </tr>
+        <tr>
+          <td>MRSCAtt: A Spatio-Channel Attention-Guided Network for Mars Rover Image Classification</td>
+        </tr>
+        <tr>
+          <td>Spot the GEO Satellites: From Dataset to Kelvins SpotGEO Challenge</td>
+        </tr>
+        <tr>
+          <td>Vision-based Neural Scene Representations for Spacecraft</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+
+
 
    
 <div class="row" id="cfp">
