@@ -139,13 +139,13 @@ acknowledgements: ""
           <td>17:20</td>
           <td>01:20</td>
           <td>11:20</td>          
-          <td>Spotlight presentations (see <a href="#papers">paper list</a>)</td>
+          <td>Spotlight presentations<br>5 mins per paper<br> <a href="#papers">List of papers</a></td>
         </tr>
         <tr>
           <td>18:00</td>
           <td>02:00</td>
           <td>12:00</td>          
-          <td>Poster session</td>
+          <td>Poster session<br>Presented using Gatherly</td>
         </tr>
         <tr>
           <td>18:20</td>
@@ -191,13 +191,13 @@ acknowledgements: ""
           <td>10:05</td>
           <td>18:05</td>
           <td>04:05</td>          
-          <td>Spotlight presentations (see <a href="#papers">paper list</a>)</td>
+          <td>Spotlight presentations<br>5 mins per paper<br><a href="#papers">List of papers</a></td>
         </tr>
         <tr>
           <td>10:50</td>
           <td>18:50</td>
           <td>04:50</td>          
-          <td>Poster session</td>
+          <td>Poster session<br>Presented using Gatherly</td>
         </tr>
         <tr>
           <td>11:10</td>
