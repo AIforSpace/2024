@@ -237,10 +237,65 @@ acknowledgements: ""
   <div class="col-xs-12">
     <h2>Schedule</h2>
     <p>
-      TBA.
+      The programe of the workshop is divided into two blocks of sessions. 
     </p>
   </div>
 </div>
+
+<div class="row">
+  <div class="col-xs-12">
+    <p>
+       <b>Block A</b><br>
+        Europe (Central) start time: 04:00pm 19 Jun 2021 <br>
+        Australia (Sydney) start time: 00:00am 20 Jun 2021 <br>
+        N. America (East) start time: 10:00am 19 Jun 2021
+    </p>
+    <table class="table table-striped">
+      <tbody>
+        <tr>
+            <th>Duration (mins)</th>
+            <th>Activity</th>
+            <th>Host</th>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>Welcome address</td>
+          <td>Tat-Jun Chin</td>
+        </tr>
+        <tr>
+          <td>30</td>
+          <td>Keynote 1: Shirley Ho</td>
+          <td>Tat-Jun Chin</td>
+        </tr>
+        <tr>
+          <td>30</td>
+          <td>Keynote 2: Courtney Mario</td>
+          <td>Luca Carlone</td>
+        </tr>
+        <tr>
+          <td>15</td>
+          <td>Intro to MDS Software (Blackswan Technologies)</td>
+          <td>Marius Klimavicius</td>
+        </tr>
+        <tr>
+          <td>40</td>
+          <td>Spotlight presentations (x8)</td>
+          <td>Pablo Gómez</td>
+        </tr>
+        <tr>
+          <td>20</td>
+          <td>Poster session</td>
+          <td>Tat-Jun Chin, Luca Carlone, Marius Klimavicius, Pablo Gómez</td>
+        </tr>
+        <tr>
+          <td>10</td>
+          <td>Award announcements</td>
+          <td>Tat-Jun Chin</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div><br>
 
 
 
