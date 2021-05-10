@@ -38,6 +38,7 @@ acknowledgements: ""
 
 <br>
 
+<!--
 <div class="row" id="intro">
   <div class="col-xs-12">
     <center><h2 style="font-size:40px"><a href="#cfp">Call for Papers</a></h2></center>
@@ -45,6 +46,7 @@ acknowledgements: ""
     <center><h3 style="font-size:15px"><a href="https://cmt3.research.microsoft.com/AI4Space2021/">Submit Your Paper</a></h3></center>        
   </div>
 </div>
+-->
 
 <div class="row" id="intro">
   <div class="col-xs-12">
@@ -297,6 +299,56 @@ acknowledgements: ""
   </div>
 </div><br>
 
+
+<div class="row">
+  <div class="col-xs-12">
+    <p>
+       <b>Block B</b><br>
+        Europe (Central) start time: 09:00am 20 Jun 2021 <br>
+        Australia (Sydney) start time: 05:00pm 20 Jun 2021 <br>
+        N. America (East) start time: 03:00am 20 Jun 2021
+    </p>
+    <table class="table table-striped">
+      <tbody>
+        <tr>
+            <th>Duration (mins)</th>
+            <th>Activity</th>
+            <th>Host</th>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>Welcome address</td>
+          <td>Tat-Jun Chin</td>
+        </tr>
+        <tr>
+          <td>30</td>
+          <td>Keynote 3: Dario Izzo</td>
+          <td>Clinton Fookes</td>
+        </tr>
+        <tr>
+          <td>30</td>
+          <td>Keynote 4: Yang Gao</td>
+          <td>Marcus Märtens</td>
+        </tr>
+        <tr>
+          <td>45</td>
+          <td>Spotlight presentations (x9)</td>
+          <td>Luke Heffernan</td>
+        </tr>
+        <tr>
+          <td>20</td>
+          <td>Poster session</td>
+          <td>Tat-Jun Chin, Clinton Fookes, Marcus Märtens, Luke Heffernan</td>
+        </tr>
+        <tr>
+          <td>10</td>
+          <td>Award announcements and conclusion</td>
+          <td>Tat-Jun Chin</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div><br>
 
 
 <br>
