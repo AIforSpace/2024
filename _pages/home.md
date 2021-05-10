@@ -118,21 +118,27 @@ acknowledgements: ""
             <th>Activity</th>
         </tr>
         <tr>
-          <td>16:00 19 June</td>
-          <td>00:00 20 June</td>
-          <td>10:00 19 June</td>          
+            <th>19 June 2021</th>
+            <th>20 June 2021</th>
+            <th>19 June 2021</th>
+            <th></th>
+        </tr>
+        <tr>
+          <td>16:00</td>
+          <td>00:00</td>
+          <td>10:00</td>          
           <td>Welcome address</td>
         </tr>
         <tr>
-          <td>30</td>
-          <td>30</td>
-          <td>30</td>          
+          <td>16:05</td>
+          <td>00:05</td>
+          <td>10:05</td>          
           <td>Keynote 1: Shirley Ho</td>
         </tr>
         <tr>
-          <td>30</td>
-          <td>30</td>
-          <td>30</td>          
+          <td>16:35</td>
+          <td>00:35</td>
+          <td>10:35</td>          
           <td>Keynote 2: Courtney Mario</td>
         </tr>
         <tr>
