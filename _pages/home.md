@@ -66,7 +66,7 @@ acknowledgements: ""
             <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/draper.png" | prepend:site.baseurl }}"></a>
         </div>
         <div class="col-xs-4">
-            <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/blackswan.png" | prepend:site.baseurl }}"></a>
+            <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/blackswan2.jpg" | prepend:site.baseurl }}"></a>
         </div>
         <div class="col-xs-4">
             <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/smartsat_crc.png" | prepend:site.baseurl }}"></a>
