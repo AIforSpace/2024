@@ -281,7 +281,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>40</td>
-          <td>Spotlight presentations (x8)</td>
+          <td>Spotlight presentations (see <a href="#papers">paper list</a>)</td>
           <td>Pablo Gómez</td>
         </tr>
         <tr>
@@ -331,7 +331,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>45</td>
-          <td>Spotlight presentations (x9)</td>
+          <td>Spotlight presentations (see <a href="#papers">paper list</a>)</td>
           <td>Luke Heffernan</td>
         </tr>
         <tr>
@@ -348,6 +348,79 @@ acknowledgements: ""
     </table>
   </div>
 </div><br>
+
+
+<div class="row" id="papers">
+  <div class="col-xs-12">
+    <h2>Accepted Papers</h2>
+    <p>
+      <b>Block A</b>
+    </p>
+    <table class="table table-striped">
+      <tbody>
+        <tr>
+          <td>AI for dating stars: a benchmarking study for gyrochronology</td>
+        </tr>
+        <tr>
+          <td>AI4MARS: A Dataset for Terrain-Aware Autonomous Driving on Mars</td>
+        </tr>
+        <tr>
+          <td>Autonomous Planetary Landing via Deep Reinforcement Learning and Transfer Learning</td>
+        </tr>
+        <tr>
+          <td>Improving Astronomy Image Quality Through Real-time Wavefront Estimation</td>
+        </tr>
+        <tr>
+          <td>On-Orbit Inspection of an Unknown Tumbling Target using NASA's Astrobee Robotic Free-Flyers</td>
+        </tr>
+        <tr>
+          <td>Spacecraft Time-Series Anomaly Detection Using Transfer Learning</td>
+        </tr>
+        <tr>
+          <td>SPACESeg: Automated Detection of Bed Junction Morphologies Indicating Signs of Life in Ediacaran Period</td>
+        </tr>
+        <tr>
+          <td>Visual SLAM for Asteroid Relative Navigation</td>
+        </tr>
+      </tbody>
+    </table>
+    <p>
+      <b>Block B</b>
+    </p>
+    <table class="table table-striped">
+      <tbody>
+        <tr>
+          <td>A Monocular Pose Estimation Case Study: The Hayabusa2 Minerva-II2 Deployment</td>
+        </tr>
+        <tr>
+          <td>A Spacecraft Dataset for Detection, Segmentation and Parts Recognition</td>
+        </tr>
+        <tr>
+          <td>Event-based spacecraft landing using time-to-contact</td>
+        </tr>
+        <tr>
+          <td>From Rocks to Walls: a Model-free Reinforcement Learning Approach to Dry Stacking with Irregular Rocks</td>
+        </tr>
+        <tr>
+          <td>Investigating Spiking Neural Networks for Energy-Efficient On-Board AI Applications. A Case Study in Land Cover and Land Use Classification</td>
+        </tr>
+        <tr>
+          <td>LSPnet: A 2D Localization-oriented Spacecraft Pose Estimation Neural Network</td>
+        </tr>
+        <tr>
+          <td>MRSCAtt: A Spatio-Channel Attention-Guided Network for Mars Rover Image Classification</td>
+        </tr>
+        <tr>
+          <td>Spot the GEO Satellites: From Dataset to Kelvins SpotGEO Challenge</td>
+        </tr>
+        <tr>
+          <td>Vision-based Neural Scene Representations for Spacecraft</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
 
 
 <br>
