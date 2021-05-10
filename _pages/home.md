@@ -113,15 +113,9 @@ acknowledgements: ""
       <tbody>
         <tr>
             <th>Europe (Central)<br>19 June 2021</th>
-            <th>Australia (Sydney)</th>
-            <th>N. America (East)</th>
+            <th>Australia (Sydney)<br>20 June 2021</th>
+            <th>N. America (East)<br>19 June 2021</th>
             <th>Activity</th>
-        </tr>
-        <tr>
-            <th>19 June 2021</th>
-            <th>20 June 2021</th>
-            <th>19 June 2021</th>
-            <th></th>
         </tr>
         <tr>
           <td>16:00</td>
@@ -142,27 +136,27 @@ acknowledgements: ""
           <td>Keynote 2: Courtney Mario</td>
         </tr>
         <tr>
-          <td>15</td>
-          <td>15</td>
-          <td>15</td>          
+          <td>17:05</td>
+          <td>01:05</td>
+          <td>11:05</td>          
           <td>Intro to MDS Software (Blackswan Technologies)</td>
         </tr>
         <tr>
-          <td>40</td>
-          <td>40</td>
-          <td>40</td>          
+          <td>17:20</td>
+          <td>01:20</td>
+          <td>11:20</td>          
           <td>Spotlight presentations (see <a href="#papers">paper list</a>)</td>
         </tr>
         <tr>
-          <td>20</td>
-          <td>20</td>
-          <td>20</td>          
+          <td>18:00</td>
+          <td>02:00</td>
+          <td>12:00</td>          
           <td>Poster session</td>
         </tr>
         <tr>
-          <td>10</td>
-          <td>10</td>
-          <td>10</td>          
+          <td>18:20</td>
+          <td>02:20</td>
+          <td>12:20</td>          
           <td>Award announcements</td>
         </tr>
       </tbody>
