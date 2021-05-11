@@ -156,7 +156,7 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12">
-    <h3>Block B(<a href="/2021/static/AI4Space Program (Block B).ics" download>add to calendar</a>)</h3>
+    <h3>Block B (<a href="/2021/static/AI4Space Program (Block B).ics" download>add to calendar</a>)</h3>
     <table class="table table-striped">
       <tbody>
         <tr>
