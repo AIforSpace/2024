@@ -21,7 +21,7 @@ acknowledgements: ""
     <br>
     <center><h3 style="color:white">1st Workshop on AI for Space</h3></center>
     <center><h3 style="color:white">In conjunction with <a href="http://cvpr2021.thecvf.com/">CVPR 2021</a></h3></center>    
-    <center><h3 style="color:white">Date: 10am 19 June 2021 (N. America East)</h3></center>
+    <center><h3 style="color:white">Date: 19 June 2021 (see detailed dates/time below)</h3></center>
     <!-- <center><span style="font-weight:400;">14th of June 2020</span></center> -->
     <br>
   </div>
@@ -98,7 +98,7 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12">
-    <h3>Block A &nbsp &nbsp (<a href="/2021/static/AI4Space Program (Block A).ics" download><b>add to calendar</b></a> to add program in your calendar)</h3>
+    <h3>Block A (<a href="/2021/static/AI4Space Program (Block A).ics" download><b>download calendar</b></a> to add program in your calendar)</h3>
     <table class="table table-striped">
       <tbody>
         <tr>
@@ -156,7 +156,7 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12">
-    <h3>Block B &nbsp &nbsp (<a href="/2021/static/AI4Space Program (Block B).ics" download><b>add to calendar</b></a> to add program in your calendar)</h3>
+    <h3>Block B (<a href="/2021/static/AI4Space Program (Block B).ics" download><b>download calendar</b></a> to add program in your calendar)</h3>
     <table class="table table-striped">
       <tbody>
         <tr>
