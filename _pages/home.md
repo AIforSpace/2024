@@ -98,7 +98,7 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12">
-    <h3>Block A (<a href="/2021/static/AI4Space Program (Block A).ics" download>add to calendar</a>)</h3>
+    <h3>Block A &nbsp &nbsp (<a href="/2021/static/AI4Space Program (Block A).ics" download><b>add to calendar</b></a> to add program in your calendar)</h3>
     <table class="table table-striped">
       <tbody>
         <tr>
@@ -156,7 +156,7 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12">
-    <h3>Block B (<a href="/2021/static/AI4Space Program (Block B).ics" download>add to calendar</a>)</h3>
+    <h3>Block B &nbsp &nbsp (<a href="/2021/static/AI4Space Program (Block B).ics" download><b>add to calendar</b></a> to add program in your calendar)</h3>
     <table class="table table-striped">
       <tbody>
         <tr>
