@@ -593,7 +593,7 @@ acknowledgements: ""
     </a>
     <div class="people-name">
       <a href="https://www.linkedin.com/in/luke-heffernan/">Luke Heffernan</a>
-      <h6>The University of Adelaide</h6>
+      <h6>Australian Institute for Machine Learning</h6>
     </div>
   </div>
   
