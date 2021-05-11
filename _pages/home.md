@@ -337,46 +337,81 @@ acknowledgements: ""
     <table class="table table-striped" id="papers_b">
       <tbody>
         <tr>
+          <th>
+          Order of presentation
+          </th>
+          <th>
+          Paper title and authors
+          </th>        
+        </tr>
+        <tr>
+          <td>
+          1  
+          </td>
           <td>A Monocular Pose Estimation Case Study: The Hayabusa2 Minerva-II2 Deployment
           <br><em>Andrew Price, Kazuya Yoshida</em>
           </td>
         </tr>
         <tr>
+          <td>
+          2  
+          </td>
           <td>A Spacecraft Dataset for Detection, Segmentation and Parts Recognition
           <br><em>Dung Anh Hoang, Bo Chen, Tat-Jun Chin</em>
           </td>
         </tr>
         <tr>
+          <td>
+          3  
+          </td>
           <td>Event-based spacecraft landing using time-to-contact
           <br><em>Olaf Sikorski, Dario Izzo, Gabriele Meoni</em>
           </td>
         </tr>
         <tr>
+          <td>
+          4  
+          </td>
           <td>From Rocks to Walls: a Model-free Reinforcement Learning Approach to Dry Stacking with Irregular Rocks
           <br><em>André Menezes, Pedro Vicente, Alexandre Bernardino, Rodrigo Ventura</em>
           </td>
         </tr>
         <tr>
+          <td>
+          5  
+          </td>
           <td>Investigating Spiking Neural Networks for Energy-Efficient On-Board AI Applications. A Case Study in Land Cover and Land Use Classification
           <br><em>Andrzej S Kucik, Gabriele Meoni</em>
           </td>
         </tr>
         <tr>
+          <td>
+          6 
+          </td>
           <td>LSPnet: A 2D Localization-oriented Spacecraft Pose Estimation Neural Network
           <br><em>Albert Garcia, Mohamed Adel Musallam, Vincent Gaudilliere, Enjie Ghorbel, Kassem Al Ismaeil, Marcos Perez, Djamila Aouada</em>
           </td>
         </tr>
         <tr>
+          <td>
+          7  
+          </td>
           <td>MRSCAtt: A Spatio-Channel Attention-Guided Network for Mars Rover Image Classification
           <br><em>Anirudh Srinivasan Chakravarthy, Roshan Roy, Praveen  Ravirathinam</em>
           </td>
         </tr>
         <tr>
+          <td>
+          8  
+          </td>
           <td>Spot the GEO Satellites: From Dataset to Kelvins SpotGEO Challenge
           <br><em>Bo Chen, Daqi Liu, Tat-Jun Chin, Mark Rutten, Dawa Derksen, Marcus Maertens, Moritz Von Looz, Gurvan Lecuyer, Dario Izzo</em>
           </td>
         </tr>
         <tr>
+          <td>
+          9 
+          </td>
           <td>Vision-based Neural Scene Representations for Spacecraft
           <br><em>Anne Mergy, Gurvan Lecuyer, Dawa Derksen, Dario Izzo</em>
           </td>
