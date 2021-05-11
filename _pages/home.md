@@ -259,42 +259,74 @@ acknowledgements: ""
     <table class="table table-striped" id="papers_a">
       <tbody>
         <tr>
+          <th>
+          Order of presentation
+          </th>
+          <th>
+          Paper title and authors
+          </th>        
+        </tr>
+        <tr>
+          <td>
+          1  
+          </td>
           <td>
           AI for dating stars: a benchmarking study for gyrochronology
           <br><em>Andres Moya, Jarmi Recio Martínez, Roberto Javier Lopez-Sastre</em>
           </td>
         </tr>
         <tr>
+          <td>
+          2  
+          </td>
           <td>AI4MARS: A Dataset for Terrain-Aware Autonomous Driving on Mars
           <br><em>R. Michael Swan, Deegan J Atha, Henry A Leopold, Cindy Chiu, Matthew Gildner, Stephanie L Oij, Masahiro Ono</em>
           </td>
         </tr>
         <tr>
+          <td>
+          3  
+          </td>
           <td>Autonomous Planetary Landing via Deep Reinforcement Learning and Transfer Learning
           <br><em>Giulia Ciabatti, Shreyansh Daftry, Roberto Capobianco</em>
           </td>
         </tr>
         <tr>
+          <td>
+          4  
+          </td>
           <td>Improving Astronomy Image Quality Through Real-time Wavefront Estimation
           <br><em>David Thomas, Joshua Meyers, Steven Kahn</em>
           </td>
         </tr>
         <tr>
+          <td>
+          5  
+          </td>
           <td>On-Orbit Inspection of an Unknown Tumbling Target using NASA's Astrobee Robotic Free-Flyers
           <br><em>Charles E Oestreich, Antonio Teran Espinoza, Jessica Todd, Keenan Albee, Richard Linares</em>
           </td>
         </tr>
         <tr>
+          <td>
+          6  
+          </td>
           <td>Spacecraft Time-Series Anomaly Detection Using Transfer Learning
           <br><em>Sriram Baireddy, Sundip Desai, James Mathieson, Richard Foster, Moses Chan, Mary Comer, Edward Delp</em>
           </td>
         </tr>
         <tr>
+          <td>
+          7  
+          </td>
           <td>SPACESeg: Automated Detection of Bed Junction Morphologies Indicating Signs of Life in Ediacaran Period
           <br><em>Padmaja Jonnalagedda, Rachel Surprenant, Mary Droser, Bir Bhanu</em>
           </td>
         </tr>
         <tr>
+          <td>
+          8  
+          </td>
           <td>Visual SLAM for Asteroid Relative Navigation
           <br><em>Mehregan Dor, Katherine A Skinner, Travis Driver, Panagiotis Tsiotras</em>
           </td>
