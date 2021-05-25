@@ -62,30 +62,30 @@ acknowledgements: ""
         <p>
             <h2>Sponsors</h2>
         </p>
-        <div class="col-xs-3">
+        <div class="col-xs-4">
             <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/draper.png" | prepend:site.baseurl }}"></a>
         </div>
-        <div class="col-xs-3">
+        <div class="col-xs-4">
             <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/blackswan.png" | prepend:site.baseurl }}"></a>
         </div>
-        <div class="col-xs-3">
-            <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/smartsat_crc.png" | prepend:site.baseurl }}"></a>
-        </div>
-        <div class="col-xs-3">
+        <div class="col-xs-4">
             <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/asa.png" | prepend:site.baseurl }}"></a>
         </div>
     </div>
     <p>
-        <div class="col-xs-6">
+        <div class="col-xs-9">
              <p>
                 <h2>Affiliated organisations</h2>
              </p>
              <p>
-                 <div class="col-xs-6">
+                 <div class="col-xs-4">
                      <a href="#organisations"><img class="people-pic" src="{{ "/static/img/sponsors/esa2.png" | prepend:site.baseurl }}"></a>
                  </div>
-                 <div class="col-xs-6">
+                 <div class="col-xs-4">
                      <a href="#organisations"><img class="people-pic" src="{{ "/static/img/sponsors/act2.png" | prepend:site.baseurl }}"></a>
+                 </div>
+                 <div class="col-xs-4">
+                     <a href="#sponsors"><img class="people-pic" src="{{ "/static/img/sponsors/smartsat_crc.png" | prepend:site.baseurl }}"></a>
                  </div>
              </p>
          </div>
@@ -653,11 +653,11 @@ acknowledgements: ""
 
 <div class="row">
 
-<div class="col-xs-6">
+<div class="col-xs-4">
     <p>
-        <div class="col-xs-3">
+        <div class="col-xs-2">
         </div>
-        <div class="col-xs-9">
+        <div class="col-xs-10">
             <a href="https://www.draper.com/"><img class="people-pic-big" src="{{ "/static/img/sponsors/draper.png" | prepend:site.baseurl }}"></a> 
         </div>
     </p>
@@ -666,11 +666,11 @@ acknowledgements: ""
     </p>
 </div>
 
-<div class="col-xs-6">
+<div class="col-xs-4">
     <p>
-    <div class="col-xs-3">
+    <div class="col-xs-2">
     </div>
-    <div class="col-xs-9">
+    <div class="col-xs-10">
         <a href="https://lt.linkedin.com/company/blackswanspace/"><img class="people-pic-big" src="{{ "/static/img/sponsors/blackswan.png" | prepend:site.baseurl }}"></a> 
         </div>
     </p>
@@ -679,28 +679,11 @@ acknowledgements: ""
         </p>
 </div>
 
-</div>
-
-<div class="row">
-
-<div class="col-xs-6">
+<div class="col-xs-4">
     <p>
-    <div class="col-xs-3">
+    <div class="col-xs-2">
     </div>
-    <div class="col-xs-9">
-    <a href="https://smartsatcrc.com/"><img class="people-pic-big" src="{{ "/static/img/sponsors/smartsat_crc.png" | prepend:site.baseurl }}"></a>
-    </div>
-    </p>
-    <p>
-    The <a href="https://smartsatcrc.com/">SmartSat CRC</a> is a consortium of universities and other research organisations, partnered with industry that has been funded by the Australian Government to develop know-how and technologies in advanced telecommunications and IoT connectivity, intelligent satellite systems and Earth observation next generation data services. The impact of this research will be to develop intellectual property and a specialist industry expertise that will spawn new businesses, create export economic value and generate new high-tech jobs for all Australians.
-    </p>
-</div>
-
-<div class="col-xs-6">
-    <p>
-    <div class="col-xs-3">
-    </div>
-    <div class="col-xs-9">
+    <div class="col-xs-10">
     <a href="https://www.space.gov.au/"><img class="people-pic-big" src="{{ "/static/img/sponsors/asa.png" | prepend:site.baseurl }}"></a>
     </div>
     </p>
@@ -721,11 +704,11 @@ acknowledgements: ""
 
 <div class="row">
 
-<div class="col-xs-6">
+<div class="col-xs-4">
     <p>
-    <div class="col-xs-3">
+    <div class="col-xs-2">
     </div>
-    <div class="col-xs-9">
+    <div class="col-xs-10">
     <a href="https://www.esa.int/"><img class="people-pic-big" src="{{ "/static/img/sponsors/esa.png" | prepend:site.baseurl }}"></a>
     </div>
     </p>
@@ -734,16 +717,29 @@ acknowledgements: ""
     </p>
 </div>
 
-<div class="col-xs-6">
+<div class="col-xs-4">
     <p>
-    <div class="col-xs-3">
+    <div class="col-xs-2">
     </div>
-    <div class="col-xs-9">
+    <div class="col-xs-10">
     <a href="https://www.esa.int/gsp/ACT/"><img class="people-pic-big" src="{{ "/static/img/sponsors/act.png" | prepend:site.baseurl }}"></a>
     </div>
     </p>
     <p>
     The <a href="https://www.esa.int/gsp/ACT/">Advanced Concepts Team (ACT)</a> is part of the ESA's Directorate of Technical and Quality Management (TEC-SF). The team is essentially a channel for the study of technologies and ideas that are of strategical importance in the long term planning of ESA. It serves the function of a think tank providing decision makers the support of a highly multidisciplinary research group. Science and engineering research fellows (PhDs working at ESA for 2 years), Young Graduate Trainee and stagiaires form the bulk of this Team. Based at ESTEC, they carry out research work on advanced topics and emerging technologies and perform highly skilled analysis on a wide range of topics.
+    </p>
+</div>
+
+<div class="col-xs-4">
+    <p>
+    <div class="col-xs-2">
+    </div>
+    <div class="col-xs-10">
+    <a href="https://smartsatcrc.com/"><img class="people-pic-big" src="{{ "/static/img/sponsors/smartsat_crc.png" | prepend:site.baseurl }}"></a>
+    </div>
+    </p>
+    <p>
+    The <a href="https://smartsatcrc.com/">SmartSat CRC</a> is a consortium of universities and other research organisations, partnered with industry that has been funded by the Australian Government to develop know-how and technologies in advanced telecommunications and IoT connectivity, intelligent satellite systems and Earth observation next generation data services. The impact of this research will be to develop intellectual property and a specialist industry expertise that will spawn new businesses, create export economic value and generate new high-tech jobs for all Australians.
     </p>
 </div>
 
