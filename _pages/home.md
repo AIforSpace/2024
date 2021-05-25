@@ -58,7 +58,7 @@ acknowledgements: ""
 </div><br>
 
 <div class="row">
-    <div class="col-xs-7">
+    <div class="col-xs-12">
         <p>
             <h2>Sponsors</h2>
         </p>
@@ -71,23 +71,25 @@ acknowledgements: ""
         <div class="col-xs-4">
             <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/smartsat_crc.png" | prepend:site.baseurl }}"></a>
         </div>
+        <div class="col-xs-4">
+            <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/asa2.png" | prepend:site.baseurl }}"></a>
+        </div>
     </div>
-    <div class="col-xs-5">
-         <p>
-            <h2>Affiliated organisations</h2>
-         </p>
-         <p>
-             <div class="col-xs-4">
-                 <a href="#organisations"><img class="people-pic" src="{{ "/static/img/sponsors/asa2.png" | prepend:site.baseurl }}"></a>
-             </div>
-             <div class="col-xs-4">
-                 <a href="#organisations"><img class="people-pic" src="{{ "/static/img/sponsors/esa2.png" | prepend:site.baseurl }}"></a>
-             </div>
-             <div class="col-xs-4">
-                 <a href="#organisations"><img class="people-pic" src="{{ "/static/img/sponsors/act2.png" | prepend:site.baseurl }}"></a>
-             </div>
-         </p>
-     </div>
+    <p>
+        <div class="col-xs-5">
+             <p>
+                <h2>Affiliated organisations</h2>
+             </p>
+             <p>
+                 <div class="col-xs-6">
+                     <a href="#organisations"><img class="people-pic" src="{{ "/static/img/sponsors/esa2.png" | prepend:site.baseurl }}"></a>
+                 </div>
+                 <div class="col-xs-6">
+                     <a href="#organisations"><img class="people-pic" src="{{ "/static/img/sponsors/act2.png" | prepend:site.baseurl }}"></a>
+                 </div>
+             </p>
+         </div>
+     </p>
 </div><br>
 
 <div class="row" id="program">
