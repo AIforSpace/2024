@@ -63,10 +63,10 @@ acknowledgements: ""
             <h2>Sponsors</h2>
         </p>
         <div class="col-xs-3">
-            <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/draper2.png" | prepend:site.baseurl }}"></a>
+            <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/draper.png" | prepend:site.baseurl }}"></a>
         </div>
         <div class="col-xs-3">
-            <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/blackswan2.jpg" | prepend:site.baseurl }}"></a>
+            <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/blackswan.jpg" | prepend:site.baseurl }}"></a>
         </div>
         <div class="col-xs-3">
             <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/smartsat_crc.png" | prepend:site.baseurl }}"></a>
@@ -722,13 +722,29 @@ acknowledgements: ""
 <div class="row">
 
 <div class="col-xs-6">
+    <p>
+    <div class="col-xs-3">
+    </div>
+    <div class="col-xs-9">
     <a href="https://www.esa.int/"><img class="people-pic-big" src="{{ "/static/img/sponsors/esa.png" | prepend:site.baseurl }}"></a>
+    </div>
+    </p>
+    <p>
     The <a href="https://www.esa.int/">European Space Agency (ESA)</a> is Europe’s gateway to space. Its mission is to shape the development of Europe’s space capability and ensure that investment in space continues to deliver benefits to the citizens of Europe and the world.
+    </p>
 </div>
 
 <div class="col-xs-6">
+    <p>
+    <div class="col-xs-3">
+    </div>
+    <div class="col-xs-9">
     <a href="https://www.esa.int/gsp/ACT/"><img class="people-pic-big" src="{{ "/static/img/sponsors/act.png" | prepend:site.baseurl }}"></a>
+    </div>
+    </p>
+    <p>
     The <a href="https://www.esa.int/gsp/ACT/">Advanced Concepts Team (ACT)</a> is part of the ESA's Directorate of Technical and Quality Management (TEC-SF). The team is essentially a channel for the study of technologies and ideas that are of strategical importance in the long term planning of ESA. It serves the function of a think tank providing decision makers the support of a highly multidisciplinary research group. Science and engineering research fellows (PhDs working at ESA for 2 years), Young Graduate Trainee and stagiaires form the bulk of this Team. Based at ESTEC, they carry out research work on advanced topics and emerging technologies and perform highly skilled analysis on a wide range of topics.
+    </p>
 </div>
 
 </div>
