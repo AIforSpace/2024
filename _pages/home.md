@@ -62,21 +62,21 @@ acknowledgements: ""
         <p>
             <h2>Sponsors</h2>
         </p>
-        <div class="col-xs-4">
+        <div class="col-xs-3">
             <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/draper2.png" | prepend:site.baseurl }}"></a>
         </div>
-        <div class="col-xs-4">
+        <div class="col-xs-3">
             <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/blackswan2.jpg" | prepend:site.baseurl }}"></a>
         </div>
-        <div class="col-xs-4">
+        <div class="col-xs-3">
             <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/smartsat_crc.png" | prepend:site.baseurl }}"></a>
         </div>
-        <div class="col-xs-4">
+        <div class="col-xs-3">
             <a href="#sponsors"><img class="people-pic-big" src="{{ "/static/img/sponsors/asa2.png" | prepend:site.baseurl }}"></a>
         </div>
     </div>
     <p>
-        <div class="col-xs-5">
+        <div class="col-xs-6">
              <p>
                 <h2>Affiliated organisations</h2>
              </p>
