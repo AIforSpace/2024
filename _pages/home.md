@@ -281,8 +281,8 @@ acknowledgements: ""
           <td>
           2  
           </td>
-          <td>AI4MARS: A Dataset for Terrain-Aware Autonomous Driving on Mars
-          <br><em>R. Michael Swan, Deegan J Atha, Henry A Leopold, Cindy Chiu, Matthew Gildner, Stephanie L Oij, Masahiro Ono</em>
+          <td>Investigating Spiking Neural Networks for Energy-Efficient On-Board AI Applications. A Case Study in Land Cover and Land Use Classification
+          <br><em>Andrzej S Kucik, Gabriele Meoni</em>
           </td>
         </tr>
         <tr>
@@ -382,8 +382,8 @@ acknowledgements: ""
           <td>
           5  
           </td>
-          <td>Investigating Spiking Neural Networks for Energy-Efficient On-Board AI Applications. A Case Study in Land Cover and Land Use Classification
-          <br><em>Andrzej S Kucik, Gabriele Meoni</em>
+          <td>AI4MARS: A Dataset for Terrain-Aware Autonomous Driving on Mars
+          <br><em>R. Michael Swan, Deegan J Atha, Henry A Leopold, Cindy Chiu, Matthew Gildner, Stephanie L Oij, Masahiro Ono</em>
           </td>
         </tr>
         <tr>
