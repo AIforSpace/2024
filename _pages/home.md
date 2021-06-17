@@ -177,7 +177,7 @@ acknowledgements: ""
           <td>09:05</td>
           <td>17:05</td>
           <td>03:05</td>          
-          <td>Keynote 3: <a href="#Dario">Dario Izzo</a></td>
+          <td>Keynote 3: <a href="#Dario">Dario Izzo</a><br>Emerging trends in ``deep space learning"</td>
         </tr>
         <tr>
           <td>09:35</td>
