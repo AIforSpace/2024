@@ -125,7 +125,7 @@ acknowledgements: ""
           <td>16:35</td>
           <td>00:35</td>
           <td>10:35</td>          
-          <td>Keynote 2: <a href="#Courtney">Courtney Mario</a></td>
+          <td>Keynote 2: <a href="#Courtney">Courtney Mario</a><br>Developing Vision Navigation Systems for Space Applications and Lessons Learned from OSIRIS-REx</td>
         </tr>
         <tr>
           <td>17:05</td>
