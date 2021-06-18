@@ -183,7 +183,7 @@ acknowledgements: ""
           <td>09:35</td>
           <td>17:35</td>
           <td>03:35</td>          
-          <td>Keynote 4: <a href="#Yang">Yang Gao</a></td>
+          <td>Keynote 4: <a href="#Yang">Yang Gao</a><br>AI Robotics for Sustainable Space Exploration & Exploitation</td>
         </tr>
         <tr>
           <td>10:05</td>
