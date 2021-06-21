@@ -437,7 +437,7 @@ acknowledgements: ""
     <br><br>Improving Astronomy Image Quality Through Real-time Wavefront Estimation <br><em>David Thomas, Joshua Meyers, Steven Kahn</em>
     </p>
   </div>
-</div>
+</div><br>
 
 <div class="row">
   <div class="col-md-12">
@@ -447,7 +447,7 @@ acknowledgements: ""
     <em>R. Michael Swan, Deegan J Atha, Henry A Leopold, Cindy Chiu, Matthew Gildner, Stephanie L Oij, Masahiro Ono</em>
     </p>
   </div>
-</div>
+</div><br>
 
 <div class="row">
   <div class="col-md-12">
@@ -455,13 +455,13 @@ acknowledgements: ""
     <p>
     SPACESeg: Automated Detection of Bed Junction Morphologies Indicating Signs of Life in Ediacaran Period
     <br><em>Padmaja Jonnalagedda, Rachel Surprenant, Mary Droser, Bir Bhanu</em>
-    A Monocular Pose Estimation Case Study: The Hayabusa2 Minerva-II2 Deployment
+    <br>A Monocular Pose Estimation Case Study: The Hayabusa2 Minerva-II2 Deployment
     <br><em>Andrew Price, Kazuya Yoshida</em>
-    Vision-based Neural Scene Representations for Spacecraft
+    <br>Vision-based Neural Scene Representations for Spacecraft
     <br><em>Anne Mergy, Gurvan Lecuyer, Dawa Derksen, Dario Izzo</em>
     </p>
   </div>
-</div>
+</div><br>
 
 
    
