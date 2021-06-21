@@ -435,7 +435,7 @@ acknowledgements: ""
   <div class="col-md-12">
     <img class="people-pic" style="float:left;margin-right:30px;" src="{{ "/static/img/bpa.png" | prepend:site.baseurl }}">
     <p>
-    Improving Astronomy Image Quality Through Real-time Wavefront Estimation <br><em>David Thomas, Joshua Meyers, Steven Kahn</em>
+    <br><br>Improving Astronomy Image Quality Through Real-time Wavefront Estimation <br><em>David Thomas, Joshua Meyers, Steven Kahn</em>
     </p>
   </div>
 </div><br>
