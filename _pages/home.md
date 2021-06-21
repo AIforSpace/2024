@@ -428,9 +428,8 @@ acknowledgements: ""
   <div class="col-xs-12">
     <h2>Awards</h2>
   </div>
-</div><br>
+</div>
 
-<!-- 26 -->
 <div class="row">
   <div class="col-md-12">
     <img class="people-pic" style="float:left;margin-right:30px;" src="{{ "/static/img/bpa.png" | prepend:site.baseurl }}">
@@ -438,7 +437,31 @@ acknowledgements: ""
     <br><br>Improving Astronomy Image Quality Through Real-time Wavefront Estimation <br><em>David Thomas, Joshua Meyers, Steven Kahn</em>
     </p>
   </div>
-</div><br>
+</div>
+
+<div class="row">
+  <div class="col-md-12">
+    <img class="people-pic" style="float:left;margin-right:30px;" src="{{ "/static/img/bpfa.png" | prepend:site.baseurl }}">
+    <p>
+    <br><br>AI4MARS: A Dataset for Terrain-Aware Autonomous Driving on Mars<br>
+    <em>R. Michael Swan, Deegan J Atha, Henry A Leopold, Cindy Chiu, Matthew Gildner, Stephanie L Oij, Masahiro Ono</em>
+    </p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-12">
+    <img class="people-pic" style="float:left;margin-right:30px;" src="{{ "/static/img/bpra.png" | prepend:site.baseurl }}">
+    <p>
+    SPACESeg: Automated Detection of Bed Junction Morphologies Indicating Signs of Life in Ediacaran Period
+    <br><em>Padmaja Jonnalagedda, Rachel Surprenant, Mary Droser, Bir Bhanu</em>
+    A Monocular Pose Estimation Case Study: The Hayabusa2 Minerva-II2 Deployment
+    <br><em>Andrew Price, Kazuya Yoshida</em>
+    Vision-based Neural Scene Representations for Spacecraft
+    <br><em>Anne Mergy, Gurvan Lecuyer, Dawa Derksen, Dario Izzo</em>
+    </p>
+  </div>
+</div>
 
 
    
