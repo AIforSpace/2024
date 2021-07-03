@@ -103,6 +103,7 @@ acknowledgements: ""
   <h3>Watch the video recordings of <a href="https://youtu.be/j83aOI0suuo"><b>Block A</b></a> and <a href="https://youtu.be/oadmxrgiE1g"><b>Block B</b></a> on YouTube.</h3>
  </div>
 </div>
+<br>
 
 <div class="row">
   <div class="col-xs-12">
