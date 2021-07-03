@@ -38,9 +38,9 @@ acknowledgements: ""
 
 <br>
 
-<div class="row" id="intro">
+<div class="row" id="">
   <div class="col-xs-12">
-    <center><h2 style="font-size:30px"><a href="#awards">Awards</a></h2></center>
+    <center><h2 style="font-size:30px"><a href="#program">Watch workshop videos</a></h2></center>
   </div>
 </div>
 
@@ -98,9 +98,11 @@ acknowledgements: ""
   </div>
 </div>
 
-<div class="col-xs-12">
+<br>
+<div class="row">
   <h3>Watch the video recordings of <a href="https://youtu.be/j83aOI0suuo">Block A</a> and <a href="https://youtu.be/oadmxrgiE1g">Block B</a> on YouTube.</h3>
 </div>
+<br>
 
 <div class="row">
   <div class="col-xs-12">
