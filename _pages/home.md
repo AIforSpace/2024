@@ -98,6 +98,10 @@ acknowledgements: ""
   </div>
 </div>
 
+<div class="col-xs-12">
+  <h3>Watch the video recordings of <a href="https://youtu.be/j83aOI0suuo">Block A</a> and <a href="https://youtu.be/oadmxrgiE1g">Block B</a> on YouTube.</h3>
+</div>
+
 <div class="row">
   <div class="col-xs-12">
     <h3>Block A (<a href="/2021/static/AI4Space Program (Block A).ics" download><b>download calendar</b></a> to add program to your calendar)</h3>
