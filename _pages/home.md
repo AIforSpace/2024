@@ -38,11 +38,13 @@ acknowledgements: ""
 
 <br>
 
+<!-----
 <div class="row" id="">
   <div class="col-xs-12">
     <center><h2 style="font-size:30px"><a href="#program">Watch workshop videos</a></h2></center>
   </div>
 </div>
+----->
 
 <div class="row" id="intro">
   <div class="col-xs-12">
