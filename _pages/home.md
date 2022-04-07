@@ -132,9 +132,9 @@ acknowledgements: ""
   </div>   
   
   <div class="col-xs-2">
-    <a href="https://bochenys.github.io/">
+    <!---<a href="">--->
       <img class="people-pic" src="{{ "/static/img/people/sofia.jpeg" | prepend:site.baseurl }}">
-    </a>
+    <!---</a>--->
     <div class="people-name">
       <a href="">Sofia Mcleod</a>
       <h6>The University of Adelaide</h6>
