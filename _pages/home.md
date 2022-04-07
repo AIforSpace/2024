@@ -94,6 +94,13 @@ acknowledgements: ""
     </div>
   </div>
 
+
+  
+  </div>
+  
+  
+  <div class="row">
+  
   <div class="col-xs-2">
     <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/viorela-ila.html">
       <img class="people-pic" src="{{ "/static/img/people/viorela.png" | prepend:site.baseurl }}">
@@ -122,12 +129,7 @@ acknowledgements: ""
       <a href="https://g-kakareko.github.io/index.html">Grzegorz Kakareko</a>
       <h6>Spire Global</h6>
     </div>
-  </div>  
-  
-  </div>
-  
-  
-  <div class="row">
+  </div>   
   
   <div class="col-xs-2">
     <a href="https://bochenys.github.io/">
