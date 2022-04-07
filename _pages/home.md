@@ -116,9 +116,11 @@ acknowledgements: ""
 <div class="row" id="program">
   <div class="col-xs-12">
     <h2>Workshop Program</h2>
+    TBD
   </div>
 </div>
 
+<!----
 <div class="row">
  <div class="col-xs-12">
   <h3>Watch the video recordings of <a href="https://youtu.be/j83aOI0suuo"><b>Block A</b></a> and <a href="https://youtu.be/oadmxrgiE1g"><b>Block B</b></a> on YouTube.</h3>
@@ -235,14 +237,17 @@ acknowledgements: ""
     </table>
   </div>
 </div><br>
+---->
 
 <div class="row" id="speakers">
   <div class="col-xs-12">
     <h2>Invited Speakers</h2>
+    TBD
   </div>
 </div><br>
 
 <!-- 26 -->
+<!-----
 <div class="row">
   <div class="col-md-12" id="Shirley">
     <a href="https://www.simonsfoundation.org/team/shirley-ho/"><img class="people-pic-big" style="float:left;margin-right:30px;" src="{{ "/static/img/speakers/shirley.png" | prepend:site.baseurl }}"></a>
@@ -251,8 +256,10 @@ acknowledgements: ""
     </p>
   </div>
 </div><br>
+--->
 
 <!-- 24 -->
+<!-----
 <div class="row">
   <div class="col-md-12" id="Courtney">
     <a href="https://www.linkedin.com/in/courtneymario"><img class="people-pic-big" style="float:left;margin-right:30px;" src="{{ "/static/img/speakers/courtney.jpg" | prepend:site.baseurl }}"></a>
@@ -261,8 +268,10 @@ acknowledgements: ""
     </p>
   </div>
 </div><br>
+---->
 
 <!-- 23 -->
+<!-----
 <div class="row">
   <div class="col-md-12" id="Dario">
     <a href="https://www.esa.int/gsp/ACT/team/dario_izzo/"><img class="people-pic-big" style="float:left;margin-right:30px;" src="{{ "/static/img/speakers/dario.png" | prepend:site.baseurl }}"></a>
@@ -271,8 +280,10 @@ acknowledgements: ""
     </p>
   </div>
 </div><br>
+--->
 
 <!-- 16 -->
+<!-----
 <div class="row">
   <div class="col-md-12" id="Yang">
     <a href="https://www.surrey.ac.uk/people/yang-gao"><img class="people-pic-big" style="float:left;margin-right:30px;" src="{{ "/static/img/speakers/yang.jpg" | prepend:site.baseurl }}"></a>
@@ -281,7 +292,9 @@ acknowledgements: ""
     </p>
   </div>
 </div><br>
+--->
 
+<!-----
 <div class="row" id="papers">
   <div class="col-xs-12">
     <h2>Accepted Papers</h2>
@@ -450,8 +463,9 @@ acknowledgements: ""
     </table>
   </div>
 </div><br>
+---->
 
-
+<!-----
 <div class="row" id="awards">
   <div class="col-xs-12">
     <h2>Awards</h2>
@@ -490,7 +504,7 @@ acknowledgements: ""
     </p>
   </div>
 </div><br>
-
+--->
 
    
 <div class="row" id="cfp">
@@ -501,7 +515,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-      We solicit papers for AI4Space. Papers will be fully peer reviewed, and accepted papers will be published in the proceedings of CVPR Workshops. Authors of accepted papers will also be invited to present at the workshop at CVPR 2021 (virtual).
+      We solicit papers for AI4Space. Papers will be fully peer reviewed, and accepted papers will be published in the proceedings of CVPR Workshops. Authors of accepted papers will also be invited to present at the workshop at ECCV 2022.
       </p>
       <p>
       The general emphasis of AI4Space is vision and learning algorithms in off-Earth environments, including in the orbital region, surface and underground environments on other planetary bodies (e.g., the moon, Mars and asteroids), interplanetary space and solar system, and distant galaxies. Target application areas include autonomous spacecraft, space robotics, space traffic management, astronomy, astrobiology and cosmology. Emphasis is also placed on novel sensors and processing hardware for vision and learning in space, mitigating the challenges of the space environment towards vision and learning (e.g., solar radiation, extreme temperatures), and solving practical difficulties in vision and learning for space (e.g., lack of training data, unknown or partially known characteristics of operating environments).
@@ -529,14 +543,14 @@ acknowledgements: ""
     <h3>Submission</h3>  
     <p>
       Submissions should be in the CVPR format and are limited to 8 pages excluding reference.
-      Use the <a href="/2021/static/cvpr2021AuthorKit_2.zip" download>template</a> for detailed formatting instructions.
-      Please refer to the main conference's <a href="http://cvpr2021.thecvf.com/node/33#submission-guidelines">submission guildelines</a> for more details. 
+      Use the <a href="" download>template</a> for detailed formatting instructions.
+      Please refer to the main conference's <a href="https://eccv2022.ecva.net/submission/call-for-papers/">submission guildelines</a> for more details. 
   </p>
     <p>  
-      <a href="https://cmt3.research.microsoft.com/AI4Space2021">Submit your paper via the CMT3 submission system.</a>
+      <a href="">Submit your paper via the CMT3 submission system.</a>
     </p>
   <p>
-    Reviewing is <b>double blind</b> - remember to remove your names and affiliations in the submitted version (selecting the reviewing option in the LaTeX template will take care of that). Accepted works will be published in the CVPR 2021 proceedings (online/app, IEEE Xplore, and CVF open access).
+    Reviewing is <b>double blind</b> - remember to remove your names and affiliations in the submitted version (selecting the reviewing option in the LaTeX template will take care of that). Accepted works will be published in the ECCV 2022 proceedings.
     </p>
   </div>
 </div><br>
@@ -556,19 +570,19 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>Paper Submission Deadline</td>
-          <td><strike>11:59pm 6 Mar 2021</strike> <strike>extended to 11:59pm 20 Mar 2021</strike></td>
+          <td>TBD</td>
         </tr>
         <tr>
           <td>Notification to Authors</td>
-          <td><strike>13 Apr 2021</strike></td>
+          <td>TBD</td>
         </tr>
         <tr>
           <td>Camera-Ready Deadline</td>
-          <td><strike>20 Apr 2021</strike></td>
+          <td>TBD</td>
         </tr>
         <tr>
           <td>Workshop Date</td>
-          <td>10am 19 Jun 2021 (N. America East)</td>
+          <td>TBD</td>
         </tr>
       </tbody>
     </table>
@@ -651,23 +665,13 @@ acknowledgements: ""
   
   <div class="col-xs-2">
     <a href="https://bochenys.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/bo.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/sofia.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://bochenys.github.io/">Bo Chen</a>
+      <a href="">Sofia Mcleod</a>
       <h6>The University of Adelaide</h6>
     </div>
-  </div>
-  
-  <div class="col-xs-2">
-    <a href="https://www.linkedin.com/in/luke-heffernan/">
-      <img class="people-pic" src="{{ "/static/img/people/luke.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://www.linkedin.com/in/luke-heffernan/">Luke Heffernan</a>
-      <h6>Australian Institute for Machine Learning</h6>
-    </div>
-  </div>
+  </div>  
   
 </div>
 
@@ -675,40 +679,7 @@ acknowledgements: ""
 <div class="row" id="PCs">
   <div class="col-md-12">
     <h2>Program Committee</h2>
-    <p>
-    <ul>
-      <li>Alina Bialkowski, The University of Queensland</li>
-      <li>Alvaro Parra, The University of Adelaide</li>
-      <li>Andrew Olguin, DRAPER</li>
-      <li>Anne Mergy, European Space Agency</li>
-      <li>Artur Nowakowski, European Space Agency</li>
-      <li>Binfeng Pan, Northwestern Polytechnical University</li>
-      <li>Bo Chen, The University of Adelaide</li>
-      <li>Cesar Cadena, ETH Zurich</li>
-      <li>Dawa Derksen, European Space Agency</li>
-      <li>Diego Valsesia, Politecnico di Torino</li>
-      <li>Gabriele Meoni, European Space Agency</li>
-      <li>Giovanni Beltrame, Polytechnique de Montreal</li>
-      <li>Grace Gao, Stanford University</li>
-      <li>Gurvan Lecuyer, European Space Agency</li>
-      <li>Heng Yang, Massachusetts Institute of Technology</li>
-      <li>Huangying Zhan, The University of Adelaide</li>
-      <li>Jan Dirk Wegner, ETH Zurich</li>
-      <li>Jonathan Kelly, University of Toronto</li>
-      <li>Joseph O'Leary, EOS Systems</li>
-      <li>Laura Henderson, DRAPER</li>
-      <li>Marie Farrel, Maynooth University</li>
-      <li>Melrose Brown, UNSW</li>
-      <li>Michele Sasdelli, The University of Adelaide</li>
-      <li>Moritz Von Looz, European Space Agency</li>
-      <li>Peyman Moghadam, CSIRO</li>
-      <li>Rasit Abay, UNSW</li>
-      <li>Simone D'Amico, Stanford University</li>
-      <li>Sumant Sharma, Stanford University</li>
-      <li>Viorela Ila, The University of Sydney</li>
-      <li>Yasir Latif, The University of Adelaide</li>      
-    </ul>
-    </p>
+    TBD
   </div>
 </div>
 
@@ -717,10 +688,11 @@ acknowledgements: ""
 <div class="row" id="sponsors">
   <div class="col-md-12">
     <h2>Sponsors</h2>
+    TBD
   </div>
 </div>
 
-
+<!-----
 <div class="row">
 
 <div class="col-xs-4">
@@ -763,15 +735,17 @@ acknowledgements: ""
 </div>
 
 </div>
-
+---->
 
 <br>
 <div class="row" id="organisations">
   <div class="col-md-12">
     <h2>Affiliated organisations</h2>
+    TBD
   </div>
 </div>
 
+<!-----
 <div class="row">
 
 <div class="col-xs-4">
@@ -814,6 +788,7 @@ acknowledgements: ""
 </div>
 
 </div>
+--->
 
 <hr>
 
