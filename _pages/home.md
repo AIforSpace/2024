@@ -45,6 +45,103 @@ acknowledgements: ""
 </div>
 ----->
 
+<br>
+<div class="row" id="organizers">
+  <div class="col-xs-12">
+    <h2>Organizers</h2>
+  </div>
+</div>
+
+<div class="row">
+
+  <div class="col-xs-2">
+    <a href="https://cs.adelaide.edu.au/~tjchin">
+      <img class="people-pic" src="{{ "/static/img/people/tj.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://cs.adelaide.edu.au/~tjchin">Tat-Jun Chin</a>
+      <h6>The University of Adelaide</h6>
+    </div>
+  </div>
+
+  <div class="col-xs-2">
+    <a href="https://lucacarlone.mit.edu/">
+      <img class="people-pic" src="{{ "/static/img/people/luca.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://lucacarlone.mit.edu/">Luca Carlone</a>
+      <h6>MIT</h6>
+    </div>
+  </div>
+
+  <div class="col-xs-2">
+    <a href="https://cvi2.uni.lu//">
+      <img class="people-pic" src="{{ "/static/img/people/djamila.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://cvi2.uni.lu/">Djamila Aouada</a>
+      <h6>University of Luxembourg</h6>
+    </div>
+  </div>
+
+  <div class="col-xs-2">
+    <a href="https://teacher.nwpu.edu.cn/m/en/2011010003.html">
+      <img class="people-pic" src="{{ "/static/img/people/binfeng.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://teacher.nwpu.edu.cn/m/en/2011010003.html">Binfeng Pan</a>
+      <h6>Northwestern Polytechnical University</h6>
+    </div>
+  </div>
+
+  <div class="col-xs-2">
+    <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/viorela-ila.html">
+      <img class="people-pic" src="{{ "/static/img/people/viorela.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/viorela-ila.html">Viorela Ila</a>
+      <h6>The University of Sydney</h6>
+    </div>
+  </div>
+  
+  <div class="col-xs-2">
+    <a href="https://www-robotics.jpl.nasa.gov/who-we-are/people/benjamin_morrell/">
+      <img class="people-pic" src="{{ "/static/img/people/ben.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www-robotics.jpl.nasa.gov/who-we-are/people/benjamin_morrell/">Benjamin Morrell</a>
+      <h6>NASA Jet Propulsion Lab</h6>
+    </div>
+  </div>
+  
+  <div class="col-xs-2">
+    <a href="https://g-kakareko.github.io/index.html">
+      <img class="people-pic" src="{{ "/static/img/people/grzegorz.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://g-kakareko.github.io/index.html">Grzegorz Kakareko</a>
+      <h6>Spire Global</h6>
+    </div>
+  </div>  
+  
+  </div>
+  
+  
+  <div class="row">
+  
+  <div class="col-xs-2">
+    <a href="https://bochenys.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/sofia.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="">Sofia Mcleod</a>
+      <h6>The University of Adelaide</h6>
+    </div>
+  </div>  
+  
+</div>
+
+
 <div class="row" id="intro">
   <div class="col-xs-12">
     <h2>Introduction</h2>
@@ -594,91 +691,6 @@ acknowledgements: ""
   </div>
 </div><br>
 
-<br>
-<div class="row" id="organizers">
-  <div class="col-xs-12">
-    <h2>Organizers</h2>
-  </div>
-</div>
-
-<div class="row">
-
-  <div class="col-xs-2">
-    <a href="https://cs.adelaide.edu.au/~tjchin">
-      <img class="people-pic" src="{{ "/static/img/people/tj.png" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://cs.adelaide.edu.au/~tjchin">Tat-Jun Chin</a>
-      <h6>The University of Adelaide</h6>
-    </div>
-  </div>
-
-  <div class="col-xs-2">
-    <a href="https://lucacarlone.mit.edu/">
-      <img class="people-pic" src="{{ "/static/img/people/luca.png" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://lucacarlone.mit.edu/">Luca Carlone</a>
-      <h6>MIT</h6>
-    </div>
-  </div>
-
-  <div class="col-xs-2">
-    <a href="https://www.linkedin.com/in/marius-klimavi%C4%8Dius-19a6569b/">
-      <img class="people-pic" src="{{ "/static/img/people/marius.png" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://www.linkedin.com/in/marius-klimavi%C4%8Dius-19a6569b/">Marius Klimavicius</a>
-      <h6>Blackswan Technologies</h6>
-    </div>
-  </div>
-
-  <div class="col-xs-2">
-    <a href="https://staff.qut.edu.au/staff/c.fookes">
-      <img class="people-pic" src="{{ "/static/img/people/clinton.png" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://staff.qut.edu.au/staff/c.fookes">Clinton Fookes</a>
-      <h6>Queensland University of Technology</h6>
-    </div>
-  </div>
-
-  <div class="col-xs-2">
-    <a href="https://www.esa.int/gsp/ACT/team/marcus_maertens/">
-      <img class="people-pic" src="{{ "/static/img/people/marcus.png" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://www.esa.int/gsp/ACT/team/marcus_maertens/">Marcus Märtens</a>
-      <h6>ESA</h6>
-    </div>
-  </div>
-  
-  <div class="col-xs-2">
-    <a href="https://www.linkedin.com/in/pablo-gomez-ml/">
-      <img class="people-pic" src="{{ "/static/img/people/pablo.png" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://www.linkedin.com/in/pablo-gomez-ml/">Pablo Gómez</a>
-      <h6>ESA</h6>
-    </div>
-  </div>
-  
-  </div>
-  
-  
-  <div class="row">
-  
-  <div class="col-xs-2">
-    <a href="https://bochenys.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/sofia.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="">Sofia Mcleod</a>
-      <h6>The University of Adelaide</h6>
-    </div>
-  </div>  
-  
-</div>
 
 <br>
 <div class="row" id="PCs">
