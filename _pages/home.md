@@ -113,7 +113,7 @@ acknowledgements: ""
   
   <div class="col-xs-2">
     <a href="https://www-robotics.jpl.nasa.gov/who-we-are/people/benjamin_morrell/">
-      <img class="people-pic" src="{{ "/static/img/people/ben.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/ben.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://www-robotics.jpl.nasa.gov/who-we-are/people/benjamin_morrell/">Benjamin Morrell</a>
