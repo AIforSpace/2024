@@ -95,6 +95,7 @@ acknowledgements: ""
 </div><br>
 --->
 
+<!---
 <div class="row">
     <div class="col-xs-12">
         <p>
@@ -102,7 +103,6 @@ acknowledgements: ""
             TBD
         </p>
     </div>
-    <!----
     <p>
         <div class="col-xs-9">
              <p>
@@ -111,16 +111,17 @@ acknowledgements: ""
              </p>
          </div>
      </p>
-     ---->
 </div><br>
+--->
 
-
+<!----
 <div class="row" id="program">
   <div class="col-xs-12">
     <h2>Workshop Program</h2>
     TBD
   </div>
 </div>
+--->
 
 <!----
 <div class="row">
@@ -241,12 +242,14 @@ acknowledgements: ""
 </div><br>
 ---->
 
+<!----
 <div class="row" id="speakers">
   <div class="col-xs-12">
     <h2>Invited Speakers</h2>
     TBD
   </div>
 </div><br>
+--->
 
 <!-- 26 -->
 <!-----
