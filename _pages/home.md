@@ -646,12 +646,13 @@ acknowledgements: ""
     </p>
     <h3>Submission</h3>  
     <p>
-      Submissions should be in the CVPR format and are limited to 8 pages excluding reference.
-      Use the <a href="" download>template</a> for detailed formatting instructions.
+      Submissions should be in the ECCV format and are limited to 8 pages excluding reference.
+      Use the <a href="https://drive.google.com/file/d/171-xo72Jx40cZ4qT20ZZsDDKXPIOWnss/view?usp=sharing" download>template</a> for detailed formatting instructions.
       Please refer to the main conference's <a href="https://eccv2022.ecva.net/submission/call-for-papers/">submission guildelines</a> for more details. 
   </p>
     <p>  
-      <a href="">Submit your paper via the CMT3 submission system.</a>
+      <!----<a href="">Submit your paper via the CMT3 submission system.</a>--->
+      Paper submission will be conducted through CMT3 (link TBD).
     </p>
   <p>
     Reviewing is <b>double blind</b> - remember to remove your names and affiliations in the submitted version (selecting the reviewing option in the LaTeX template will take care of that). Accepted works will be published in the ECCV 2022 proceedings.
