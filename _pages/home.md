@@ -102,6 +102,7 @@ acknowledgements: ""
             TBD
         </p>
     </div>
+    <!----
     <p>
         <div class="col-xs-9">
              <p>
@@ -110,6 +111,7 @@ acknowledgements: ""
              </p>
          </div>
      </p>
+     ---->
 </div><br>
 
 
@@ -737,13 +739,15 @@ acknowledgements: ""
 </div>
 ---->
 
+<!----
 <br>
 <div class="row" id="organisations">
   <div class="col-md-12">
-    <h2>Affiliated organisations</h2>
+    <h2>Affiliated Organisations</h2>
     TBD
   </div>
 </div>
+--->
 
 <!-----
 <div class="row">
