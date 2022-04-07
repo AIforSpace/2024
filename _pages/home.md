@@ -70,13 +70,13 @@ acknowledgements: ""
     </a>
     <div class="people-name">
       <a href="https://lucacarlone.mit.edu/">Luca Carlone</a>
-      <h6>MIT</h6>
+      <h6>Massachusetts Institute of Technology</h6>
     </div>
   </div>
 
   <div class="col-xs-2">
     <a href="https://cvi2.uni.lu//">
-      <img class="people-pic" src="{{ "/static/img/people/djamila.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/djamila.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://cvi2.uni.lu/">Djamila Aouada</a>
@@ -86,7 +86,7 @@ acknowledgements: ""
 
   <div class="col-xs-2">
     <a href="https://teacher.nwpu.edu.cn/m/en/2011010003.html">
-      <img class="people-pic" src="{{ "/static/img/people/binfeng.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/binfeng.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://teacher.nwpu.edu.cn/m/en/2011010003.html">Binfeng Pan</a>
@@ -103,7 +103,7 @@ acknowledgements: ""
   
   <div class="col-xs-2">
     <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/viorela-ila.html">
-      <img class="people-pic" src="{{ "/static/img/people/viorela.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/viorela.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/viorela-ila.html">Viorela Ila</a>
@@ -123,7 +123,7 @@ acknowledgements: ""
   
   <div class="col-xs-2">
     <a href="https://g-kakareko.github.io/index.html">
-      <img class="people-pic" src="{{ "/static/img/people/grzegorz.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/grzegorz.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://g-kakareko.github.io/index.html">Grzegorz Kakareko</a>
@@ -133,7 +133,7 @@ acknowledgements: ""
   
   <div class="col-xs-2">
     <a href="https://bochenys.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/sofia.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/sofia.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="">Sofia Mcleod</a>
