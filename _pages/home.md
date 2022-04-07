@@ -36,9 +36,8 @@ acknowledgements: ""
   </div>
 </div> -->
 
-<br>
-
 <!-----
+<br>
 <div class="row" id="">
   <div class="col-xs-12">
     <center><h2 style="font-size:30px"><a href="#program">Watch workshop videos</a></h2></center>
@@ -59,6 +58,7 @@ acknowledgements: ""
   </div>
 </div><br>
 
+<!----
 <div class="row">
     <div class="col-xs-12">
         <p>
@@ -93,6 +93,25 @@ acknowledgements: ""
          </div>
      </p>
 </div><br>
+--->
+
+<div class="row">
+    <div class="col-xs-12">
+        <p>
+            <h2>Sponsors</h2>      
+            TBD
+        </p>
+    </div>
+    <p>
+        <div class="col-xs-9">
+             <p>
+                <h2>Affiliated organisations</h2>
+                TBD
+             </p>
+         </div>
+     </p>
+</div><br>
+
 
 <div class="row" id="program">
   <div class="col-xs-12">
