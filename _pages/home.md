@@ -52,7 +52,7 @@ acknowledgements: ""
   </div>
 </div>
 
-<div class="row" style="text-align:center">
+<div class="row">
 
   <div class="col-xs-2">
     <a href="https://cs.adelaide.edu.au/~tjchin">
