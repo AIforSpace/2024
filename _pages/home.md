@@ -52,6 +52,8 @@ acknowledgements: ""
   </div>
 </div>
 
+<center>
+
 <div class="row">
 
   <div class="col-xs-2">
@@ -142,6 +144,7 @@ acknowledgements: ""
   </div>  
   
 </div>
+</center>
 
 
 <div class="row" id="intro">
