@@ -29,26 +29,10 @@ acknowledgements: ""
 
 <hr>
 
-<!-- <div class="row" id="">
-  <div class="col-md-12">
-    <img src="{{ "/static/img/splash.png" | prepend:site.baseurl }}">
-    <p> Image credit: [1, 2, 7, 12, 6, 4, 5]</p>
-  </div>
-</div> -->
-
-<!-----
-<br>
-<div class="row" id="">
-  <div class="col-xs-12">
-    <center><h2 style="font-size:30px"><a href="#program">Watch workshop videos</a></h2></center>
-  </div>
-</div>
------>
-
 <br>
 <div class="row" id="organizers">
   <div class="col-xs-12">
-    <h2>Organizers</h2>
+    <h2>Organisers</h2>
   </div>
 </div>
 
