@@ -21,7 +21,7 @@ acknowledgements: ""
     <br>
     <center><h3 style="color:white">2nd Workshop on AI for Space</h3></center>
     <center><h3 style="color:white">In conjunction with <a href="https://eccv2022.ecva.net/">ECCV 2022</a></h3></center>    
-    <center><h3 style="color:white">Date: TBD</h3></center>
+    <center><h3 style="color:white">Date: Late October 2022</h3></center>
     <br>
   </div>
 </div>
@@ -79,9 +79,9 @@ acknowledgements: ""
     </p>
     <h3>Submission</h3>  
     <p>
-      Submissions should be in the ECCV format and are limited to 8 pages excluding reference.
+      Submissions should be in the ECCV format and are limited to 14 pages excluding reference.
       Use the <a href="https://drive.google.com/file/d/171-xo72Jx40cZ4qT20ZZsDDKXPIOWnss/view?usp=sharing" download>template</a> for detailed formatting instructions.
-      Please refer to the main conference's <a href="https://eccv2022.ecva.net/submission/call-for-papers/">submission guildelines</a> for more details.
+      Please refer to the main conference's <a href="https://eccv2022.ecva.net/submission/call-for-papers/">submission guildelines</a> for more details, and do not hesitate to contact the lead organiser <a href="https://cs.adelaide.edu.au/~ssl/author/tat-jun-chin/">Tat-Jun Chin</a> if you have any questions.
   </p>
     <p>  
       <!----<a href="">Submit your paper via the CMT3 submission system.</a>--->
@@ -123,7 +123,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <h2>Important Dates</h2>
-    All times/dates below are in Pacific Standard Time.
+    All times/dates below are in Pacific Standard Time (PST).
   </div>
 </div>
 
@@ -133,19 +133,19 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>Paper Submission Deadline</td>
-          <td>TBD</td>
+          <td>11:59pm 17 June 2022 (tentative)</td>
         </tr>
         <tr>
           <td>Notification to Authors</td>
-          <td>TBD</td>
+          <td>11:59pm 11 July 2022 (tentative)</td>
         </tr>
         <tr>
           <td>Camera-Ready Deadline</td>
-          <td>TBD</td>
+          <td>11:59pm 17 July 2022 (hard)</td>
         </tr>
         <tr>
           <td>Workshop Date</td>
-          <td>TBD</td>
+          <td>Late October 2022</td>
         </tr>
       </tbody>
     </table>
