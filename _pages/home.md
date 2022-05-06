@@ -133,15 +133,15 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>Paper Submission Deadline</td>
-          <td>11:59pm 17 June 2022 (tentative)</td>
+          <td><strike>17 June 2022</strike> 11:59pm 15 July 2022 (tentative)</td>
         </tr>
         <tr>
           <td>Notification to Authors</td>
-          <td>11:59pm 11 July 2022 (tentative)</td>
+          <td><strike>11 July 2022</strike> 11:59pm 15 August 2022 (tentative)</td>
         </tr>
         <tr>
           <td>Camera-Ready Deadline</td>
-          <td>11:59pm 17 July 2022 (hard)</td>
+          <td><strike>17 July 2022</strike> 11:59pm 20 August 2022</td>
         </tr>
         <tr>
           <td>Workshop Date</td>
