@@ -85,7 +85,7 @@ acknowledgements: ""
   </p>
     <p>  
       <!----<a href="">Submit your paper via the CMT3 submission system.</a>--->
-      Paper submission will be conducted through CMT3 (link TBD). <a href="#dates"><b>Submission deadline</b></a>
+      Paper submission will be conducted through <a href="https://cmt3.research.microsoft.com/AI4Space2022/">CMT3</a>. <a href="#dates"><b>Submission deadline</b></a>
     </p>
   <p>
     Reviewing is <b>double blind</b> - remember to remove your names and affiliations in the submitted version (selecting the reviewing option in the LaTeX template will take care of that). Accepted works will be published in the ECCV 2022 proceedings.
