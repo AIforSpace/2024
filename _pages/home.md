@@ -283,7 +283,63 @@ acknowledgements: ""
 <div class="row">
   <div class="col-md-12">
     <h3>Program Committee</h3>
-    TBD
+    <p>
+    <ul>
+      <li>	Abhishek Thakur, BRINC            	</li>			
+      <li>	Alan	Liew,	Griffith University           	</li>														
+      <li>	Alina	Bialkowski,	The University of Queensland           	</li>														
+      <li>	Andres	Moya,	Universidad Politécnica de Madrid         	</li>														
+      <li>	Andrzej	Kucik,	European Space Agency          	</li>														
+      <li>	Anirudh	Chakravarthy,	Carnegie Mellon University           	</li>														
+      <li>	Artur	Nowakowski,	European Space Agency          	</li>														
+      <li>	Arunkumar	Rathinam,	University of Luxembourg          	</li>														
+      <li>	Benjamin	Morrell,	NASA JPL           	</li>														
+      <li>	Binfeng	Pan,	Northwestern Polytechnical University           	</li>														
+      <li>	Bo	Chen,	The University of Adelaide           	</li>														
+      <li>	Carl	Seubert,	SmartSat CRC           	</li>														
+      <li>	Chee	Kheng Chng,	The University of Adelaide           	</li>														
+      <li>	Daqi	Liu,	The University of Adelaide           	</li>														
+      <li>	David	Suter,	Edith Cowan University           	</li>														
+      <li>	Deegan	Atha,	NASA JPL           	</li>														
+      <li>	Diego	Valsesia,	Politecnico di Torino           	</li>														
+      <li>	Enjie	Ghorbel,	SnT, University of Luxembourg           	</li>														
+      <li>	Evridiki	Ntagiou,	European Space Agency          	</li>														
+      <li>	Florent	Lafarge,	INRIA            	</li>														
+      <li>	Gabriele	Meoni,	European Space Agency          	</li>														
+      <li>	Gary	Doran,	NASA JPL, Machine Learning and Instrument Autonomy    	</li>														
+      <li>	Giovanni	Beltrame,	Polytechnique Montreal           	</li>														
+      <li>	Giulia	Ciabatti,	Sapienza, University of Rome         	</li>														
+      <li>	Huangying	Zhan,	The University of Adelaide           	</li>														
+      <li>	Jacopo	Villa,	University of Colorado Boulder         	</li>														
+      <li>	Jessica	Todd,	Massachusetts Institute of Technology         	</li>														
+      <li>	Jian-Feng	Shi,	MDA            	</li>														
+      <li>	Joshua	Critchley-Marrows,	The University of Sydney         	</li>														
+      <li>	Kapil	Mirchandani,	Pune Institute of Computer Technology        	</li>														
+      <li>	Katherine	Skinner,	University of Michigan          	</li>														
+      <li>	Keenan	Albee,	Massachusetts Institute of Technology         	</li>														
+      <li>	Manuel	Salvoldi	Ben-Gurion, University of the Negev        	</li>														
+      <li>	Marie	Farrell,	Maynooth University           	</li>														
+      <li>	Mark	Rutten,	In Track Solutions           	</li>														
+      <li>	Michele	Sasdelli,	The University of Adelaide           	</li>														
+      <li>	Mickaël	Laîné,	Space Robotics Lab., Tohoku University        	</li>														
+      <li>	Moritz	Von Looz,	European Space Agency          	</li>														
+      <li>	Padmaja	Jonnalagedda,	UC Riverside           	</li>														
+      <li>	R.	Michael Swan,	NASA JPL          	</li>														
+      <li>	Roberto	Lopez-Sastre,	University of Alcala          	</li>														
+      <li>	Roberto	Del Prete,	University of Naples Federico II        	</li>														
+      <li>	Roberto	Capobianco,	Sapienza University of Rome & Sony AI      	</li>														
+      <li>	Rodrigo	Ventura,	IST, Lisbon           	</li>														
+      <li>	Roshan	Roy,	Birla Institute of Technology and Science, Pilani      	</li>														
+      <li>	Shirley	Ho,	Flatiron Institute           	</li>														
+      <li>	Sriram	Baireddy,	Purdue University           	</li>														
+      <li>	Sumant	Sharma,	Stanford University           	</li>														
+      <li>	Sutharsan	Mahendren,	Queensland University of Technology         	</li>														
+      <li>	Vincent	Gaudilliere,	SnT, University of Luxembourg           	</li>														
+      <li>	Xue	Wan,	Technology and Engineering Center for Space Utilization, Chinese Academy of Sciences Sciences 	</li>														
+      <li>	Yasir	Latif,	The University of Adelaide           	</li>														
+      <li>	Yuanbin	Shao,	Technology and Engineering Center for Space Utilization, Chinese Academy of Sciences Sciences 	</li>																									
+    </ul>
+    </p>
   </div>
 </div>
 
