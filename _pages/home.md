@@ -21,7 +21,7 @@ acknowledgements: ""
     <br>
     <center><h3 style="color:white">2nd Workshop on AI for Space</h3></center>
     <center><h3 style="color:white">In conjunction with <a href="https://eccv2022.ecva.net/">ECCV 2022</a></h3></center>    
-    <center><h3 style="color:white">Date: Late October 2022</h3></center>
+    <center><h3 style="color:white">Date: 23 October 2022</h3></center>
     <br>
   </div>
 </div>
@@ -133,7 +133,7 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>Paper Submission Deadline</td>
-          <td><strike>17 June 2022</strike> 11:59pm 15 July 2022</td>
+          <td><strike>17 June 2022</strike> <strike>15 July 2022</strike> 11:59pm 22 July 2022</td>
         </tr>
         <tr>
           <td>Notification to Authors</td>
@@ -145,7 +145,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>Workshop Date</td>
-          <td>Late October 2022</td>
+          <td>23 October 2022</td>
         </tr>
       </tbody>
     </table>
@@ -178,11 +178,33 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <h3>Keynote Speakers</h3>
-    <p>
-    TBD
-    </p>
   </div>
 </div>
+
+<div class="row">
+
+  <div class="col-xs-3 col-sm-3">
+    <a href="https://en-exact-sciences.tau.ac.il/profile/msegalro">
+      <img class="people-pic" src="{{ "/static/img/people/michal.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://en-exact-sciences.tau.ac.il/profile/msegalro">Michal Segal-Rozenhaimer</a>
+      <h6>Tel Aviv University</h6>
+    </div>
+  </div>
+
+  <div class="col-xs-3 col-sm-3">
+    <a href="https://g-kakareko.github.io/index.html">
+      <img class="people-pic" src="{{ "/static/img/people/grzegorz.jpeg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://g-kakareko.github.io/index.html">Grzegorz Kakareko</a>
+      <h6>Spire Global</h6>
+    </div>
+  </div> 
+</div>
+
+<br>
 
 <div class="row">
   <div class="col-xs-12">
