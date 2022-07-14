@@ -30,6 +30,14 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12">
+    <h5 style="color:red"><b>New paper submission deadline:</b> 11:59pm 22 July 2022</h5>
+  </div>
+</div>
+
+<hr>
+
+<div class="row">
+  <div class="col-xs-12">
     <h2>Introduction</h2>
   </div>
 </div>
