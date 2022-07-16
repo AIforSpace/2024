@@ -210,6 +210,16 @@ acknowledgements: ""
       <h6>Spire Global</h6>
     </div>
   </div> 
+
+  <div class="col-xs-3 col-sm-3">
+    <a href=" https://ml.jpl.nasa.gov/people/mandrake/mandrake.html">
+      <img class="people-pic" src="{{ "/static/img/people/lukas.jpeg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href=" https://ml.jpl.nasa.gov/people/mandrake/mandrake.html">Lukas Mandrake</a>
+      <h6>Spire Global</h6>
+    </div>
+  </div> 
 </div>
 
 <br>
