@@ -217,7 +217,7 @@ acknowledgements: ""
     </a>
     <div class="people-name">
       <a href=" https://ml.jpl.nasa.gov/people/mandrake/mandrake.html">Lukas Mandrake</a>
-      <h6>Spire Global</h6>
+      <h6>NASA JPL</h6>
     </div>
   </div> 
 </div>
