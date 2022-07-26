@@ -330,7 +330,8 @@ acknowledgements: ""
       <li>	Alina	Bialkowski,	The University of Queensland           	</li>														
       <li>	Andres	Moya,	Universidad Politécnica de Madrid         	</li>														
       <li>	Andrzej	Kucik,	European Space Agency          	</li>														
-      <li>	Anirudh	Chakravarthy,	Carnegie Mellon University           	</li>														
+      <li>	Anirudh	Chakravarthy,	Carnegie Mellon University           	</li>	
+      <li> Anis Kacem, SnT, University of Luxembourg					</li>								
       <li>	Artur	Nowakowski,	European Space Agency          	</li>														
       <li>	Arunkumar	Rathinam,	University of Luxembourg          	</li>														
       <li>	Benjamin	Morrell,	NASA JPL           	</li>														
@@ -356,7 +357,8 @@ acknowledgements: ""
       <li>	Joshua	Critchley-Marrows,	The University of Sydney         	</li>														
       <li>	Kapil	Mirchandani,	Pune Institute of Computer Technology        	</li>														
       <li>	Katherine	Skinner,	University of Michigan          	</li>														
-      <li>	Keenan	Albee,	Massachusetts Institute of Technology         	</li>														
+      <li>	Keenan	Albee,	Massachusetts Institute of Technology         	</li>	
+      <li>  Leo Pauly, SnT, University of Luxembourg</li>													
       <li>	Manuel	Salvoldi	Ben-Gurion, University of the Negev        	</li>														
       <li>	Marie	Farrell,	Maynooth University           	</li>														
       <li>	Mark	Rutten,	In Track Solutions           	</li>														
@@ -370,7 +372,8 @@ acknowledgements: ""
       <li>	Roberto	Capobianco,	Sapienza University of Rome & Sony AI      	</li>														
       <li>	Rodrigo	Ventura,	IST, Lisbon           	</li>														
       <li>	Roshan	Roy,	Birla Institute of Technology and Science, Pilani      	</li>														
-      <li>	Shirley	Ho,	Flatiron Institute           	</li>														
+      <li>	Shirley	Ho,	Flatiron Institute           	</li>			
+      <li> Sk Aziz Ali, SnT, University of Luxembourg</li>											
       <li>	Sriram	Baireddy,	Purdue University           	</li>														
       <li>	Sumant	Sharma,	Stanford University           	</li>														
       <li>	Sutharsan	Mahendren,	Queensland University of Technology         	</li>														
