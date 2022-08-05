@@ -220,6 +220,16 @@ acknowledgements: ""
       <h6>NASA JPL</h6>
     </div>
   </div> 
+
+  <div class="col-xs-3 col-sm-3">
+    <a href=" https://slab.stanford.edu/">
+      <img class="people-pic" src="{{ "/static/img/people/simone.jpeg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href=" https://slab.stanford.edu/">Lukas Mandrake</a>
+      <h6>Stanford University</h6>
+    </div>
+  </div> 
 </div>
 
 <br>
