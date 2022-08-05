@@ -226,7 +226,7 @@ acknowledgements: ""
       <img class="people-pic" src="{{ "/static/img/people/simone.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href=" https://slab.stanford.edu/">Lukas Mandrake</a>
+      <a href=" https://slab.stanford.edu/">Simone D'Amico</a>
       <h6>Stanford University</h6>
     </div>
   </div> 
