@@ -149,7 +149,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>Camera-Ready Deadline</td>
-          <td><strike>17 July 2022</strike> <strike>20 August 2022</strike> 11:59pm 22 August 2022</td>
+          <td><strike>17 July 2022</strike> <strike>20 August 2022</strike> 11:59am 22 August 2022</td>
         </tr>
         <tr>
           <td>Workshop Date</td>
