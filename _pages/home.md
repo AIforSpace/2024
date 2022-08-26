@@ -28,11 +28,11 @@ acknowledgements: ""
 
 <hr>
 
-<!-- <div class="row">
+<div class="row">
   <div class="col-xs-12">
-    <h5 style="color:red"><b>New paper submission deadline:</b> 11:59pm 22 July 2022</h5>
+    <h5 style="color:red">Workshop attendance mode has changed to <b>**fully virtual**</b></h5>
   </div>
-</div> -->
+</div>
 
 <hr>
 
