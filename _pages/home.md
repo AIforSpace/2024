@@ -30,7 +30,7 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12">
-    <h5 style="color:red">Workshop attendance mode has changed to <b>**fully virtual**</b></h5>
+    <h5 style="color:red">Workshop attendance mode has changed to <b>fully virtual</b></h5>
   </div>
 </div>
 
