@@ -32,7 +32,7 @@ acknowledgements: ""
   <div class="col-xs-12">
     <h5 style="color:red">Workshop attendance mode has changed to <b>fully virtual</b></h5>
     <h6><a href="#accepted_papers">Accepted Papers</a></h6>
-    <h6>We thank our <a href="#sponsor_spire">generous sponsors</a> Spire Global</h6>
+    <h6>We thank our <a href="#sponsor_spire">generous sponsors</a> Spire Global and Draper Labs</h6>
   </div>
 </div>
 
