@@ -93,8 +93,8 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12">
-    <h3>Block A</h3>
-    <!-- <h3>Block A (<a href="/2022/static/my.ics" download><b>download calendar</b></a> to add program to your calendar)</h3> -->
+    <!-- <h3>Block A</h3> -->
+    <h3>Block A (<a href="/2022/static/AI4SpaceProgramBlockA.ics" download><b>download calendar</b></a> to add program to your calendar)</h3>
     <table class="table table-striped">
       <tbody>
         <tr>
@@ -164,8 +164,8 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12">
-    <h3>Block B</h3>
-    <!-- <h3>Block B (<a href="/2022/static/AI4Space Program (Block B).ics" download><b>download calendar</b></a> to add program to your calendar)</h3> -->
+    <!-- <h3>Block B</h3> -->
+    <h3>Block B (<a href="/2022/static/AI4SpaceProgramBlockB.ics" download><b>download calendar</b></a> to add program to your calendar)</h3>
     <table class="table table-striped">
       <tbody>
         <tr>
