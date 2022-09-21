@@ -98,9 +98,9 @@ acknowledgements: ""
     <table class="table table-striped">
       <tbody>
         <tr>
-            <th>Europe (IDT)<br>23 October 2022</th>
-            <th>N. America (PDT)<br>22/23 October 2022</th>
-            <th>Australia (AEST)<br>23 October 2022</th>
+            <th>Tel Aviv (IDT=UTC+3)<br>23 October 2022</th>
+            <th>Los Angeles (PDT=UTC-7)<br>22/23 October 2022</th>
+            <th>Sydney (AEST=UTC+10)<br>23 October 2022</th>
             <th>Activity</th>
         </tr>
         <tr>
@@ -169,9 +169,9 @@ acknowledgements: ""
     <table class="table table-striped">
       <tbody>
         <tr>
-            <th>Europe (IDT)<br>23 October 2022</th>
-            <th>N. America (PDT)<br>23 October 2022</th>
-            <th>Australia (AEST)<br>24 October 2022</th>
+            <th>Tel Aviv (IDT=UTC+3)<br>23 October 2022</th>
+            <th>Los Angeles (PDT=UTC-7)<br>23 October 2022</th>
+            <th>Sydney (AEST=UTC+10)<br>24 October 2022</th>
             <th>Activity</th>
         </tr>
         <tr>
