@@ -51,6 +51,301 @@ acknowledgements: ""
   </div>
 </div>
 
+<div class="row" id="challenge">
+<hr>
+<br>
+</div>
+
+<div class="row">
+  <div class="col-xs-12">
+    <h2>SPARK2022</h2>
+    <p>
+    We are excited to co-host an AI for space challenge SPARK2022 with the workshop. The competition requires participants to develop data-driven approaches for spacecraft detection and trajectory estimation. SPARK will utilise data synthetically simulated with a state-of-the-art rendering engine in addition to data collected from the Zero-G Lab at the University of Luxembourg.
+    </p>
+
+    <p>
+    Final results and awards will be announced at AI4Space at ECCV 2022. Challenge winners may also be invited to present their methods at the workshop (subject to time availability in the finalised workshop program).
+    </p>
+
+    <p>
+    <a href="https://cvi2.uni.lu/spark2022/"><b>To the challenge!</b></a>
+    </p>
+  </div>
+</div>
+
+<div class="row" id="program">
+<hr>
+<br>
+</div>
+
+<div class="row" id="program">
+  <div class="col-xs-12">
+    <h2>Workshop Program</h2>
+  </div>
+</div>
+
+<!-- <div class="row">
+ <div class="col-xs-12">
+  <h3>Watch the video recordings of <a href="https://youtu.be/j83aOI0suuo"><b>Block A</b></a> and <a href="https://youtu.be/oadmxrgiE1g"><b>Block B</b></a> on YouTube.</h3>
+ </div>
+</div>
+<br> -->
+
+<div class="row">
+  <div class="col-xs-12">
+    <h3>Block A</h3>
+    <!-- <h3>Block A (<a href="/2022/static/my.ics" download><b>download calendar</b></a> to add program to your calendar)</h3> -->
+    <table class="table table-striped">
+      <tbody>
+        <tr>
+            <th>Europe (IDT)<br>23 October 2022</th>
+            <th>N. America (PDT)<br>22/23 October 2022</th>
+            <th>Australia (AEST)<br>23 October 2022</th>
+            <th>Activity</th>
+        </tr>
+        <tr>
+          <td>09:00</td>
+          <td>23:00</td>
+          <td>16:00</td>          
+          <td>Welcome address + housekeeping</td>
+        </tr>
+        <tr>
+          <td>09:05</td>
+          <td>23:05</td>
+          <td>16:05</td>          
+          <td>Keynote 1: <a href="#keynote">Michal Segal-Rozenhaimer</a></td>
+        </tr>
+        <tr>
+          <td>09:29</td>
+          <td>23:29</td>
+          <td>16:29</td>             
+          <td>Keynote 2: <a href="#keynote">Grzegorz Kakareko</a></td>
+        </tr>
+        <tr>
+          <td>09:53</td>
+          <td>23:53</td>
+          <td>16:53</td>          
+          <td>Spotlight presentations 1</td>
+        </tr>
+        <tr>
+          <td>10:13</td>
+          <td>00:13</td>
+          <td>17:13</td>          
+          <td>SPARK challenge</td>
+        </tr>
+        <tr>
+          <td>10:38</td>
+          <td>00:38</td>
+          <td>17:38</td>          
+          <td>Spotlight presentations 2</td>
+        </tr>
+        <tr>
+          <td>10:53</td>
+          <td>00:53</td>
+          <td>17:53</td>          
+          <td>Breakout sessions</td>
+        </tr>
+        <tr>
+          <td>11:13</td>
+          <td>01:13</td>
+          <td>18:13</td>          
+          <td>Award ceeremony</td>
+        </tr>
+        <tr>
+          <td>11:18</td>
+          <td>01:18</td>
+          <td>18:18</td>        
+          <td>End</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-xs-12">
+    <h3>Block B</h3>
+    <!-- <h3>Block B (<a href="/2022/static/AI4Space Program (Block B).ics" download><b>download calendar</b></a> to add program to your calendar)</h3> -->
+    <table class="table table-striped">
+      <tbody>
+        <tr>
+            <th>Europe (IDT)<br>23 October 2022</th>
+            <th>N. America (PDT)<br>23 October 2022</th>
+            <th>Australia (AEST)<br>24 October 2022</th>
+            <th>Activity</th>
+        </tr>
+        <tr>
+          <td>19:00</td>
+          <td>09:00</td>
+          <td>02:00</td>          
+          <td>Welcome address + housekeeping</td>
+        </tr>
+        <tr>
+          <td>19:05</td>
+          <td>09:05</td>
+          <td>02:05</td>        
+          <td>Keynote 3: <a href="#keynote">Lukas Mandrake</a></td>
+        </tr>
+        <tr>
+          <td>19:29</td>
+          <td>09:29</td>
+          <td>02:29</td>                  
+          <td>Keynote 4: <a href="#keynote">Simone D'Amico</a></td>
+        </tr>
+        <tr>
+          <td>19:53</td>
+          <td>09:53</td>
+          <td>02:53</td>                
+          <td>Spotlight presentations 3</td>
+        </tr>
+        <tr>
+          <td>20:23</td>
+          <td>10:23</td>
+          <td>03:23</td>          
+          <td>Breakout session</td>
+        </tr>
+        <tr>
+          <td>20:43</td>
+          <td>10:43</td>
+          <td>03:43</td>           
+          <td>Award Seremeony and close</td>
+        </tr>
+        <tr>
+          <td>20:48</td>
+          <td>10:48</td>
+          <td>03:48</td>          
+          <td>End</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div><br>
+
+
+<div class="row">
+  <div class="col-xs-12">
+    <!-- <h2>Program</h2> -->
+    <h2><a id="accepted_papers">Accepted Papers</a></h2>
+    <p>
+    <ul>
+      <li><b>Asynchronous Kalman Filter for Event-Based Star Tracking </b><br>Yonhon Ng (Australian National University)*; Yasir Latif (The University of Adelaide); Tat-Jun Chin (The University of Adelaide); Robert  Mahony (Australian National University)</li>
+      <li><b>CubeSat-CDT: A Cross-Domain Dataset for 6-DoF Trajectory Estimation of a Symmetric Spacecraft </b><br>Mohamed Adel Musallam (SnT, University of Luxembourg)*; Arunkumar Rathinam (University of Luxembourg); Vincent Gaudilliere (SnT, University of Luxembourg); Miguel Ortiz del Castillo (SnT, University of Luxembourg); Djamila Aouada (SnT, University of Luxembourg)</li>
+      <li><b>Data Lifecycle Management in Evolving Input Distributions for Learning-Based Aerospace Applications </b><br>Somrita Banerjee (Stanford University)*; Apoorva Sharma (Stanford University); Edward Schmerling (Stanford University); Max Spolaor (The Aerospace Corporation); Michael Nemerouf (The Aerospace Corporation); Marco Pavone (Stanford University)</li>
+      <li><b>End-to-end Neural Estimation of Spacecraft Pose with Intermediate Detection of Keypoints </b><br>Antoine Legrand (Université Catholique de Louvain)*; Renaud Detry (Katholieke Universiteit Leuven); Christophe De Vleeschouwer (Université Catholique de Louvain)</li>
+      <li><b>Globally Optimal Event-Based Divergence Estimation for Ventral Landing </b><br>Sofia A McLeod (University of Adelaide)*; Gabriele Meoni (European Space Agency); Dario Izzo (European Space Agency); Anne Mergy (European Space Agency); Daqi Liu (University of Adelaide); Yasir Latif (The University of Adelaide); Ian Reid (University of Adelaide); Tat-Jun Chin (The University of Adelaide)</li>
+      <li><b>Improving Contrastive Learning on Visually Homogeneous Mars Rover Images </b><br>Isaac R Ward (Jet Propulsion Laboratory, California Institute of Technology)*; Charles Moore (Mississippi State University); Kai Pak (Jet Propulsion Laboratory, California Institute of Technology); Jingdao Chen (Mississippi State University); Edwin Goh (Jet Propulsion Laboratory)</li>
+      <li><b>MaRF: Representing Mars As Neural Radiance Fields </b><br>Lorenzo Giusti (Sapienza University of Rome, NASA JPL)*; Josue Garcia (University of California, San Diego); Steven Cozine (University of California, San Diego); Darrick Suen (University of California, San Diego); Christina Nguyen (University of California, San Diego); Shahrouz R Alimo (NASA JPL)</li>
+      <li><b>Mixed-Domain Training Improves Multi-Mission Terrain Segmentation </b><br>Grace M Vincent (North Carolina State University)*; Alice Yepremyan (Jet Propulsion Laboratory); Jingdao Chen (Mississippi State University); Edwin Goh (Jet Propulsion Laboratory)</li>
+      <li><b>Monocular 6-DoF Pose Estimation for Non-cooperative Spacecrafts Using Riemannian Regression Network </b><br>Sunhao Chu (Shanghai Jiao Tong University)*; Shufan Wu (Shanghai Jiao Tong University); Yuxiao Duan (Shanghai Jiao Tong University); Klaus Schilling ()</li>
+      <li><b>Spacecraft Pose Estimation Based on Unsupervised Domain Adaptation and on a 3D-Guided Loss Combination </b><br>Juan Ignacio Bravo (Deimos Space, Universidad Autónoma de Madrid)*; Alvaro Garcia-Martin (Universidad Autónoma de Madrid); Jesus Bescos (Universidad Autónoma de Madrid)</li>
+      <li><b>Strong Gravitational Lensing Parameter Estimation with Vision Transformer </b><br>Kuan-Wei Huang (Carnegie Mellon University); Geoff Chih-Fan Chen (University of California, Los Angeles); Po-Wen Chang (Ohio State University); Sheng-Chieh Lin (University of Kentucky); Chia Jung Hsu (Chalmers University of Technology); Vishal Thengane (Mohamed bin Zayed University of Artificial Intelligence);Joshua Yao-Yu Lin (University of Illinois at Urbana-Champaign)*</li>
+      <li><b>Transfer Learning for On-Orbit Ship Segmentation </b><br>Vincenzo Fanizza (Ubotica Technologies)*; David Rijlaarsdam (Ubotica Technologies); Pablo Tomás Toledano González (Ubotica Technologies); José Luis Espinosa-Aranda (Ubotica Technologies)</li>
+      <li><b>Using Moffat Profiles to Register Astronomical Images </b><br>Mason G Schuckman (University of Maryland, Baltimore County); Roy E Prouty (University of Maryland, Baltimore County); David R Chapman (University of Maryland, Baltimore County); Don Engel (University of Maryland, Baltimore County)*</li>
+    </ul>
+    </p>
+  </div>
+</div>
+
+<div class="row" id="people">
+<hr>
+<br>
+</div>
+
+<div class="row">
+  <div class="col-xs-12">
+    <h2>People</h2>
+  </div>
+</div>
+
+<div class="row" id="keynote">
+  <div class="col-xs-12">
+    <h3>Keynote Speakers</h3>
+    <br>
+  </div>
+</div>
+
+<div class="row">
+
+  <div class="col-xs-3 col-sm-3" id="michal">
+    <a href="https://en-exact-sciences.tau.ac.il/profile/msegalro">
+      <img class="people-pic" src="{{ "/static/img/people/michal.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://en-exact-sciences.tau.ac.il/profile/msegalro">Michal Segal-Rozenhaimer</a>
+      <h6>Tel Aviv University</h6>
+    </div>
+  </div>
+
+  <div class="col-xs-3 col-sm-3" id="grzegorz">
+    <a href="https://g-kakareko.github.io/index.html">
+      <img class="people-pic" src="{{ "/static/img/people/grzegorz.jpeg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://g-kakareko.github.io/index.html">Grzegorz Kakareko</a>
+      <h6>Spire Global</h6>
+    </div>
+  </div> 
+
+  <div class="col-xs-3 col-sm-3" id="lukas">
+    <a href=" https://ml.jpl.nasa.gov/people/mandrake/mandrake.html">
+      <img class="people-pic" src="{{ "/static/img/people/lukas.jpeg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href=" https://ml.jpl.nasa.gov/people/mandrake/mandrake.html">Lukas Mandrake</a>
+      <h6>NASA JPL</h6>
+    </div>
+  </div> 
+
+  <div class="col-xs-3 col-sm-3" id="simone">
+    <a href=" https://slab.stanford.edu/">
+      <img class="people-pic" src="{{ "/static/img/people/simone.jpeg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href=" https://slab.stanford.edu/">Simone D'Amico</a>
+      <h6>Stanford University</h6>
+    </div>
+  </div> 
+</div>
+
+<br>
+<div class="row" id="dates">
+<hr>
+<br>
+</div>
+
+<div class="row">
+  <div class="col-xs-12">
+    <h2>Important Dates</h2>
+    All times/dates below are in Pacific Standard Time (PST).
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-xs-12">
+    <table class="table table-striped">
+      <tbody>
+        <tr>
+          <td>Paper Submission Deadline</td>
+          <td><strike>17 June 2022</strike> <strike>15 July 2022</strike> 11:59pm 22 July 2022</td>
+        </tr>
+        <tr>
+          <td>Notification to Authors</td>
+          <td><strike>11 July 2022</strike> 11:59pm 15 August 2022</td>
+        </tr>
+        <tr>
+          <td>Camera-Ready Deadline</td>
+          <td><strike>17 July 2022</strike> <strike>20 August 2022</strike> 11:59am 22 August 2022</td>
+        </tr>
+        <tr>
+          <td>Workshop Date</td>
+          <td>23 October 2022</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+
 <div class="row" id="call">
 <hr>
 <br>
@@ -103,161 +398,16 @@ acknowledgements: ""
   </div>
 </div>
 
-<div class="row" id="challenge">
+<br>
 <hr>
-<br>
-</div>
-
-<div class="row">
-  <div class="col-xs-12">
-    <h2>SPARK2022</h2>
-    <p>
-    We are excited to co-host an AI for space challenge SPARK2022 with the workshop. The competition requires participants to develop data-driven approaches for spacecraft detection and trajectory estimation. SPARK will utilise data synthetically simulated with a state-of-the-art rendering engine in addition to data collected from the Zero-G Lab at the University of Luxembourg.
-    </p>
-
-    <p>
-    Final results and awards will be announced at AI4Space at ECCV 2022. Challenge winners may also be invited to present their methods at the workshop (subject to time availability in the finalised workshop program).
-    </p>
-
-    <p>
-    <a href="https://cvi2.uni.lu/spark2022/"><b>To the challenge!</b></a>
-    </p>
-  </div>
-</div>
-
-<div class="row" id="dates">
-<hr>
-<br>
-</div>
-
-<div class="row">
-  <div class="col-xs-12">
-    <h2>Important Dates</h2>
-    All times/dates below are in Pacific Standard Time (PST).
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-xs-12">
-    <table class="table table-striped">
-      <tbody>
-        <tr>
-          <td>Paper Submission Deadline</td>
-          <td><strike>17 June 2022</strike> <strike>15 July 2022</strike> 11:59pm 22 July 2022</td>
-        </tr>
-        <tr>
-          <td>Notification to Authors</td>
-          <td><strike>11 July 2022</strike> 11:59pm 15 August 2022</td>
-        </tr>
-        <tr>
-          <td>Camera-Ready Deadline</td>
-          <td><strike>17 July 2022</strike> <strike>20 August 2022</strike> 11:59am 22 August 2022</td>
-        </tr>
-        <tr>
-          <td>Workshop Date</td>
-          <td>23 October 2022</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-</div>
-
-<div class="row" id="program">
-<hr>
-<br>
-</div>
-
-<div class="row">
-  <div class="col-xs-12">
-    <h2>Program</h2>
-    <h3><a id="accepted_papers">Accepted Papers</a></h3>
-    <p>
-    <ul>
-      <li><b>Asynchronous Kalman Filter for Event-Based Star Tracking </b><br>Yonhon Ng (Australian National University)*; Yasir Latif (The University of Adelaide); Tat-Jun Chin (The University of Adelaide); Robert  Mahony (Australian National University)</li>
-      <li><b>CubeSat-CDT: A Cross-Domain Dataset for 6-DoF Trajectory Estimation of a Symmetric Spacecraft </b><br>Mohamed Adel Musallam (SnT, University of Luxembourg)*; Arunkumar Rathinam (University of Luxembourg); Vincent Gaudilliere (SnT, University of Luxembourg); Miguel Ortiz del Castillo (SnT, University of Luxembourg); Djamila Aouada (SnT, University of Luxembourg)</li>
-      <li><b>Data Lifecycle Management in Evolving Input Distributions for Learning-Based Aerospace Applications </b><br>Somrita Banerjee (Stanford University)*; Apoorva Sharma (Stanford University); Edward Schmerling (Stanford University); Max Spolaor (The Aerospace Corporation); Michael Nemerouf (The Aerospace Corporation); Marco Pavone (Stanford University)</li>
-      <li><b>End-to-end Neural Estimation of Spacecraft Pose with Intermediate Detection of Keypoints </b><br>Antoine Legrand (Université Catholique de Louvain)*; Renaud Detry (Katholieke Universiteit Leuven); Christophe De Vleeschouwer (Université Catholique de Louvain)</li>
-      <li><b>Globally Optimal Event-Based Divergence Estimation for Ventral Landing </b><br>Sofia A McLeod (University of Adelaide)*; Gabriele Meoni (European Space Agency); Dario Izzo (European Space Agency); Anne Mergy (European Space Agency); Daqi Liu (University of Adelaide); Yasir Latif (The University of Adelaide); Ian Reid (University of Adelaide); Tat-Jun Chin (The University of Adelaide)</li>
-      <li><b>Improving Contrastive Learning on Visually Homogeneous Mars Rover Images </b><br>Isaac R Ward (Jet Propulsion Laboratory, California Institute of Technology)*; Charles Moore (Mississippi State University); Kai Pak (Jet Propulsion Laboratory, California Institute of Technology); Jingdao Chen (Mississippi State University); Edwin Goh (Jet Propulsion Laboratory)</li>
-      <li><b>MaRF: Representing Mars As Neural Radiance Fields </b><br>Lorenzo Giusti (Sapienza University of Rome, NASA JPL)*; Josue Garcia (University of California, San Diego); Steven Cozine (University of California, San Diego); Darrick Suen (University of California, San Diego); Christina Nguyen (University of California, San Diego); Shahrouz R Alimo (NASA JPL)</li>
-      <li><b>Mixed-Domain Training Improves Multi-Mission Terrain Segmentation </b><br>Grace M Vincent (North Carolina State University)*; Alice Yepremyan (Jet Propulsion Laboratory); Jingdao Chen (Mississippi State University); Edwin Goh (Jet Propulsion Laboratory)</li>
-      <li><b>Monocular 6-DoF Pose Estimation for Non-cooperative Spacecrafts Using Riemannian Regression Network </b><br>Sunhao Chu (Shanghai Jiao Tong University)*; Shufan Wu (Shanghai Jiao Tong University); Yuxiao Duan (Shanghai Jiao Tong University); Klaus Schilling ()</li>
-      <li><b>Spacecraft Pose Estimation Based on Unsupervised Domain Adaptation and on a 3D-Guided Loss Combination </b><br>Juan Ignacio Bravo (Deimos Space, Universidad Autónoma de Madrid)*; Alvaro Garcia-Martin (Universidad Autónoma de Madrid); Jesus Bescos (Universidad Autónoma de Madrid)</li>
-      <li><b>Strong Gravitational Lensing Parameter Estimation with Vision Transformer </b><br>Kuan-Wei Huang (Carnegie Mellon University); Geoff Chih-Fan Chen (University of California, Los Angeles); Po-Wen Chang (Ohio State University); Sheng-Chieh Lin (University of Kentucky); Chia Jung Hsu (Chalmers University of Technology); Vishal Thengane (Mohamed bin Zayed University of Artificial Intelligence);Joshua Yao-Yu Lin (University of Illinois at Urbana-Champaign)*</li>
-      <li><b>Transfer Learning for On-Orbit Ship Segmentation </b><br>Vincenzo Fanizza (Ubotica Technologies)*; David Rijlaarsdam (Ubotica Technologies); Pablo Tomás Toledano González (Ubotica Technologies); José Luis Espinosa-Aranda (Ubotica Technologies)</li>
-      <li><b>Using Moffat Profiles to Register Astronomical Images </b><br>Mason G Schuckman (University of Maryland, Baltimore County); Roy E Prouty (University of Maryland, Baltimore County); David R Chapman (University of Maryland, Baltimore County); Don Engel (University of Maryland, Baltimore County)*</li>
-    </ul>
-    </p>
-  </div>
-</div>
-
-<div class="row" id="people">
-<hr>
-<br>
-</div>
-
-<div class="row">
-  <div class="col-xs-12">
-    <h2>People</h2>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-xs-12">
-    <h3>Keynote Speakers</h3>
-  </div>
-</div>
-
-<div class="row">
-
-  <div class="col-xs-3 col-sm-3">
-    <a href="https://en-exact-sciences.tau.ac.il/profile/msegalro">
-      <img class="people-pic" src="{{ "/static/img/people/michal.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://en-exact-sciences.tau.ac.il/profile/msegalro">Michal Segal-Rozenhaimer</a>
-      <h6>Tel Aviv University</h6>
-    </div>
-  </div>
-
-  <div class="col-xs-3 col-sm-3">
-    <a href="https://g-kakareko.github.io/index.html">
-      <img class="people-pic" src="{{ "/static/img/people/grzegorz.jpeg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://g-kakareko.github.io/index.html">Grzegorz Kakareko</a>
-      <h6>Spire Global</h6>
-    </div>
-  </div> 
-
-  <div class="col-xs-3 col-sm-3">
-    <a href=" https://ml.jpl.nasa.gov/people/mandrake/mandrake.html">
-      <img class="people-pic" src="{{ "/static/img/people/lukas.jpeg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href=" https://ml.jpl.nasa.gov/people/mandrake/mandrake.html">Lukas Mandrake</a>
-      <h6>NASA JPL</h6>
-    </div>
-  </div> 
-
-  <div class="col-xs-3 col-sm-3">
-    <a href=" https://slab.stanford.edu/">
-      <img class="people-pic" src="{{ "/static/img/people/simone.jpeg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href=" https://slab.stanford.edu/">Simone D'Amico</a>
-      <h6>Stanford University</h6>
-    </div>
-  </div> 
-</div>
-
-<br>
 
 <div class="row">
   <div class="col-xs-12">
     <h3>Organisers</h3>
+    <br>
   </div>
 </div>
+
 
 <div class="row">
 
