@@ -149,7 +149,7 @@ acknowledgements: ""
           <td>11:13</td>
           <td>01:13</td>
           <td>18:13</td>          
-          <td>Award ceeremony</td>
+          <td>Award ceremony</td>
         </tr>
         <tr>
           <td>11:18</td>
@@ -208,7 +208,7 @@ acknowledgements: ""
           <td>20:43</td>
           <td>10:43</td>
           <td>03:43</td>           
-          <td>Award Seremeony and close</td>
+          <td>Award ceremony and close</td>
         </tr>
         <tr>
           <td>20:48</td>
