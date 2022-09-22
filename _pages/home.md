@@ -137,7 +137,7 @@ acknowledgements: ""
           <td>10:38</td>
           <td>00:38</td>
           <td>17:38</td>          
-          <td><a href="#sl12">Spotlight presentations 2</a></td>
+          <td><a href="#sl2">Spotlight presentations 2</a></td>
         </tr>
         <tr>
           <td>10:53</td>
