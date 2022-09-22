@@ -125,7 +125,7 @@ acknowledgements: ""
           <td>09:53</td>
           <td>23:53</td>
           <td>16:53</td>          
-          <td>Spotlight presentations 1</td>
+          <td><a href="#sl1">Spotlight presentations 1</a></td>
         </tr>
         <tr>
           <td>10:13</td>
@@ -137,7 +137,7 @@ acknowledgements: ""
           <td>10:38</td>
           <td>00:38</td>
           <td>17:38</td>          
-          <td>Spotlight presentations 2</td>
+          <td><a href="#sl12">Spotlight presentations 2</a></td>
         </tr>
         <tr>
           <td>10:53</td>
@@ -196,7 +196,7 @@ acknowledgements: ""
           <td>19:53</td>
           <td>09:53</td>
           <td>02:53</td>                
-          <td>Spotlight presentations 3</td>
+          <td><a href="#sl3">Spotlight presentations 3</a></td>
         </tr>
         <tr>
           <td>20:23</td>
@@ -291,7 +291,7 @@ acknowledgements: ""
   <div class="col-xs-12">
     <h2>Accepted Papers</h2>
     <h3>Spotlight Presentations 1 (Block A)</h3>
-    <table class="table table-striped" id="papers_a">
+    <table class="table table-striped" id="sl1">
       <tbody>
         <tr>
           <th>
@@ -337,7 +337,7 @@ acknowledgements: ""
       </tbody>
     </table>
     <h3>Spotlight Presentations 2 (Block A)</h3>
-    <table class="table table-striped" id="papers_a2">
+    <table class="table table-striped" id="sl2">
       <tbody>
         <tr>
           <th>
@@ -374,7 +374,7 @@ acknowledgements: ""
       </tbody>
     </table>
     <h3>Spotlight Presentations 3 (Block B)</h3>
-    <table class="table table-striped" id="papers_b">
+    <table class="table table-striped" id="sl3">
       <tbody>
         <tr>
           <th>
