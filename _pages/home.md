@@ -219,32 +219,8 @@ acknowledgements: ""
       </tbody>
     </table>
   </div>
-</div><br>
-
-
-<div class="row">
-  <div class="col-xs-12">
-    <!-- <h2>Program</h2> -->
-    <h2><a id="accepted_papers">Accepted Papers</a></h2>
-    <p>
-    <ul>
-      <li><b>Asynchronous Kalman Filter for Event-Based Star Tracking </b><br>Yonhon Ng (Australian National University)*; Yasir Latif (The University of Adelaide); Tat-Jun Chin (The University of Adelaide); Robert  Mahony (Australian National University)</li>
-      <li><b>CubeSat-CDT: A Cross-Domain Dataset for 6-DoF Trajectory Estimation of a Symmetric Spacecraft </b><br>Mohamed Adel Musallam (SnT, University of Luxembourg)*; Arunkumar Rathinam (University of Luxembourg); Vincent Gaudilliere (SnT, University of Luxembourg); Miguel Ortiz del Castillo (SnT, University of Luxembourg); Djamila Aouada (SnT, University of Luxembourg)</li>
-      <li><b>Data Lifecycle Management in Evolving Input Distributions for Learning-Based Aerospace Applications </b><br>Somrita Banerjee (Stanford University)*; Apoorva Sharma (Stanford University); Edward Schmerling (Stanford University); Max Spolaor (The Aerospace Corporation); Michael Nemerouf (The Aerospace Corporation); Marco Pavone (Stanford University)</li>
-      <li><b>End-to-end Neural Estimation of Spacecraft Pose with Intermediate Detection of Keypoints </b><br>Antoine Legrand (Université Catholique de Louvain)*; Renaud Detry (Katholieke Universiteit Leuven); Christophe De Vleeschouwer (Université Catholique de Louvain)</li>
-      <li><b>Globally Optimal Event-Based Divergence Estimation for Ventral Landing </b><br>Sofia A McLeod (University of Adelaide)*; Gabriele Meoni (European Space Agency); Dario Izzo (European Space Agency); Anne Mergy (European Space Agency); Daqi Liu (University of Adelaide); Yasir Latif (The University of Adelaide); Ian Reid (University of Adelaide); Tat-Jun Chin (The University of Adelaide)</li>
-      <li><b>Improving Contrastive Learning on Visually Homogeneous Mars Rover Images </b><br>Isaac R Ward (Jet Propulsion Laboratory, California Institute of Technology)*; Charles Moore (Mississippi State University); Kai Pak (Jet Propulsion Laboratory, California Institute of Technology); Jingdao Chen (Mississippi State University); Edwin Goh (Jet Propulsion Laboratory)</li>
-      <li><b>MaRF: Representing Mars As Neural Radiance Fields </b><br>Lorenzo Giusti (Sapienza University of Rome, NASA JPL)*; Josue Garcia (University of California, San Diego); Steven Cozine (University of California, San Diego); Darrick Suen (University of California, San Diego); Christina Nguyen (University of California, San Diego); Shahrouz R Alimo (NASA JPL)</li>
-      <li><b>Mixed-Domain Training Improves Multi-Mission Terrain Segmentation </b><br>Grace M Vincent (North Carolina State University)*; Alice Yepremyan (Jet Propulsion Laboratory); Jingdao Chen (Mississippi State University); Edwin Goh (Jet Propulsion Laboratory)</li>
-      <li><b>Monocular 6-DoF Pose Estimation for Non-cooperative Spacecrafts Using Riemannian Regression Network </b><br>Sunhao Chu (Shanghai Jiao Tong University)*; Shufan Wu (Shanghai Jiao Tong University); Yuxiao Duan (Shanghai Jiao Tong University); Klaus Schilling ()</li>
-      <li><b>Spacecraft Pose Estimation Based on Unsupervised Domain Adaptation and on a 3D-Guided Loss Combination </b><br>Juan Ignacio Bravo (Deimos Space, Universidad Autónoma de Madrid)*; Alvaro Garcia-Martin (Universidad Autónoma de Madrid); Jesus Bescos (Universidad Autónoma de Madrid)</li>
-      <li><b>Strong Gravitational Lensing Parameter Estimation with Vision Transformer </b><br>Kuan-Wei Huang (Carnegie Mellon University); Geoff Chih-Fan Chen (University of California, Los Angeles); Po-Wen Chang (Ohio State University); Sheng-Chieh Lin (University of Kentucky); Chia Jung Hsu (Chalmers University of Technology); Vishal Thengane (Mohamed bin Zayed University of Artificial Intelligence);Joshua Yao-Yu Lin (University of Illinois at Urbana-Champaign)*</li>
-      <li><b>Transfer Learning for On-Orbit Ship Segmentation </b><br>Vincenzo Fanizza (Ubotica Technologies)*; David Rijlaarsdam (Ubotica Technologies); Pablo Tomás Toledano González (Ubotica Technologies); José Luis Espinosa-Aranda (Ubotica Technologies)</li>
-      <li><b>Using Moffat Profiles to Register Astronomical Images </b><br>Mason G Schuckman (University of Maryland, Baltimore County); Roy E Prouty (University of Maryland, Baltimore County); David R Chapman (University of Maryland, Baltimore County); Don Engel (University of Maryland, Baltimore County)*</li>
-    </ul>
-    </p>
-  </div>
 </div>
+
 
 <div class="row" id="people">
 <hr>
@@ -305,9 +281,163 @@ acknowledgements: ""
       <h6>Stanford University</h6>
     </div>
   </div> 
+</div><br>
+
+
+
+<div class="row" id="papers">
+  <hr>
+  <br>
+  <div class="col-xs-12">
+    <h2>Accepted Papers</h2>
+    <h3>Spotlight Presentations 1 (Block A)</h3>
+    <table class="table table-striped" id="papers_a">
+      <tbody>
+        <tr>
+          <th>
+          Order of presentation
+          </th>
+          <th>
+          Paper title and authors
+          </th>        
+        </tr>
+        <tr>
+          <td>
+          1  <br> 
+          </td>
+          <td>
+          Transfer Learning for On-Orbit Ship Segmentation
+          <br><em>Vincenzo Fanizza (Ubotica Technologies)*; David Rijlaarsdam (Ubotica Technologies); Pablo Tomás Toledano González (Ubotica Technologies); José Luis Espinosa-Aranda (Ubotica Technologies)</em>
+          </td>
+        </tr>
+        <tr>
+          <td>
+          2  <br> 
+          </td>
+          <td>Spacecraft Pose Estimation Based on Unsupervised Domain Adaptation and on a 3D-Guided Loss Combination
+          <br><em>Juan Ignacio Bravo (Deimos Space, Universidad Autónoma de Madrid)*; Alvaro Garcia-Martin (Universidad Autónoma de Madrid); Jesus Bescos (Universidad Autónoma de Madrid)</em>
+          </td>
+        </tr>
+        <tr>
+          <td>
+          3  <br> 
+          </td>
+          <td>Monocular 6-DoF Pose Estimation for Non-cooperative Spacecrafts Using Riemannian Regression Network
+          <br><em>Sunhao Chu (Shanghai Jiao Tong University)*; Shufan Wu (Shanghai Jiao Tong University); Yuxiao Duan (Shanghai Jiao Tong University); Klaus Schilling ()</em>
+          </td>
+        </tr>
+        <tr>
+          <td>
+          4  <br> 
+          </td>
+          <td>Asynchronous Kalman Filter for Event-Based Star Tracking
+          <br><em>Yonhon Ng (Australian National University)*; Yasir Latif (The University of Adelaide); Tat-Jun Chin (The University of Adelaide); Robert  Mahony (Australian National University)</em>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <h3>Spotlight Presentations 2 (Block A)</h3>
+    <table class="table table-striped" id="papers_a2">
+      <tbody>
+        <tr>
+          <th>
+          Order of presentation
+          </th>
+          <th>
+          Paper title and authors
+          </th>        
+        </tr>
+        <tr>
+          <td>
+          1  <br>
+          </td>
+          <td>CubeSat-CDT: A Cross-Domain Dataset for 6-DoF Trajectory Estimation of a Symmetric Spacecraft
+          <br><em>Mohamed Adel Musallam (SnT, University of Luxembourg)*; Arunkumar Rathinam (University of Luxembourg); Vincent Gaudilliere (SnT, University of Luxembourg); Miguel Ortiz del Castillo (SnT, University of Luxembourg); Djamila Aouada (SnT, University of Luxembourg)</em>
+          </td>
+        </tr>
+        <tr>
+          <td>
+          2  <br> 
+          </td>
+          <td>End-to-end Neural Estimation of Spacecraft Pose with Intermediate Detection of Keypoints
+          <br><em>Antoine Legrand (Université Catholique de Louvain)*; Renaud Detry (Katholieke Universiteit Leuven); Christophe De Vleeschouwer (Université Catholique de Louvain)</em>
+          </td>
+        </tr>
+        <tr>
+          <td>
+          3  <br> 
+          </td>
+          <td>Globally Optimal Event-Based Divergence Estimation for Ventral Landing
+          <br><em>Sofia A McLeod (University of Adelaide)*; Gabriele Meoni (European Space Agency); Dario Izzo (European Space Agency); Anne Mergy (European Space Agency); Daqi Liu (University of Adelaide); Yasir Latif (The University of Adelaide); Ian Reid (University of Adelaide); Tat-Jun Chin (The University of Adelaide)</em>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <h3>Spotlight Presentations 3 (Block B)</h3>
+    <table class="table table-striped" id="papers_b">
+      <tbody>
+        <tr>
+          <th>
+          Order of presentation
+          </th>
+          <th>
+          Paper title and authors
+          </th>        
+        </tr>
+        <tr>
+          <td>
+          1  <br> 
+          </td>
+          <td>Data Lifecycle Management in Evolving Input Distributions for Learning-Based Aerospace Applications
+          <br><em>Somrita Banerjee (Stanford University)*; Apoorva Sharma (Stanford University); Edward Schmerling (Stanford University); Max Spolaor (The Aerospace Corporation); Michael Nemerouf (The Aerospace Corporation); Marco Pavone (Stanford University)</em>
+          </td>
+        </tr>
+        <tr>
+          <td>
+          2  <br>
+          </td>
+          <td>Improving Contrastive Learning on Visually Homogeneous Mars Rover Images
+          <br><em>Isaac R Ward (Jet Propulsion Laboratory, California Institute of Technology)*; Charles Moore (Mississippi State University); Kai Pak (Jet Propulsion Laboratory, California Institute of Technology); Jingdao Chen (Mississippi State University); Edwin Goh (Jet Propulsion Laboratory)</em>
+          </td>
+        </tr>
+        <tr>
+          <td>
+          3  <br>
+          </td>
+          <td>MaRF: Representing Mars As Neural Radiance Fields
+          <br><em>Lorenzo Giusti (Sapienza University of Rome, NASA JPL)*; Josue Garcia (University of California, San Diego); Steven Cozine (University of California, San Diego); Darrick Suen (University of California, San Diego); Christina Nguyen (University of California, San Diego); Shahrouz R Alimo (NASA JPL)</em>
+          </td>
+        </tr>
+        <tr>
+          <td>
+          4  <br>
+          </td>
+          <td>Mixed-Domain Training Improves Multi-Mission Terrain Segmentation
+          <br><em>Grace M Vincent (North Carolina State University)*; Alice Yepremyan (Jet Propulsion Laboratory); Jingdao Chen (Mississippi State University); Edwin Goh (Jet Propulsion Laboratory)</em>
+          </td>
+        </tr>
+        <tr>
+          <td>
+          5  <br>
+          </td>
+          <td>Strong Gravitational Lensing Parameter Estimation with Vision Transformer
+          <br><em>Kuan-Wei Huang (Carnegie Mellon University); Geoff Chih-Fan Chen (University of California, Los Angeles); Po-Wen Chang (Ohio State University); Sheng-Chieh Lin (University of Kentucky); Chia Jung Hsu (Chalmers University of Technology); Vishal Thengane (Mohamed bin Zayed University of Artificial Intelligence);Joshua Yao-Yu Lin (University of Illinois at Urbana-Champaign)*</em>
+          </td>
+        </tr>
+        <tr>
+          <td>
+          6 <br>
+          </td>
+          <td>Using Moffat Profiles to Register Astronomical Images
+          <br><em>Mason G Schuckman (University of Maryland, Baltimore County); Roy E Prouty (University of Maryland, Baltimore County); David R Chapman (University of Maryland, Baltimore County); Don Engel (University of Maryland, Baltimore County)*</em>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
 </div>
 
-<br>
+
 <div class="row" id="dates">
 <hr>
 <br>
