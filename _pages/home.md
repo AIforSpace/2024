@@ -119,7 +119,7 @@ acknowledgements: ""
           <td>09:29</td>
           <td>23:29</td>
           <td>16:29</td>             
-          <td>Keynote 2: <a href="#keynote">Grzegorz Kakareko</a></td>
+          <td>Keynote 2: <a href="#keynote">Simone D'Amico</a></td>
         </tr>
         <tr>
           <td>09:53</td>
@@ -190,7 +190,7 @@ acknowledgements: ""
           <td>19:29</td>
           <td>09:29</td>
           <td>02:29</td>                  
-          <td>Keynote 4: <a href="#keynote">Simone D'Amico</a></td>
+          <td>Keynote 4: <a href="#keynote">Grzegorz Kakareko</a></td>
         </tr>
         <tr>
           <td>19:53</td>
