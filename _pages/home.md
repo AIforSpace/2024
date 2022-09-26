@@ -131,7 +131,7 @@ acknowledgements: ""
           <td>10:13</td>
           <td>00:13</td>
           <td>17:13</td>          
-          <td>SPARK challenge</td>
+          <td>SPARK challenge + Keynote 3: <a href="#keynote">Thanos Athanasiadis</a></td>
         </tr>
         <tr>
           <td>10:38</td>
@@ -184,13 +184,13 @@ acknowledgements: ""
           <td>19:05</td>
           <td>09:05</td>
           <td>02:05</td>        
-          <td>Keynote 3: <a href="#keynote">Lukas Mandrake</a></td>
+          <td>Keynote 4: <a href="#keynote">Lukas Mandrake</a></td>
         </tr>
         <tr>
           <td>19:29</td>
           <td>09:29</td>
           <td>02:29</td>                  
-          <td>Keynote 4: <a href="#keynote">Grzegorz Kakareko</a></td>
+          <td>Keynote 5: <a href="#keynote">Grzegorz Kakareko</a></td>
         </tr>
         <tr>
           <td>19:53</td>
@@ -271,6 +271,9 @@ acknowledgements: ""
       <h6>NASA JPL</h6>
     </div>
   </div> 
+</div><br>
+
+<div class="row">
 
   <div class="col-xs-3 col-sm-3" id="simone">
     <a href=" https://slab.stanford.edu/">
@@ -279,6 +282,16 @@ acknowledgements: ""
     <div class="people-name">
       <a href=" https://slab.stanford.edu/">Simone D'Amico</a>
       <h6>Stanford University</h6>
+    </div>
+  </div> 
+
+  <div class="col-xs-3 col-sm-3" id="thanos">
+    <a href=" https://www.linkedin.com/in/tanman/">
+      <img class="people-pic" src="{{ "/static/img/people/thanos.jpeg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href=" https://www.linkedin.com/in/tanman/">Thanos Athanasiadis</a>
+      <h6>LMO</h6>
     </div>
   </div> 
 </div><br>
@@ -616,11 +629,11 @@ acknowledgements: ""
   </div>   
 
   <div class="col-xs-3 col-sm-3">
-    <!---<a href="">--->
+    <a href="https://www.linkedin.com/in/sofia-mcleod/">
       <img class="people-pic" src="{{ "/static/img/people/sofia.jpeg" | prepend:site.baseurl }}">
-    <!---</a>--->
+    </a>
     <div class="people-name">
-      <a href="">Sofia Mcleod</a>
+      <a href="https://www.linkedin.com/in/sofia-mcleod/">Sofia Mcleod</a>
       <h6>The University of Adelaide</h6>
     </div>
   </div>  
