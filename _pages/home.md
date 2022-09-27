@@ -722,6 +722,9 @@ acknowledgements: ""
     <div class="col-xs-4"><a id="sponsor_draper">
             <a href="https://www.draper.com/"><img class="people-pic-big" src="{{ "/static/img/sponsors/draper.png" | prepend:site.baseurl }}"></a>
     </a></div>
+    <div class="col-xs-4"><a id="sponsor_LMO">
+            <a href="https://www.lmo.space/"><img class="people-pic-big" src="{{ "/static/img/sponsors/lmo.png" | prepend:site.baseurl }}"></a>
+    </a></div>
   </div>
 </div>
 
