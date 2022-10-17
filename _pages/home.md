@@ -100,61 +100,61 @@ acknowledgements: ""
         <tr>
             <th>Tel Aviv (IDT=UTC+3)<br>23 October 2022</th>
             <th>Los Angeles (PDT=UTC-7)<br>22/23 October 2022</th>
-            <th>Sydney (AEST=UTC+10)<br>23 October 2022</th>
+            <th>Sydney (AEST=UTC+11)<br>23 October 2022</th>
             <th>Activity</th>
         </tr>
         <tr>
           <td>09:00</td>
           <td>23:00</td>
-          <td>16:00</td>          
+          <td>17:00</td>          
           <td>Welcome address + housekeeping</td>
         </tr>
         <tr>
           <td>09:05</td>
           <td>23:05</td>
-          <td>16:05</td>          
+          <td>17:05</td>          
           <td>Keynote 1: <a href="#keynote">Michal Segal-Rozenhaimer</a></td>
         </tr>
         <tr>
           <td>09:29</td>
           <td>23:29</td>
-          <td>16:29</td>             
+          <td>17:29</td>             
           <td>Keynote 2: <a href="#keynote">Simone D'Amico</a></td>
         </tr>
         <tr>
           <td>09:53</td>
           <td>23:53</td>
-          <td>16:53</td>          
+          <td>17:53</td>          
           <td><a href="#sl1">Spotlight presentations 1</a></td>
         </tr>
         <tr>
           <td>10:13</td>
           <td>00:13</td>
-          <td>17:13</td>          
+          <td>18:13</td>          
           <td>SPARK challenge + Keynote 3: <a href="#keynote">Thanos Athanasiadis</a></td>
         </tr>
         <tr>
           <td>10:38</td>
           <td>00:38</td>
-          <td>17:38</td>          
+          <td>18:38</td>          
           <td><a href="#sl2">Spotlight presentations 2</a></td>
         </tr>
         <tr>
           <td>10:53</td>
           <td>00:53</td>
-          <td>17:53</td>          
+          <td>18:53</td>          
           <td>Breakout sessions</td>
         </tr>
         <tr>
           <td>11:13</td>
           <td>01:13</td>
-          <td>18:13</td>          
+          <td>19:13</td>          
           <td>Award ceremony</td>
         </tr>
         <tr>
           <td>11:18</td>
           <td>01:18</td>
-          <td>18:18</td>        
+          <td>19:18</td>        
           <td>End</td>
         </tr>
       </tbody>
@@ -171,49 +171,49 @@ acknowledgements: ""
         <tr>
             <th>Tel Aviv (IDT=UTC+3)<br>23 October 2022</th>
             <th>Los Angeles (PDT=UTC-7)<br>23 October 2022</th>
-            <th>Sydney (AEST=UTC+10)<br>24 October 2022</th>
+            <th>Sydney (AEST=UTC+11)<br>24 October 2022</th>
             <th>Activity</th>
         </tr>
         <tr>
           <td>19:00</td>
           <td>09:00</td>
-          <td>02:00</td>          
+          <td>03:00</td>          
           <td>Welcome address + housekeeping</td>
         </tr>
         <tr>
           <td>19:05</td>
           <td>09:05</td>
-          <td>02:05</td>        
+          <td>03:05</td>        
           <td>Keynote 4: <a href="#keynote">Lukas Mandrake</a></td>
         </tr>
         <tr>
           <td>19:29</td>
           <td>09:29</td>
-          <td>02:29</td>                  
+          <td>03:29</td>                  
           <td>Keynote 5: <a href="#keynote">Grzegorz Kakareko</a></td>
         </tr>
         <tr>
           <td>19:53</td>
           <td>09:53</td>
-          <td>02:53</td>                
+          <td>03:53</td>                
           <td><a href="#sl3">Spotlight presentations 3</a></td>
         </tr>
         <tr>
           <td>20:23</td>
           <td>10:23</td>
-          <td>03:23</td>          
+          <td>04:23</td>          
           <td>Breakout session</td>
         </tr>
         <tr>
           <td>20:43</td>
           <td>10:43</td>
-          <td>03:43</td>           
+          <td>04:43</td>           
           <td>Award ceremony and close</td>
         </tr>
         <tr>
           <td>20:48</td>
           <td>10:48</td>
-          <td>03:48</td>          
+          <td>04:48</td>          
           <td>End</td>
         </tr>
       </tbody>
