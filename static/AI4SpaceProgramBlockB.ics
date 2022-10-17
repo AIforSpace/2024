@@ -23,16 +23,11 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=1SU
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20220921T235443Z
+DTSTAMP:20221017T110711Z
 UID:1663804257566-58250@ical.marudot.com
-DTSTART;TZID=Australia/Sydney:20221024T020000
-DTEND;TZID=Australia/Sydney:20221024T035000
+DTSTART;TZID=Australia/Sydney:20221024T030000
+DTEND;TZID=Australia/Sydney:20221024T045000
 SUMMARY:AI4Space Program (Block B)
 DESCRIPTION:Duration (mins) - Activity\n\n5 - Welcome address + house keeping\n24 - Keynote 3: Lukas Mandrake\n24 - Keynote 4: Simone D'Amico\n30 - Spotlight presentations 3\n20 - Breakout sessions\n5 - Award ceremony and close\nEnd
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:AI4Space Program (Block B)
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 END:VCALENDAR
