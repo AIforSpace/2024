@@ -104,6 +104,12 @@ acknowledgements: ""
             <th>Activity</th>
         </tr>
         <tr>
+          <td>08:30</td>
+          <td>22:30</td>
+          <td>16:30</td>          
+          <td>Virtual meeting room open</td>
+        </tr>
+        <tr>
           <td>09:00</td>
           <td>23:00</td>
           <td>17:00</td>          
@@ -116,45 +122,45 @@ acknowledgements: ""
           <td>Keynote 1: <a href="#keynote">Michal Segal-Rozenhaimer</a></td>
         </tr>
         <tr>
-          <td>09:29</td>
-          <td>23:29</td>
-          <td>17:29</td>             
+          <td>09:25</td>
+          <td>23:25</td>
+          <td>17:25</td>             
           <td>Keynote 2: <a href="#keynote">Simone D'Amico</a></td>
         </tr>
         <tr>
-          <td>09:53</td>
-          <td>23:53</td>
-          <td>17:53</td>          
+          <td>09:45</td>
+          <td>23:45</td>
+          <td>17:45</td>          
           <td><a href="#sl1">Spotlight presentations 1</a></td>
         </tr>
         <tr>
-          <td>10:13</td>
-          <td>00:13</td>
-          <td>18:13</td>          
+          <td>10:05</td>
+          <td>00:05</td>
+          <td>18:05</td>          
           <td>SPARK challenge + Keynote 3: <a href="#keynote">Thanos Athanasiadis</a></td>
         </tr>
         <tr>
-          <td>10:38</td>
-          <td>00:38</td>
-          <td>18:38</td>          
+          <td>10:30</td>
+          <td>00:30</td>
+          <td>18:30</td>          
           <td><a href="#sl2">Spotlight presentations 2</a></td>
         </tr>
         <tr>
-          <td>10:53</td>
-          <td>00:53</td>
-          <td>18:53</td>          
+          <td>10:45</td>
+          <td>00:45</td>
+          <td>18:45</td>          
           <td>Breakout sessions</td>
         </tr>
         <tr>
-          <td>11:13</td>
-          <td>01:13</td>
-          <td>19:13</td>          
+          <td>11:05</td>
+          <td>01:05</td>
+          <td>19:05</td>          
           <td>Award ceremony</td>
         </tr>
         <tr>
-          <td>11:18</td>
-          <td>01:18</td>
-          <td>19:18</td>        
+          <td>11:10</td>
+          <td>01:10</td>
+          <td>19:10</td>        
           <td>End</td>
         </tr>
       </tbody>
@@ -175,6 +181,12 @@ acknowledgements: ""
             <th>Activity</th>
         </tr>
         <tr>
+          <td>18:30</td>
+          <td>08:30</td>
+          <td>02:30</td>          
+          <td>Virtual meeting room open</td>
+        </tr>
+        <tr>
           <td>19:00</td>
           <td>09:00</td>
           <td>03:00</td>          
@@ -187,33 +199,33 @@ acknowledgements: ""
           <td>Keynote 4: <a href="#keynote">Lukas Mandrake</a></td>
         </tr>
         <tr>
-          <td>19:29</td>
-          <td>09:29</td>
-          <td>03:29</td>                  
+          <td>19:25</td>
+          <td>09:25</td>
+          <td>03:25</td>                  
           <td>Keynote 5: <a href="#keynote">Grzegorz Kakareko</a></td>
         </tr>
         <tr>
-          <td>19:53</td>
-          <td>09:53</td>
-          <td>03:53</td>                
+          <td>19:45</td>
+          <td>09:45</td>
+          <td>03:45</td>                
           <td><a href="#sl3">Spotlight presentations 3</a></td>
         </tr>
         <tr>
-          <td>20:23</td>
-          <td>10:23</td>
-          <td>04:23</td>          
+          <td>20:15</td>
+          <td>10:15</td>
+          <td>04:15</td>          
           <td>Breakout session</td>
         </tr>
         <tr>
-          <td>20:43</td>
-          <td>10:43</td>
-          <td>04:43</td>           
+          <td>20:35</td>
+          <td>10:35</td>
+          <td>04:35</td>           
           <td>Award ceremony and close</td>
         </tr>
         <tr>
-          <td>20:48</td>
-          <td>10:48</td>
-          <td>04:48</td>          
+          <td>20:40</td>
+          <td>10:40</td>
+          <td>04:40</td>          
           <td>End</td>
         </tr>
       </tbody>
