@@ -31,7 +31,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <h5 style="color:red">Workshop attendance mode has changed to <b>fully virtual</b></h5>
-    <h6><a href="#accepted_papers">Accepted Papers</a></h6>
+    <h6><a href="#papers">Accepted Papers</a></h6>
     <h6>We thank our <a href="#sponsor_spire">generous sponsors</a> Spire Global, Draper Labs and LMO</h6>
   </div>
 </div>
@@ -100,7 +100,7 @@ acknowledgements: ""
         <tr>
             <th>Tel Aviv (IDT=UTC+3)<br>23 October 2022</th>
             <th>Los Angeles (PDT=UTC-7)<br>22/23 October 2022</th>
-            <th>Sydney (AEST=UTC+11)<br>23 October 2022</th>
+            <th>Sydney (AEDT=UTC+11)<br>23 October 2022</th>
             <th>Activity</th>
         </tr>
         <tr>
@@ -177,7 +177,7 @@ acknowledgements: ""
         <tr>
             <th>Tel Aviv (IDT=UTC+3)<br>23 October 2022</th>
             <th>Los Angeles (PDT=UTC-7)<br>23 October 2022</th>
-            <th>Sydney (AEST=UTC+11)<br>24 October 2022</th>
+            <th>Sydney (AEDT=UTC+11)<br>24 October 2022</th>
             <th>Activity</th>
         </tr>
         <tr>
