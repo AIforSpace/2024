@@ -119,7 +119,7 @@ acknowledgements: ""
           <td>09:05</td>
           <td>23:05</td>
           <td>17:05</td>          
-          <td>Keynote 1: <a href="#keynote">Michal Segal-Rozenhaimer</a>, AI from Space: Machine Vision Applications for Earth Sciences and Beyond</td>
+          <td>Keynote 1: <a href="#keynote">Michal Segal-Rozenhaimer</a> <br>AI from Space: Machine Vision Applications for Earth Sciences and Beyond</td>
         </tr>
         <tr>
           <td>09:25</td>
