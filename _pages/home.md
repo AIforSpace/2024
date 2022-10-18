@@ -203,7 +203,8 @@ acknowledgements: ""
           <td>19:25</td>
           <td>09:25</td>
           <td>03:25</td>                  
-          <td>Keynote 5: <a href="#keynote">Grzegorz Kakareko</a></td>
+          <td>Keynote 5: <a href="#keynote">Grzegorz Kakareko</a> <br>Deploying Machine Learning Models in Space
+</td>
         </tr>
         <tr>
           <td>19:45</td>
