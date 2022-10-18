@@ -28,6 +28,6 @@ UID:1663803972513-50594@ical.marudot.com
 DTSTART;TZID=Australia/Sydney:20221023T163000
 DTEND;TZID=Australia/Sydney:20221023T192000
 SUMMARY:AI4Space Program (Block A)
-DESCRIPTION:Duration (mins) - Activity\n\n30 - Virtual meeting room open\n5 - Welcome address + house keeping\n24 - Keynote 1: Michal Segal-Rozenhaimer\n24 - Keynote 2: Grzegorz Kakareko\n20 - Spotlight presentations 1\n25 - SPARK challenge\n15 - Spotlight presentations 2\n20 - Breakout sessions\n5 - Award ceremony\nEnd
+DESCRIPTION:Duration (mins) - Activity\n\n30 - Virtual meeting room open\n5 - Welcome address + house keeping\n20 - Keynote 1: Michal Segal-Rozenhaimer\n20 - Keynote 2: Simone D'Amico\n20 - Spotlight presentations 1\n25 - SPARK challenge\n15 - Spotlight presentations 2\n20 - Breakout sessions\n5 - Award ceremony\nEnd
 END:VEVENT
 END:VCALENDAR
