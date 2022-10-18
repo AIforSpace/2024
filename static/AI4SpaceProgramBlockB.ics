@@ -28,6 +28,6 @@ UID:1663804257566-58250@ical.marudot.com
 DTSTART;TZID=Australia/Sydney:20221024T023000
 DTEND;TZID=Australia/Sydney:20221024T045000
 SUMMARY:AI4Space Program (Block B)
-DESCRIPTION:Duration (mins) - Activity\n\n30 - Virtual meeting room open\n5 - Welcome address + house keeping\n24 - Keynote 3: Lukas Mandrake\n24 - Keynote 4: Simone D'Amico\n30 - Spotlight presentations 3\n20 - Breakout sessions\n5 - Award ceremony and close\nEnd
+DESCRIPTION:Duration (mins) - Activity\n\n30 - Virtual meeting room open\n5 - Welcome address + house keeping\n20 - Keynote 3: Lukas Mandrake\n20 - Keynote 4: Grzegorz Kakareko\n30 - Spotlight presentations 3\n20 - Breakout sessions\n5 - Award ceremony and close\nEnd
 END:VEVENT
 END:VCALENDAR
