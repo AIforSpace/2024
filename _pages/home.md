@@ -125,7 +125,7 @@ acknowledgements: ""
           <td>09:25</td>
           <td>23:25</td>
           <td>17:25</td>             
-          <td>Keynote 2: <a href="#keynote">Simone D'Amico</a></td>
+          <td>Keynote 2: <a href="#keynote">Simone D'Amico</a><br>Spaceborne Vision and Artificial Neural Networks</td>
         </tr>
         <tr>
           <td>09:45</td>
@@ -137,7 +137,7 @@ acknowledgements: ""
           <td>10:05</td>
           <td>00:05</td>
           <td>18:05</td>          
-          <td>SPARK challenge + Keynote 3: <a href="#keynote">Thanos Athanasiadis</a></td>
+          <td>SPARK challenge <br>Keynote 3: <a href="#keynote">Thanos Athanasiadis</a> <br> </td>
         </tr>
         <tr>
           <td>10:30</td>
@@ -196,7 +196,7 @@ acknowledgements: ""
           <td>19:05</td>
           <td>09:05</td>
           <td>03:05</td>        
-          <td>Keynote 4: <a href="#keynote">Lukas Mandrake</a></td>
+          <td>Keynote 4: <a href="#keynote">Lukas Mandrake</a> <br>Onboard Science Instrument Autonomy: An Emerging Technology Ready to Enable New Mission Science</td>
         </tr>
         <tr>
           <td>19:25</td>
