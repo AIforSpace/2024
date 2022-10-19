@@ -138,7 +138,7 @@ acknowledgements: ""
           <td>10:05</td>
           <td>00:05</td>
           <td>18:05</td>          
-          <td>SPARK challenge <br>Keynote 3: <a href="#keynote">Thanos Athanasiadis</a> <br> </td>
+          <td>SPARK challenge <br>Keynote 3: <a href="#keynote">Thanos Athanasiadis</a> <br>Lab is Our space: Creating a Realistic Test Dataset</td>
         </tr>
         <tr>
           <td>10:30</td>
