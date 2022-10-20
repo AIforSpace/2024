@@ -105,12 +105,6 @@ acknowledgements: ""
             <th>Activity</th>
         </tr>
         <tr>
-          <td>08:30</td>
-          <td>22:30</td>
-          <td>16:30</td>          
-          <td>Virtual meeting room open</td>
-        </tr>
-        <tr>
           <td>09:00</td>
           <td>23:00</td>
           <td>17:00</td>          
@@ -180,12 +174,6 @@ acknowledgements: ""
             <th>Los Angeles (PDT=UTC-7)<br>23 October 2022</th>
             <th>Sydney (AEDT=UTC+11)<br>24 October 2022</th>
             <th>Activity</th>
-        </tr>
-        <tr>
-          <td>18:30</td>
-          <td>08:30</td>
-          <td>02:30</td>          
-          <td>Virtual meeting room open</td>
         </tr>
         <tr>
           <td>19:00</td>
