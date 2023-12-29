@@ -48,9 +48,9 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12">
-    <h2>SPARK2022</h2>
+    <h2>SPARK2024</h2>
     <p>
-    We are excited to co-host an AI for space challenge SPARK2022 with the workshop. The competition requires participants to develop data-driven approaches for spacecraft detection and trajectory estimation. SPARK will utilise data synthetically simulated with a state-of-the-art rendering engine in addition to data collected from the Zero-G Lab at the University of Luxembourg.
+      Details TBD
     </p>
 
     <p>
@@ -118,19 +118,27 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>Paper Submission Deadline</td>
-          <td><strike>17 June 2022</strike> <strike>15 July 2022</strike> 11:59pm 22 July 2022</td>
+          <td>March 1, 2024</td>
         </tr>
         <tr>
-          <td>Notification to Authors</td>
-          <td><strike>11 July 2022</strike> 11:59pm 15 August 2022</td>
+          <td>Paper Reviewing Starts</td>
+          <td>March 6, 2024</td>
+        </tr>
+        <tr>
+          <td>Paper Reviews Due</td>
+          <td>March 27, 2024</td>
+        </tr>
+        <tr>
+          <td>Paper Decisions</td>
+          <td>April 3, 2024</td>
         </tr>
         <tr>
           <td>Camera-Ready Deadline</td>
-          <td><strike>17 July 2022</strike> <strike>20 August 2022</strike> 11:59am 22 August 2022</td>
+          <td>April 14, 2024</td>
         </tr>
         <tr>
           <td>Workshop Date</td>
-          <td>23 October 2022</td>
+          <td>TBD</td>
         </tr>
       </tbody>
     </table>
@@ -289,6 +297,12 @@ acknowledgements: ""
 
 </div>
 
+<div class="row">
+  <div class="col-xs-12">
+    <h3>Sponsors</h3>
+    <br>
+  </div>
+</div>
 
 <div class="row" id="sponsors">
 <hr>
