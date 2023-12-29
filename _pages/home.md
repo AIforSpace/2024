@@ -30,17 +30,6 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12">
-    <h5 style="color:red">Join the workshop through <a href="https://live.allintheloop.net/App/ortra/ortraECCV2022">ECCV virtual platform</a> (registration required, password sent through email by ECCV)</h5>
-    <h6>Contact the organisers if you need more information</h6>
-    <h6><a href="#papers">Accepted Papers</a></h6>
-    <h6>We thank our <a href="#sponsor_spire">generous sponsors</a> Spire Global, Draper Labs and LMO</h6>
-  </div>
-</div>
-
-<hr>
-
-<div class="row">
-  <div class="col-xs-12">
     <h2>Introduction</h2>
   </div>
 </div>
