@@ -20,7 +20,7 @@ acknowledgements: ""
     <br>
     <br>
     <center><h3 style="color:white">3rd Workshop on AI for Space</h3></center>
-    <center><h3 style="color:white">In conjunction with <a href="https://cvpr.thecvf.com/">CVPR 2024</a></h3></center>    
+    <center><h3 style="color:white">In conjunction with <a href="https://cvpr.thecvf.com/Conferences/2024">CVPR 2024</a></h3></center>    
     <center><h3 style="color:white">Date: TBD</h3></center>
     <br>
   </div>
@@ -151,23 +151,24 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-      We solicit papers for AI4Space. Papers will be reviewed and accepted papers will be published in the proceedings of ECCV Workshops. Authors of accepted papers will also be invited to present at the workshop (in hybrid mode) at ECCV 2022.
+      We solicit papers for AI4Space. Papers will be reviewed and accepted papers will be published in the proceedings of CVPR 2024 Workshops. Authors of accepted papers will also be expected to present in person at the workshop, which will be co-located with <a href="https://cvpr.thecvf.com/Conferences/2024">CVPR 2024</a>.
       </p>
       <p>
-      The general emphasis of AI4Space is vision and learning algorithms in off-Earth environments, including in the orbital region, surface and underground environments on other planetary bodies (e.g., the moon, Mars and asteroids), interplanetary space and solar system, and distant galaxies. Target application areas include autonomous spacecraft, space robotics, space traffic management, astronomy, astrobiology and cosmology. Emphasis is also placed on novel sensors and processing hardware for vision and learning in space, mitigating the challenges of the space environment towards vision and learning (e.g., solar radiation, extreme temperatures), and solving practical difficulties in vision and learning for space (e.g., lack of training data, unknown or partially known characteristics of operating environments).
+      The general emphasis of AI4Space is vision and learning algorithms for autonomous space systems, which operate in the Earth’s orbital regions, cislunar orbit, planetary bodies (e.g., the moon, Mars and asteroids), and interplanetary space. Emphasis is also placed on novel sensors and processors for vision and learning in space, mitigating the challenges of the space environment towards vision and learning (e.g., radiation, extreme temperatures), and fundamental difficulties in vision and learning for space (e.g., lack of training data, unknown operating environments).
     </p>
     <p>
     A specific list of topics is as follows:
     <ul>
-      <li>Visual navigation for spacecraft operations (rendezvous, docking, maneuvers, entry descent landing)</li>
-      <li>Vision and learning for space robotics</li>
-      <li>GPS-denied positioning on the moon and Mars</li>      
-      <li>Space debris monitoring and mitigation</li>
-      <li>Vision and learning for astronomy, astrobiology and cosmology</li>
-      <li>Novel sensors for space applications</li>
-      <li>Processing hardware for vision and learning in space</li>
-      <li>Mitigating challenges of the space environment to vision and learning</li>
-      <li>Datasets, transfer learning and domain gap for space problems</li>
+      <li></li>Vision and learning for spacecraft navigation and oper- ations (e.g., rendezvous, proximity operations, docking, space maneuvers, entry descent landing).</li>
+      <li>Vision and learning for space robots (e.g., rovers, UAVs, UGVs, UUWs) and multi-agent systems.</li>
+      <li>Mapping and global positioning on planetary bodies (moon, Mars, asteroids), including celestial positioning.</li>
+      <li>Onboard AI for Earth observation applications (e.g. near- real-time disaster monitoring, distributed learning on satellites, tip and cue satellite-based systems).</li>
+      <li>Onboard AI for satellite operations (e.g. AI-based star trackers, fault detection isolation and recovery).</li>
+      <li>Space debris monitoring and mitigation.</li>
+      <li>Sensors for space applications (e.g., optical, multispectral, lidar, radar, neuromorphic).</li>
+      <li>Onboard compute hardware for vision and learning (e.g., neural network accelerators, neuromorphic processors).</li>
+      <li>Mitigating challenges of the space environment (e.g., radiation, thermal) to vision and learning systems.</li>
+      <li>Datasets, transfer learning and domain gap.</li>
     </ul>
     </p>
   <h3>Peaceful usage of AI for space</h3>
@@ -299,6 +300,14 @@ acknowledgements: ""
 <hr>
 <br>
 </div>
+
+<div class="row">
+  <div class="col-xs-12">
+    <h3>Sponsors</h3>
+    <br>
+  </div>
+</div>
+
 
 <p>TBD</p>
 
