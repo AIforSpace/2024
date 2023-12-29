@@ -150,7 +150,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-      We solicit papers for AI4Space. Papers will be reviewed and accepted papers will be published in the proceedings of CVPR 2024 Workshops. <b>Accepted papers will also be expected to be presented in person at the workshop</b>, which will be co-located with <a href="https://cvpr.thecvf.com/Conferences/2024">CVPR 2024</a>.
+      We solicit papers for AI4Space. Papers will be reviewed and accepted papers will be published in the proceedings of CVPR 2024 Workshops. <b>Accepted papers will also be expected to be presented in person at the workshop</b>, which will be co-located with <a href="https://cvpr.thecvf.com/Conferences/2024">CVPR 2024</a>. If you require a formal invitation letter to facilitate your travel to CVPR 2024 in Seattle, please visit the <a href="href="https://cvpr.thecvf.com/Conferences/2024">main conference page</a>.
       </p>
       <p>
       The general emphasis of AI4Space is vision and learning algorithms for autonomous space systems, which operate in the Earth’s orbital regions, cislunar orbit, planetary bodies (e.g., the moon, Mars and asteroids), and interplanetary space. Emphasis is also placed on novel sensors and processors for vision and learning in space, mitigating the challenges of the space environment towards vision and learning (e.g., radiation, extreme temperatures), and fundamental difficulties in vision and learning for space (e.g., lack of training data, unknown operating environments).
