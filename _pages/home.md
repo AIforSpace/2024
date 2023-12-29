@@ -155,10 +155,10 @@ acknowledgements: ""
     <p>
     A specific list of topics is as follows:
     <ul>
-      <li>Vision and learning for spacecraft navigation and oper- ations (e.g., rendezvous, proximity operations, docking, space maneuvers, entry descent landing).</li>
+      <li>Vision and learning for spacecraft navigation and operations (e.g., rendezvous, proximity operations, docking, space maneuvers, entry descent landing).</li>
       <li>Vision and learning for space robots (e.g., rovers, UAVs, UGVs, UUWs) and multi-agent systems.</li>
       <li>Mapping and global positioning on planetary bodies (moon, Mars, asteroids), including celestial positioning.</li>
-      <li>Onboard AI for Earth observation applications (e.g. near- real-time disaster monitoring, distributed learning on satellites, tip and cue satellite-based systems).</li>
+      <li>Onboard AI for Earth observation applications (e.g. near-real-time disaster monitoring, distributed learning on satellites, tip and cue satellite-based systems).</li>
       <li>Onboard AI for satellite operations (e.g. AI-based star trackers, fault detection isolation and recovery).</li>
       <li>Space debris monitoring and mitigation.</li>
       <li>Sensors for space applications (e.g., optical, multispectral, lidar, radar, neuromorphic).</li>
