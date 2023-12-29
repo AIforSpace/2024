@@ -1,7 +1,7 @@
 ---
 layout: project
-urltitle:  "AI4Space 2022"
-title: "AI4Space 2022"
+urltitle:  "AI4Space 2024"
+title: "AI4Space 2024"
 categories: eccv, workshop, artificial intelligence, computer vision, space
 permalink: /
 favicon: /static/img/ico/favicon.png
@@ -13,15 +13,15 @@ acknowledgements: ""
 <br>
 <div class="row header-row" id="home">
   <div class="col-xs-12 header-img">  
-    <center><h1 style="font-size:60px">AI4Space 2022</h1></center>
+    <center><h1 style="font-size:60px">AI4Space 2024</h1></center>
     <center><br></center>
     <center><br></center>
     <br>
     <br>
     <br>
-    <center><h3 style="color:white">2nd Workshop on AI for Space</h3></center>
-    <center><h3 style="color:white">In conjunction with <a href="https://eccv2022.ecva.net/">ECCV 2022</a></h3></center>    
-    <center><h3 style="color:white">Date: 23 October 2022</h3></center>
+    <center><h3 style="color:white">3rd Workshop on AI for Space</h3></center>
+    <center><h3 style="color:white">In conjunction with <a href="https://cvpr.thecvf.com/">CVPR 2024</a></h3></center>    
+    <center><h3 style="color:white">Date: TBD</h3></center>
     <br>
   </div>
 </div>
