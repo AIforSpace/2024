@@ -169,7 +169,7 @@ acknowledgements: ""
     </p>
 
     <p>
-  Please note:
+  Things to note:
       <ul>
       <li>Papers will be reviewed and accepted papers will be published in the proceedings of CVPR 2024 Workshops.</li>
       <li><b>Accepted papers will also be expected to be presented in person at the workshop</b>, which will be co-located with <a href="https://cvpr.thecvf.com/Conferences/2024">CVPR 2024</a>.</li>
@@ -180,7 +180,7 @@ acknowledgements: ""
     
     <h3>Submission</h3>  
     <p>
-      Submissions should be in the <a href="https://github.com/cvpr-org/author-kit/releases">CVPR format</a> and are limited to 8 pages excluding reference.      
+      Submissions must be in the <a href="https://github.com/cvpr-org/author-kit/releases">CVPR format</a> and are limited to 8 pages excluding references.
       Please refer to the main conference's <a href="https://cvpr.thecvf.com/Conferences/2024/AuthorGuidelines">submission guildelines</a> for more details, and do not hesitate to contact the lead organiser <a href="https://cs.adelaide.edu.au/~ssl/author/tat-jun-chin/">Tat-Jun Chin</a> if you have any questions.
   </p>
     <p>  
