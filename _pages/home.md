@@ -52,14 +52,6 @@ acknowledgements: ""
     <p>
       Details TBD
     </p>
-
-    <p>
-    Final results and awards will be announced at AI4Space at ECCV 2022. Challenge winners may also be invited to present their methods at the workshop (subject to time availability in the finalised workshop program).
-    </p>
-
-    <p>
-    <a href="https://cvi2.uni.lu/spark2022/"><b>To the challenge!</b></a>
-    </p>
   </div>
 </div>
 
@@ -184,16 +176,15 @@ acknowledgements: ""
     </p>
     <h3>Submission</h3>  
     <p>
-      Submissions should be in the ECCV format and are limited to 14 pages excluding reference.
-      Use the <a href="https://drive.google.com/file/d/171-xo72Jx40cZ4qT20ZZsDDKXPIOWnss/view?usp=sharing" download>template</a> for detailed formatting instructions.
-      Please refer to the main conference's <a href="https://eccv2022.ecva.net/submission/call-for-papers/">submission guildelines</a> for more details, and do not hesitate to contact the lead organiser <a href="https://cs.adelaide.edu.au/~ssl/author/tat-jun-chin/">Tat-Jun Chin</a> if you have any questions.
+      Submissions should be in the <a href="https://github.com/cvpr-org/author-kit/releases">CVPR format</a> and are limited to 8 pages excluding reference.      
+      Please refer to the main conference's <a href="https://cvpr.thecvf.com/Conferences/2024/AuthorGuidelines">submission guildelines</a> for more details, and do not hesitate to contact the lead organiser <a href="https://cs.adelaide.edu.au/~ssl/author/tat-jun-chin/">Tat-Jun Chin</a> if you have any questions.
   </p>
     <p>  
       <!----<a href="">Submit your paper via the CMT3 submission system.</a>--->
-      Paper submission will be conducted through <a href="https://cmt3.research.microsoft.com/AI4Space2022/">CMT3</a>. <a href="#dates"><b>Submission deadline</b></a>
+      Paper submission will be conducted through CMT3 (link TBD). <a href="#dates"><b>Submission deadline</b></a>
     </p>
   <p>
-    Reviewing is <b>double blind</b> - remember to remove your names and affiliations in the submitted version (selecting the reviewing option in the LaTeX template will take care of that). Accepted works will be published in the ECCV 2022 proceedings.
+    Reviewing is <b>double blind</b> - remember to remove your names and affiliations in the submitted version (selecting the reviewing option in the LaTeX template will take care of that). Accepted works will be published in the CVPR 2024 workshop proceedings.
     </p>
   </div>
 </div>
