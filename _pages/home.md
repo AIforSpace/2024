@@ -174,13 +174,10 @@ acknowledgements: ""
       <li>Papers will be reviewed and accepted papers will be published in the proceedings of CVPR 2024 Workshops.</li>
       <li><b>Accepted papers will also be expected to be presented in person at the workshop</b>, which will be co-located with <a href="https://cvpr.thecvf.com/Conferences/2024">CVPR 2024</a>.</li>
       <li>If you require a formal invitation letter to facilitate your travel to CVPR 2024 in Seattle, please visit the <a href="https://cvpr.thecvf.com/Conferences/2024">main conference page</a>.</li>
+      <li>All papers published via this workshop must be aimed towards the peaceful usage of AI for space.</li>
       </ul>
       </p>
-  
-  <h3>Peaceful usage of AI for space</h3>
-    <p>
-    All papers published via this workshop must be aimed towards the peaceful usage of AI for space.
-    </p>
+    
     <h3>Submission</h3>  
     <p>
       Submissions should be in the <a href="https://github.com/cvpr-org/author-kit/releases">CVPR format</a> and are limited to 8 pages excluding reference.      
