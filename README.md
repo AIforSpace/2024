@@ -1,2 +1,2 @@
 # AIforSpace.github.io
-Website for the ECCV 2022 Workshop "AI for Space"
+Website for the CVPR 2024 Workshop "AI for Space"
