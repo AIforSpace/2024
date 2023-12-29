@@ -2,7 +2,7 @@
 layout: project
 urltitle:  "AI4Space 2024"
 title: "AI4Space 2024"
-categories: eccv, workshop, artificial intelligence, computer vision, space
+categories: cvpr, workshop, artificial intelligence, computer vision, space
 permalink: /
 favicon: /static/img/ico/favicon.png
 bibtex: true
