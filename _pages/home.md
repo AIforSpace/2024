@@ -35,8 +35,7 @@ acknowledgements: ""
 </div>
 <div class="row">
   <div class="col-xs-12">
-        <p>
-            The space sector is experiencing significant growth. Currently planned activities and utilisation models also greatly exceed the scope, ambition and/or commercial value of space missions in the previous century, e.g., autonomous spacecraft, space mining, and understanding the universe. Achieving these ambitious goals requires surmounting non-trivial technical obstacles. AI4Space focuses on the role of AI, particularly computer vision and machine learning, in helping to solve those technical hurdles. The workshop will highlight the space capabilities that draw from and/or overlap significantly with vision and learning research, outline the unique difficulties presented by space applications to vision and learning, and discuss recent advances towards overcoming those obstacles.
+        <p>The space sector is experiencing significant growth. Currently planned activities and utilisation models also greatly exceed the scope, ambition and/or commercial value of space missions in the previous century, e.g., autonomous satellites for earth observation, on-orbit servicing, intelligent rovers for planetary exploration, and space traffic management and debris mitigation. Achieving these ambitious goals requires surmounting non-trivial technical obstacles. AI4Space focuses on the role of AI, particularly computer vision and machine learning, in helping to solve those technical hurdles. The workshop will highlight the space capabilities that draw from and/or overlap significantly with vision and learning research, outline the unique difficulties presented by space applications to vision and learning, and discuss recent advances towards overcoming those obstacles.
         </p>
   </div>
 </div>
@@ -151,7 +150,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-      We solicit papers for AI4Space. Papers will be reviewed and accepted papers will be published in the proceedings of CVPR 2024 Workshops. Authors of accepted papers will also be expected to present in person at the workshop, which will be co-located with <a href="https://cvpr.thecvf.com/Conferences/2024">CVPR 2024</a>.
+      We solicit papers for AI4Space. Papers will be reviewed and accepted papers will be published in the proceedings of CVPR 2024 Workshops. <b>Authors of accepted papers will also be expected to present in person at the workshop</b>, which will be co-located with <a href="https://cvpr.thecvf.com/Conferences/2024">CVPR 2024</a>.
       </p>
       <p>
       The general emphasis of AI4Space is vision and learning algorithms for autonomous space systems, which operate in the Earth’s orbital regions, cislunar orbit, planetary bodies (e.g., the moon, Mars and asteroids), and interplanetary space. Emphasis is also placed on novel sensors and processors for vision and learning in space, mitigating the challenges of the space environment towards vision and learning (e.g., radiation, extreme temperatures), and fundamental difficulties in vision and learning for space (e.g., lack of training data, unknown operating environments).
