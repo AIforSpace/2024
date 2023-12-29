@@ -74,13 +74,11 @@ acknowledgements: ""
   </div>
 </div>
 
-<!-- <div class="row">
- <div class="col-xs-12">
-  <h3>Watch the video recordings of <a href="https://youtu.be/j83aOI0suuo"><b>Block A</b></a> and <a href="https://youtu.be/oadmxrgiE1g"><b>Block B</b></a> on YouTube.</h3>
- </div>
-</div>
-<br> -->
+<p>
+    TBD
+</p>
 
+<!------
 <div class="row">
   <div class="col-xs-12">
     <!-- <h3>Block A</h3> -->
@@ -151,7 +149,9 @@ acknowledgements: ""
     </table>
   </div>
 </div>
+--->
 
+<!----
 <div class="row">
   <div class="col-xs-12">
     <!-- <h3>Block B</h3> -->
@@ -211,6 +211,7 @@ acknowledgements: ""
     </table>
   </div>
 </div>
+--->
 
 
 <div class="row" id="people">
