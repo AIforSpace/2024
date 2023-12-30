@@ -166,7 +166,7 @@ acknowledgements: ""
 </div>
 
 <p>
-    The program will be progressively updated. At the moment, we have confirmed the following exciting Invited Speakers
+    The program will be progressively updated. At the moment, we have confirmed the following exciting Invited Speakers.
 </p>
 
 <div class="row" id="keynote">
