@@ -232,12 +232,12 @@ acknowledgements: ""
   </div>
 
   <div class="col-xs-3 col-sm-3">
-    <a href="https://teacher.nwpu.edu.cn/m/en/2011010003.html">
+    <a href="https://slab.stanford.edu/people/jeff-park">
       <img class="people-pic" src="{{ "/static/img/people/binfeng.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://teacher.nwpu.edu.cn/m/en/2011010003.html">Binfeng Pan</a>
-      <h6>Northwestern Polytechnical University</h6>
+      <a href="https://slab.stanford.edu/people/jeff-park">Jeff Park</a>
+      <h6>Stanford University</h6>
     </div>
   </div>
 
