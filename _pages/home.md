@@ -212,7 +212,7 @@ acknowledgements: ""
   </div>
 
   <div class="col-xs-3 col-sm-3">
-    <a href="https://lucacarlone.mit.edu/">
+    <a href="https://www.tudelft.nl/en/staff/g.meoni/?cHash=50c2ee0e3039113d27bb27926ef88e27">
       <img class="people-pic" src="{{ "/static/img/people/gabriele.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
