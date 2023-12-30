@@ -104,8 +104,22 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <h2>SPARK2024</h2>
-    <p>
-      Details TBD
+    <p>We are excited to co-host an AI for space challenge, SPARK 2024, which follows from the successful previous editions of the event at AI4Space @ ECCV 2022. The latest edition of SPARK (SPAcecraft Recog- nition leveraging Knowledge of Space Environment) aims to design data-driven approaches for spacecraft detection and trajectory estimation. SPARK will utilise data synthetically simulated with a game-based engine in addition to data collected from the Zero-G lab at the University of Luxembourg.</p>
+
+     <p> 
+      This year’s competition will include two streams:
+      <ul>
+      <li>Stream-1: Detecting space objects in RGB images.</li>
+      <li>Stream-2: Spacecraft trajectory estimation in a rendezvous scenario.</li>
+      The datasets involved are larger and more diverse than that used in previous editions.
+      </p>
+
+<p>
+  For more information on the competition, including timelines, datasets, and submission details, please visit the SPARK 2024 website (TBD).
+</p>
+      
+<p>
+Final results and awards will be announced at AI4Space at CVPR 2024. Challenge winners may also be invited to present their methods at the workshop (subject to time availability in the finalised workshop program).
     </p>
   </div>
 </div>
