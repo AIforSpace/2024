@@ -40,6 +40,11 @@ acknowledgements: ""
   </div>
 </div>
 
+<div class="row" id="call">
+<hr>
+<br>
+</div>
+
 <div class="row">
   <div class="col-xs-12">
     <h2>Call for Papers</h2>
@@ -89,8 +94,6 @@ acknowledgements: ""
     </p>
   </div>
 </div>
-
-<br>
 
 <div class="row" id="challenge">
 <hr>
@@ -188,15 +191,6 @@ acknowledgements: ""
   </div>
 </div>
 
-
-<div class="row" id="call">
-<hr>
-<br>
-</div>
-
-
-<br>
-<hr>
 
 <div class="row">
   <div class="col-xs-12">
