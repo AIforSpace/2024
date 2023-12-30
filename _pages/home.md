@@ -40,6 +40,58 @@ acknowledgements: ""
   </div>
 </div>
 
+<div class="row">
+  <div class="col-xs-12">
+    <h2>Call for Papers</h2>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12">
+    <p>
+      We solicit papers for AI4Space. The general emphasis of AI4Space is vision and learning algorithms for autonomous space systems, which operate in the Earth’s orbital regions, cislunar orbit, planetary bodies (e.g., the moon, Mars and asteroids), and interplanetary space. Emphasis is also placed on novel sensors and processors for vision and learning in space, mitigating the challenges of the space environment towards vision and learning (e.g., radiation, extreme temperatures), and fundamental difficulties in vision and learning for space (e.g., lack of training data, unknown operating environments).
+    </p>
+    <p>
+    A specific list of topics is as follows:
+    <ul>
+      <li>Vision and learning for spacecraft navigation and operations (e.g., rendezvous, proximity operations, docking, space maneuvers, entry descent landing).</li>
+      <li>Vision and learning for space robots (e.g., rovers, UAVs, UGVs, UUWs) and multi-agent systems.</li>
+      <li>Mapping and global positioning on planetary bodies (moon, Mars, asteroids), including celestial positioning.</li>
+      <li>Onboard AI for Earth observation applications (e.g. near-real-time disaster monitoring, distributed learning on satellites, tip and cue satellite-based systems).</li>
+      <li>Onboard AI for satellite operations (e.g. AI-based star trackers, fault detection isolation and recovery).</li>
+      <li>Space debris monitoring and mitigation.</li>
+      <li>Sensors for space applications (e.g., optical, multispectral, lidar, radar, neuromorphic).</li>
+      <li>Onboard compute hardware for vision and learning (e.g., neural network accelerators, neuromorphic processors).</li>
+      <li>Mitigating challenges of the space environment (e.g., radiation, thermal) to vision and learning systems.</li>
+      <li>Datasets, transfer learning and domain gap.</li>
+    </ul>
+    </p>
+
+    <p>
+  Things to note:
+      <ul>
+      <li>Papers will be reviewed and accepted papers will be published in the proceedings of CVPR 2024 Workshops.</li>
+      <li><b>Accepted papers will also be expected to be presented in person at the workshop</b>, which will be co-located with <a href="https://cvpr.thecvf.com/Conferences/2024">CVPR 2024</a>.</li>
+      <li>If you require a formal invitation letter to facilitate your travel to CVPR 2024 in Seattle, please visit the <a href="https://cvpr.thecvf.com/Conferences/2024">main conference page</a>.</li>
+      <li>All papers published via this workshop must be aimed towards the peaceful usage of AI for space.</li>
+      </ul>
+      </p>
+    
+    <h3>Submission</h3>  
+    <p>
+      Submissions must be in the <a href="https://github.com/cvpr-org/author-kit/releases">CVPR format</a> and are limited to 8 pages excluding references.
+      Please refer to the main conference's <a href="https://cvpr.thecvf.com/Conferences/2024/AuthorGuidelines">submission guildelines</a> for more details, and do not hesitate to contact the lead organiser <a href="https://cs.adelaide.edu.au/~ssl/author/tat-jun-chin/">Tat-Jun Chin</a> if you have any questions.
+  </p>
+    <p>  
+        Paper submission will be conducted through CMT3 (link TBD). <a href="#dates"><b>Submission deadline</b></a>
+    </p>
+  <p>
+    Reviewing is <b>double blind</b> - remember to remove your names and affiliations in the submitted version (selecting the reviewing option in the LaTeX template will take care of that). Accepted works will be published in the CVPR 2024 workshop proceedings.
+    </p>
+  </div>
+</div>
+
+<br>
+
 <div class="row" id="challenge">
 <hr>
 <br>
@@ -142,56 +194,6 @@ acknowledgements: ""
 <br>
 </div>
 
-<div class="row">
-  <div class="col-xs-12">
-    <h2>Call for Papers</h2>
-  </div>
-</div>
-<div class="row">
-  <div class="col-xs-12">
-    <p>
-      We solicit papers for AI4Space. The general emphasis of AI4Space is vision and learning algorithms for autonomous space systems, which operate in the Earth’s orbital regions, cislunar orbit, planetary bodies (e.g., the moon, Mars and asteroids), and interplanetary space. Emphasis is also placed on novel sensors and processors for vision and learning in space, mitigating the challenges of the space environment towards vision and learning (e.g., radiation, extreme temperatures), and fundamental difficulties in vision and learning for space (e.g., lack of training data, unknown operating environments).
-    </p>
-    <p>
-    A specific list of topics is as follows:
-    <ul>
-      <li>Vision and learning for spacecraft navigation and operations (e.g., rendezvous, proximity operations, docking, space maneuvers, entry descent landing).</li>
-      <li>Vision and learning for space robots (e.g., rovers, UAVs, UGVs, UUWs) and multi-agent systems.</li>
-      <li>Mapping and global positioning on planetary bodies (moon, Mars, asteroids), including celestial positioning.</li>
-      <li>Onboard AI for Earth observation applications (e.g. near-real-time disaster monitoring, distributed learning on satellites, tip and cue satellite-based systems).</li>
-      <li>Onboard AI for satellite operations (e.g. AI-based star trackers, fault detection isolation and recovery).</li>
-      <li>Space debris monitoring and mitigation.</li>
-      <li>Sensors for space applications (e.g., optical, multispectral, lidar, radar, neuromorphic).</li>
-      <li>Onboard compute hardware for vision and learning (e.g., neural network accelerators, neuromorphic processors).</li>
-      <li>Mitigating challenges of the space environment (e.g., radiation, thermal) to vision and learning systems.</li>
-      <li>Datasets, transfer learning and domain gap.</li>
-    </ul>
-    </p>
-
-    <p>
-  Things to note:
-      <ul>
-      <li>Papers will be reviewed and accepted papers will be published in the proceedings of CVPR 2024 Workshops.</li>
-      <li><b>Accepted papers will also be expected to be presented in person at the workshop</b>, which will be co-located with <a href="https://cvpr.thecvf.com/Conferences/2024">CVPR 2024</a>.</li>
-      <li>If you require a formal invitation letter to facilitate your travel to CVPR 2024 in Seattle, please visit the <a href="https://cvpr.thecvf.com/Conferences/2024">main conference page</a>.</li>
-      <li>All papers published via this workshop must be aimed towards the peaceful usage of AI for space.</li>
-      </ul>
-      </p>
-    
-    <h3>Submission</h3>  
-    <p>
-      Submissions must be in the <a href="https://github.com/cvpr-org/author-kit/releases">CVPR format</a> and are limited to 8 pages excluding references.
-      Please refer to the main conference's <a href="https://cvpr.thecvf.com/Conferences/2024/AuthorGuidelines">submission guildelines</a> for more details, and do not hesitate to contact the lead organiser <a href="https://cs.adelaide.edu.au/~ssl/author/tat-jun-chin/">Tat-Jun Chin</a> if you have any questions.
-  </p>
-    <p>  
-      <!----<a href="">Submit your paper via the CMT3 submission system.</a>--->
-      Paper submission will be conducted through CMT3 (link TBD). <a href="#dates"><b>Submission deadline</b></a>
-    </p>
-  <p>
-    Reviewing is <b>double blind</b> - remember to remove your names and affiliations in the submitted version (selecting the reviewing option in the LaTeX template will take care of that). Accepted works will be published in the CVPR 2024 workshop proceedings.
-    </p>
-  </div>
-</div>
 
 <br>
 <hr>
