@@ -114,9 +114,7 @@ acknowledgements: ""
   <li>Stream-1: Detecting space objects in RGB images.</li>
   <li>Stream-2: Spacecraft trajectory estimation in a rendezvous scenario.</li>
 </ul>
-The datasets involved are larger and more diverse than that used in previous editions.</p>
-
-<p>For more information on the competition, including timelines, datasets, and submission details, please visit the SPARK 2024 website (TBD).</p>
+The datasets involved are larger and more diverse than that used in previous editions. For more information on the competition, including timelines, datasets, and submission details, please visit the SPARK 2024 website (TBD).</p>
       
 <p>Final results and awards will be announced at AI4Space at CVPR 2024. Challenge winners may also be invited to present their methods at the workshop (subject to time availability in the finalised workshop program).</p>
   
