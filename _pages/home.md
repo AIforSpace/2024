@@ -233,7 +233,7 @@ acknowledgements: ""
 
   <div class="col-xs-3 col-sm-3">
     <a href="https://slab.stanford.edu/people/jeff-park">
-      <img class="people-pic" src="{{ "/static/img/people/binfeng.jpeg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/jeff.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://slab.stanford.edu/people/jeff-park">Jeff Park</a>
@@ -246,6 +246,16 @@ acknowledgements: ""
   <div class="row">
 
   <div class="col-xs-3 col-sm-3">
+    <a href="https://www.rajattalak.com/">
+      <img class="people-pic" src="{{ "/static/img/people/rajat.jpeg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www.rajattalak.com/">Rajat Talak</a>
+      <h6>MIT</h6>
+    </div>
+  </div>
+
+  <div class="col-xs-3 col-sm-3">
     <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/viorela-ila.html">
       <img class="people-pic" src="{{ "/static/img/people/viorela.jpeg" | prepend:site.baseurl }}">
     </a>
@@ -256,34 +266,15 @@ acknowledgements: ""
   </div>
 
   <div class="col-xs-3 col-sm-3">
-    <a href="https://www-robotics.jpl.nasa.gov/who-we-are/people/benjamin_morrell/">
-      <img class="people-pic" src="{{ "/static/img/people/ben.jpg" | prepend:site.baseurl }}">
+    <a href="https://it.linkedin.com/in/nicolaslongepe/en">
+      <img class="people-pic" src="{{ "/static/img/people/nicolas.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://www-robotics.jpl.nasa.gov/who-we-are/people/benjamin_morrell/">Benjamin Morrell</a>
-      <h6>NASA Jet Propulsion Lab</h6>
-    </div>
-  </div>
-
-  <div class="col-xs-3 col-sm-3">
-    <a href="https://g-kakareko.github.io/index.html">
-      <img class="people-pic" src="{{ "/static/img/people/grzegorz.jpeg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://g-kakareko.github.io/index.html">Grzegorz Kakareko</a>
+      <a href="https://it.linkedin.com/in/nicolaslongepe/en">Nicolas Long&eacute;p&eacute;</a>
       <h6>Spire Global</h6>
     </div>
   </div>   
 
-  <div class="col-xs-3 col-sm-3">
-    <a href="https://www.linkedin.com/in/sofia-mcleod/">
-      <img class="people-pic" src="{{ "/static/img/people/sofia.jpeg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://www.linkedin.com/in/sofia-mcleod/">Sofia Mcleod</a>
-      <h6>The University of Adelaide</h6>
-    </div>
-  </div>
 </div>
 
 <div class="row" id="sponsors">
