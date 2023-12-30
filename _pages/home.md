@@ -166,7 +166,18 @@ acknowledgements: ""
 </div>
 
 <p>
-    TBD
+    The program will be progressively updated. At the moment, we have confirmed the following exciting Invited Speakers
+</p>
+
+<div class="row" id="keynote">
+  <div class="col-xs-12">
+    <h3>Invited Speakers</h3>
+    <br>
+  </div>
+</div>
+
+<p>
+  TBD
 </p>
 
 <div class="row" id="people">
@@ -176,28 +187,9 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12">
-    <h2>People</h2>
+    <h2>Organisers</h2>
   </div>
 </div>
-
-<div class="row" id="keynote">
-  <div class="col-xs-12">
-    <h3>Keynote Speakers</h3>
-    <br>
-  </div>
-</div>
-
-<p>
-  TBD
-</p>
-
-<div class="row">
-  <div class="col-xs-12">
-    <h3>Organisers</h3>
-    <br>
-  </div>
-</div>
-
 
 <div class="row">
 
@@ -271,7 +263,7 @@ acknowledgements: ""
     </a>
     <div class="people-name">
       <a href="https://it.linkedin.com/in/nicolaslongepe/en">Nicolas Long&eacute;p&eacute;</a>
-      <h6>Spire Global</h6>
+      <h6>European Space Agency</h6>
     </div>
   </div>   
 
