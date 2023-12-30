@@ -31,6 +31,14 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12">
+    <h5 style="color:red"><a href="#call">CALL FOR PAPERS</a></h5>
+  </div>
+</div>
+
+<hr>
+
+<div class="row">
+  <div class="col-xs-12">
     <h2>Introduction</h2>
   </div>
 </div>
