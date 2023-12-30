@@ -97,7 +97,7 @@ acknowledgements: ""
       Please refer to the main conference's <a href="https://cvpr.thecvf.com/Conferences/2024/AuthorGuidelines">submission guildelines</a> for more details, and do not hesitate to contact the lead organiser <a href="https://cs.adelaide.edu.au/~ssl/author/tat-jun-chin/">Tat-Jun Chin</a> if you have any questions.
   </p>
     <p>  
-        Paper submission will be conducted through CMT3 (link TBD). <a href="#dates"><b>>>Submission deadline</b></a>
+        Paper submission will be conducted through CMT3 (link TBD). See <a href="#dates"><b>key dates</b></a> for submission deadline and reviewing timeline.
     </p>
   <p>
     Reviewing is <b>double blind</b> - remember to remove your names and affiliations in the submitted version (selecting the reviewing option in the LaTeX template will take care of that). Accepted works will be published in the CVPR 2024 workshop proceedings.
