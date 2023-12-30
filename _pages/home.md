@@ -109,43 +109,6 @@ acknowledgements: ""
   </div>
 </div>
 
-<div class="row" id="program">
-<hr>
-<br>
-</div>
-
-<div class="row" id="program">
-  <div class="col-xs-12">
-    <h2>Workshop Program</h2>
-  </div>
-</div>
-
-<p>
-    TBD
-</p>
-
-<div class="row" id="people">
-<hr>
-<br>
-</div>
-
-<div class="row">
-  <div class="col-xs-12">
-    <h2>People</h2>
-  </div>
-</div>
-
-<div class="row" id="keynote">
-  <div class="col-xs-12">
-    <h3>Keynote Speakers</h3>
-    <br>
-  </div>
-</div>
-
-<p>
-  TBD
-</p>
-
 <div class="row" id="dates">
 <hr>
 <br>
@@ -191,6 +154,42 @@ acknowledgements: ""
   </div>
 </div>
 
+<div class="row" id="program">
+<hr>
+<br>
+</div>
+
+<div class="row" id="program">
+  <div class="col-xs-12">
+    <h2>Workshop Program</h2>
+  </div>
+</div>
+
+<p>
+    TBD
+</p>
+
+<div class="row" id="people">
+<hr>
+<br>
+</div>
+
+<div class="row">
+  <div class="col-xs-12">
+    <h2>People</h2>
+  </div>
+</div>
+
+<div class="row" id="keynote">
+  <div class="col-xs-12">
+    <h3>Keynote Speakers</h3>
+    <br>
+  </div>
+</div>
+
+<p>
+  TBD
+</p>
 
 <div class="row">
   <div class="col-xs-12">
