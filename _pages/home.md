@@ -84,8 +84,10 @@ acknowledgements: ""
     <p>
   Things to note:
       <ul>
-      <li>Papers will be reviewed and accepted papers will be published in the proceedings of CVPR 2024 Workshops.</li>
-      <li><b>Accepted papers are also expected to be presented in person at the workshop</b>, which will be co-located with <a href="https://cvpr.thecvf.com/Conferences/2024">CVPR 2024</a>.</li>
+      <li>Papers will be fully peer reviewed and accepted papers will be published in the proceedings of CVPR 2024 Workshops.</li>
+      <li>AI4Space follows the <a href="https://cvpr.thecvf.com/Conferences/2024/AuthorGuidelines">submission policies</a> of CVPR 2024. An implication is that submissions to AI4Space should be sufficiently original works not under consideration/reviewing in other venues.</li>
+      <li>Consistent with the submission policy, we highly encourage submission of papers relevant to AI4Space but are rejected from the main CVPR conference (decisions on Feb 27---before the AI4Space submission deadline on March 1).</li>
+      <li><b>Accepted AI4Space papers are also expected to be presented in person at the workshop</b>, which will be co-located with <a href="https://cvpr.thecvf.com/Conferences/2024">CVPR 2024</a>.</li>
       <li>If you require a formal invitation letter to facilitate your travel to CVPR 2024 in Seattle, please visit the <a href="https://cvpr.thecvf.com/Conferences/2024">main conference page</a>.</li>
       <li>All papers published via this workshop must be aimed towards the peaceful usage of AI for space.</li>
       </ul>
