@@ -99,11 +99,14 @@ acknowledgements: ""
       Please refer to the main conference's <a href="https://cvpr.thecvf.com/Conferences/2024/AuthorGuidelines">submission guildelines</a> for more details, and do not hesitate to contact the lead organiser <a href="https://cs.adelaide.edu.au/~ssl/author/tat-jun-chin/">Tat-Jun Chin</a> if you have any questions.
   </p>
     <p>  
-        Paper submission will be conducted through CMT3 (link TBD). See <a href="#dates"><b>key dates</b></a> for submission deadline and reviewing timeline.
+        Paper submission will be conducted through <a href="https://cmt3.research.microsoft.com/AI4Space2024/">CMT3</a>. See <a href="#dates"><b>key dates</b></a> for submission deadline and reviewing timeline.
     </p>
   <p>
     Reviewing is <b>double blind</b> - remember to remove your names and affiliations in the submitted version (selecting the reviewing option in the LaTeX template will take care of that). Accepted works will be published in the CVPR 2024 workshop proceedings.
     </p>
+
+<p><b><a href="https://cmt3.research.microsoft.com/AI4Space2024/">To the submission site.</b></a></p>
+    
   </div>
 </div>
 
@@ -118,7 +121,7 @@ acknowledgements: ""
   </div>
 </div>
 
-<p>We are excited to co-host an AI for space challenge, SPARK 2024, which follows from the successful previous editions of the event at AI4Space @ ECCV 2022. The latest edition of SPARK (SPAcecraft Recog- nition leveraging Knowledge of Space Environment) aims to design data-driven approaches for spacecraft detection and trajectory estimation. SPARK will utilise data synthetically simulated with a game-based engine in addition to data collected from the Zero-G lab at the University of Luxembourg.</p>
+<p>We are excited to co-host an AI for space challenge, SPARK 2024, which follows from the successful previous editions of the event at AI4Space @ ECCV 2022. The latest edition of SPARK (SPAcecraft Recognition leveraging Knowledge of Space Environment) aims to design data-driven approaches for spacecraft detection and trajectory estimation. SPARK will utilise data synthetically simulated with a game-based engine in addition to data collected from the Zero-G lab at the University of Luxembourg.</p>
 
 <p>This year’s competition will include two streams:
 <ul>
