@@ -132,7 +132,7 @@ The datasets involved are larger and more diverse than that used in previous edi
       
 <p>Final results and awards will be announced at AI4Space at CVPR 2024. Challenge winners may also be invited to present their methods at the workshop (subject to time availability in the finalised workshop program).</p>
 
-<p><b><a href="https://cvi2.uni.lu/spark2024/">To the challenge!</b></a></p>
+<p><a href="https://cvi2.uni.lu/spark2024/"><b>To the challenge!</b></a></p>
   
 <div class="row" id="dates">
 <hr>
