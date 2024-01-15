@@ -105,7 +105,7 @@ acknowledgements: ""
     Reviewing is <b>double blind</b> - remember to remove your names and affiliations in the submitted version (selecting the reviewing option in the LaTeX template will take care of that). Accepted works will be published in the CVPR 2024 workshop proceedings.
     </p>
 
-<p><b><a href="https://cmt3.research.microsoft.com/AI4Space2024/">To the submission site.</b></a></p>
+<p><a href="https://cmt3.research.microsoft.com/AI4Space2024/"><b>To the submission site.</b></a></p>
     
   </div>
 </div>
