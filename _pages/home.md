@@ -311,7 +311,7 @@ monitoring control interfaces.
 
   <div class="col-xs-3 col-sm-3">
     <a href="https://cvi2.uni.lu/">
-      <img class="people-pic" src="{{ "/static/img/people/arunkumar" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/arunkumar.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://cvi2.uni.lu/">Arunkumar Arunkumar Rathinam</a>
