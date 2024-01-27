@@ -309,6 +309,16 @@ monitoring control interfaces.
     </div>
   </div>   
 
+  <div class="col-xs-3 col-sm-3">
+    <a href="https://cvi2.uni.lu/">
+      <img class="people-pic" src="{{ "/static/img/people/arunkumar" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://cvi2.uni.lu/">Arunkumar Arunkumar Rathinam</a>
+      <h6>University of Luxembourg</h6>
+    </div>
+  </div>   
+
 </div>
 
 <div class="row" id="sponsors">
