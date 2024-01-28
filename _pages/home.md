@@ -314,7 +314,7 @@ monitoring control interfaces.
       <img class="people-pic" src="{{ "/static/img/people/arunkumar.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://cvi2.uni.lu/">Arunkumar Arunkumar Rathinam</a>
+      <a href="https://cvi2.uni.lu/">Arunkumar Rathinam</a>
       <h6>University of Luxembourg</h6>
     </div>
   </div>   
