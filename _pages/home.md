@@ -32,7 +32,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <h5 style="color:red"><center><a href="#call">CALL FOR PAPERS</a></center></h5>
-    <h5 style="color:red"><center><a href="#challenge">CALL FOR CHALLENGE PARCIPANTS</a></center></h5>
+    <h5 style="color:red"><center><a href="#challenge">CALL FOR CHALLENGE PARTICIPANTS</a></center></h5>
   </div>
 </div>
 
@@ -270,8 +270,8 @@ monitoring control interfaces.
       <img class="people-pic" src="{{ "/static/img/people/jeff.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://slab.stanford.edu/people/jeff-park">Jeff Park</a>
-      <h6>Stanford University</h6>
+      <a href="https://slab.stanford.edu/people/jeff-park">Tae Ha "Jeff" Park</a>
+      <h6>Stanford’s Space Rendezvous Lab</h6>
     </div>
   </div>
 
