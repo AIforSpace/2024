@@ -152,19 +152,19 @@ The datasets involved are larger and more diverse than that used in previous edi
       <tbody>
         <tr>
           <td>Paper Submission Deadline</td>
-          <td>March 1, 2024</td>
+          <td><del>March 1</del> March 8, 2024</td>
         </tr>
         <tr>
           <td>Paper Reviewing Starts</td>
-          <td>March 6, 2024</td>
+          <td><del>March 6</del> March 13, 2024</td>
         </tr>
         <tr>
           <td>Paper Reviews Due</td>
-          <td>March 27, 2024</td>
+          <td><del>March 27</del> April 3, 2024</td>
         </tr>
         <tr>
           <td>Paper Decisions</td>
-          <td>April 3, 2024</td>
+          <td><del>April 3</del> April 10, 2024</td>
         </tr>
         <tr>
           <td>Camera-Ready Deadline</td>
