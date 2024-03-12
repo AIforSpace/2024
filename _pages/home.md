@@ -21,7 +21,7 @@ acknowledgements: ""
     <br>
     <center><h3 style="color:white">3rd Workshop on AI for Space</h3></center>
     <center><h3 style="color:white">In conjunction with <a href="https://cvpr.thecvf.com/Conferences/2024">CVPR 2024</a></h3></center>    
-    <center><h3 style="color:white">Date: June 17 or 18, 2024</h3></center>
+    <center><h3 style="color:white">Date: June 17 (AM), 2024</h3></center>
     <center><h3 style="color:white">Venue: Seattle Convention Center</h3></center>
     <br>
   </div>
