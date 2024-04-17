@@ -196,7 +196,7 @@ The datasets involved are larger and more diverse than that used in previous edi
     <table class="table table-striped">
       <tbody>
         <tr>
-            <th>PDT (UTC-7), 17 June 2024</th>
+            <th>Time (Pacific Daylight Time)</th>
             <th>Activity</th>
         </tr>
         <tr>
@@ -213,7 +213,7 @@ The datasets involved are larger and more diverse than that used in previous edi
         </tr>
         <tr>
           <td>09:35</td>
-          <td>Spotlight presentations</td>
+          <td>Spotlight presentations - < a href="#papers">list of papers and presentation time</a></td>
         </tr>
         <tr>
           <td>10:30</td>
