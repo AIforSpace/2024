@@ -234,7 +234,12 @@ The datasets involved are larger and more diverse than that used in previous edi
       </tbody>
     </table>
   </div>
-</div><br>
+</div>
+
+<div class="row">
+<hr>
+<br>
+</div>
 
 <div class="row" id="keynote">
   <div class="col-xs-12">
@@ -442,6 +447,9 @@ monitoring control interfaces.
   </div>
 
   <div class="row">
+  <hr>
+  <br>
+  </div>
 
   <div class="col-xs-3 col-sm-3">
     <a href="https://www.rajattalak.com/">
