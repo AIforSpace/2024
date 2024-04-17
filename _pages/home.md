@@ -197,62 +197,42 @@ The datasets involved are larger and more diverse than that used in previous edi
       <tbody>
         <tr>
             <th>Tel Aviv (IDT=UTC+3)<br>23 October 2022</th>
-            <th>Los Angeles (PDT=UTC-7)<br>22/23 October 2022</th>
-            <th>Sydney (AEDT=UTC+11)<br>23 October 2022</th>
             <th>Activity</th>
         </tr>
         <tr>
           <td>09:00</td>
-          <td>23:00</td>
-          <td>17:00</td>          
           <td>Welcome address + housekeeping</td>
         </tr>
         <tr>
           <td>09:05</td>
-          <td>23:05</td>
-          <td>17:05</td>          
           <td>Keynote 1: <a href="#keynote">Michal Segal-Rozenhaimer</a> <br>AI from Space: Machine Vision Applications for Earth Sciences and Beyond</td>
         </tr>
         <tr>
           <td>09:25</td>
-          <td>23:25</td>
-          <td>17:25</td>             
           <td>Keynote 2: <a href="#keynote">Simone D'Amico</a><br>Spaceborne Vision and Artificial Neural Networks</td>
         </tr>
         <tr>
           <td>09:45</td>
-          <td>23:45</td>
-          <td>17:45</td>          
           <td><a href="#sl1">Spotlight presentations 1</a></td>
         </tr>
         <tr>
           <td>10:05</td>
-          <td>00:05</td>
-          <td>18:05</td>          
           <td>SPARK challenge, and <br>Keynote 3: <a href="#keynote">Thanos Athanasiadis</a> <br>Lab is Our space: Creating a Realistic Test Dataset</td>
         </tr>
         <tr>
           <td>10:30</td>
-          <td>00:30</td>
-          <td>18:30</td>          
           <td><a href="#sl2">Spotlight presentations 2</a></td>
         </tr>
         <tr>
           <td>10:45</td>
-          <td>00:45</td>
-          <td>18:45</td>          
           <td>Breakout sessions</td>
         </tr>
         <tr>
           <td>11:05</td>
-          <td>01:05</td>
-          <td>19:05</td>          
           <td>Award ceremony</td>
         </tr>
         <tr>
           <td>11:10</td>
-          <td>01:10</td>
-          <td>19:10</td>        
           <td>End</td>
         </tr>
       </tbody>
