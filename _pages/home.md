@@ -201,38 +201,30 @@ The datasets involved are larger and more diverse than that used in previous edi
         </tr>
         <tr>
           <td>09:00</td>
-          <td>Welcome address + housekeeping</td>
+          <td>Welcome address + SPARK Challenge + housekeeping</td>
         </tr>
         <tr>
           <td>09:05</td>
-          <td>Keynote 1: <a href="#keynote">Soon-Jo Chung</a> <br>Title TBD</td>
+          <td>Invited Speaker 1: <a href="#keynote">Soon-Jo Chung</a> <br>Title TBD</td>
         </tr>
         <tr>
-          <td>09:25</td>
-          <td>Keynote 2: <a href="#keynote">Simone D'Amico</a><br>Spaceborne Vision and Artificial Neural Networks</td>
-        </tr>
-        <tr>
-          <td>09:45</td>
-          <td><a href="#sl1">Spotlight presentations 1</a></td>
-        </tr>
-        <tr>
-          <td>10:05</td>
-          <td>SPARK challenge, and <br>Keynote 3: <a href="#keynote">Thanos Athanasiadis</a> <br>Lab is Our space: Creating a Realistic Test Dataset</td>
+          <td>09:30</td>
+          <td>Spotlight presentations</td>
         </tr>
         <tr>
           <td>10:30</td>
-          <td><a href="#sl2">Spotlight presentations 2</a></td>
+          <td>Poster session + coffee break</td>
         </tr>
         <tr>
-          <td>10:45</td>
-          <td>Breakout sessions</td>
+          <td>11:30</td>
+          <td>Invited Speaker 2: <a href="#keynote">Gianluca Furano</a> <br>Title TBD</td>
         </tr>
         <tr>
-          <td>11:05</td>
-          <td>Award ceremony</td>
+          <td>11:55</td>
+          <td>Award ceremony and wrap-up</td>
         </tr>
         <tr>
-          <td>11:10</td>
+          <td>12:10</td>
           <td>End</td>
         </tr>
       </tbody>
