@@ -296,6 +296,30 @@ monitoring control interfaces.
           <br><em>Thomas Chambon (IRT Saint-Exupery); Fabien FG Gallet (IRT Saint Exupery); Christophe Marabotto (IRT Saint-Exupery)</em>
           </td>
         </tr>
+        <tr>
+          <td>
+          3  <br> 
+          </td>
+          <td>Optimized Martian Dust Displacement Detection Using Explainable Machine Learning
+          <br><em>Ana Lomashvili (DLR); Kristin Rammelkamp (DLR); Protim Bhattacharjee (DLR)</em>
+          </td>
+        </tr>
+        <tr>
+          <td>
+          4  <br> 
+          </td>
+          <td>Mitigating Challenges of the Space Environment for Onboard Artificial Intelligence: Design Overview for a recently launched payload
+          <br><em>Miguel Ortiz del Castillo (University of Melbourne); Jonathan Morgan (University of Melbourne); Jack McRobbie (University of Melbourne	); Clint Therakam (University of Melbourne); Zaher Joukhadar (The University of Melbourne); Robert Mearns (University of Melbourne); Simon Barraclough (University of Melbourne); Richard Sinnott (University of Melbourne); Andrew Woods (University of Melbourne); Chris Bayliss (University of Melbourne); Krista A. Ehinger (University of Melbourne); Benjamin Rubinstein (University of Melbourne); James Bailey (University of Melbourne); Airlie Chapman (University of Melbourne); Michele Trenti (University of Melbourne)</em>
+          </td>
+        </tr>
+        <tr>
+          <td>
+          5  <br> 
+          </td>
+          <td>A Dual-Mode Approach for Vision-Based Navigation in a Lunar Landing Scenario
+          <br><em>Roberto Del Prete (University of Naples "Federico II"); Luca Ostrogovich (University of Naples "Federico II"); Nicolas Longepe (ESA); Alfredo Renga (University of Naples "Federico II"); Giuseppe  Tomasicchio (Telespazio Spa)</em>
+          </td>
+        </tr>
       </tbody>
     </table>
   </div>
