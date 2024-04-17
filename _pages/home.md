@@ -269,12 +269,11 @@ monitoring control interfaces.
   <br>
   <div class="col-xs-12">
     <h2>Accepted Papers</h2>
-    <h3>Spotlight Presentations 1 (Block A)</h3>
     <table class="table table-striped" id="sl1">
       <tbody>
         <tr>
           <th>
-          Order of presentation
+          Spotlight presentation time
           </th>
           <th>
           Paper title and authors
@@ -311,104 +310,6 @@ monitoring control interfaces.
           </td>
           <td>Asynchronous Kalman Filter for Event-Based Star Tracking
           <br><em>Yonhon Ng (Australian National University)*; Yasir Latif (The University of Adelaide); Tat-Jun Chin (The University of Adelaide); Robert  Mahony (Australian National University)</em>
-          </td>
-        </tr>
-      </tbody>
-    </table>
-    <h3>Spotlight Presentations 2 (Block A)</h3>
-    <table class="table table-striped" id="sl2">
-      <tbody>
-        <tr>
-          <th>
-          Order of presentation
-          </th>
-          <th>
-          Paper title and authors
-          </th>        
-        </tr>
-        <tr>
-          <td>
-          1  <br>
-          </td>
-          <td>CubeSat-CDT: A Cross-Domain Dataset for 6-DoF Trajectory Estimation of a Symmetric Spacecraft
-          <br><em>Mohamed Adel Musallam (SnT, University of Luxembourg)*; Arunkumar Rathinam (University of Luxembourg); Vincent Gaudilliere (SnT, University of Luxembourg); Miguel Ortiz del Castillo (SnT, University of Luxembourg); Djamila Aouada (SnT, University of Luxembourg)</em>
-          </td>
-        </tr>
-        <tr>
-          <td>
-          2  <br> 
-          </td>
-          <td>End-to-end Neural Estimation of Spacecraft Pose with Intermediate Detection of Keypoints
-          <br><em>Antoine Legrand (Université Catholique de Louvain)*; Renaud Detry (Katholieke Universiteit Leuven); Christophe De Vleeschouwer (Université Catholique de Louvain)</em>
-          </td>
-        </tr>
-        <tr>
-          <td>
-          3  <br> 
-          </td>
-          <td>Globally Optimal Event-Based Divergence Estimation for Ventral Landing
-          <br><em>Sofia A McLeod (University of Adelaide)*; Gabriele Meoni (European Space Agency); Dario Izzo (European Space Agency); Anne Mergy (European Space Agency); Daqi Liu (University of Adelaide); Yasir Latif (The University of Adelaide); Ian Reid (University of Adelaide); Tat-Jun Chin (The University of Adelaide)</em>
-          </td>
-        </tr>
-      </tbody>
-    </table>
-    <h3>Spotlight Presentations 3 (Block B)</h3>
-    <table class="table table-striped" id="sl3">
-      <tbody>
-        <tr>
-          <th>
-          Order of presentation
-          </th>
-          <th>
-          Paper title and authors
-          </th>        
-        </tr>
-        <tr>
-          <td>
-          1  <br> 
-          </td>
-          <td>Data Lifecycle Management in Evolving Input Distributions for Learning-Based Aerospace Applications
-          <br><em>Somrita Banerjee (Stanford University)*; Apoorva Sharma (Stanford University); Edward Schmerling (Stanford University); Max Spolaor (The Aerospace Corporation); Michael Nemerouf (The Aerospace Corporation); Marco Pavone (Stanford University)</em>
-          </td>
-        </tr>
-        <tr>
-          <td>
-          2  <br>
-          </td>
-          <td>Improving Contrastive Learning on Visually Homogeneous Mars Rover Images
-          <br><em>Isaac R Ward (Jet Propulsion Laboratory, California Institute of Technology)*; Charles Moore (Mississippi State University); Kai Pak (Jet Propulsion Laboratory, California Institute of Technology); Jingdao Chen (Mississippi State University); Edwin Goh (Jet Propulsion Laboratory)</em>
-          </td>
-        </tr>
-        <tr>
-          <td>
-          3  <br>
-          </td>
-          <td>MaRF: Representing Mars As Neural Radiance Fields
-          <br><em>Lorenzo Giusti (Sapienza University of Rome, NASA JPL)*; Josue Garcia (University of California, San Diego); Steven Cozine (University of California, San Diego); Darrick Suen (University of California, San Diego); Christina Nguyen (University of California, San Diego); Shahrouz R Alimo (NASA JPL)</em>
-          </td>
-        </tr>
-        <tr>
-          <td>
-          4  <br>
-          </td>
-          <td>Mixed-Domain Training Improves Multi-Mission Terrain Segmentation
-          <br><em>Grace M Vincent (North Carolina State University)*; Alice Yepremyan (Jet Propulsion Laboratory); Jingdao Chen (Mississippi State University); Edwin Goh (Jet Propulsion Laboratory)</em>
-          </td>
-        </tr>
-        <tr>
-          <td>
-          5  <br>
-          </td>
-          <td>Strong Gravitational Lensing Parameter Estimation with Vision Transformer
-          <br><em>Kuan-Wei Huang (Carnegie Mellon University); Geoff Chih-Fan Chen (University of California, Los Angeles); Po-Wen Chang (Ohio State University); Sheng-Chieh Lin (University of Kentucky); Chia Jung Hsu (Chalmers University of Technology); Vishal Thengane (Mohamed bin Zayed University of Artificial Intelligence);Joshua Yao-Yu Lin (University of Illinois at Urbana-Champaign)*</em>
-          </td>
-        </tr>
-        <tr>
-          <td>
-          6 <br>
-          </td>
-          <td>Using Moffat Profiles to Register Astronomical Images
-          <br><em>Mason G Schuckman (University of Maryland, Baltimore County); Roy E Prouty (University of Maryland, Baltimore County); David R Chapman (University of Maryland, Baltimore County); Don Engel (University of Maryland, Baltimore County)*</em>
           </td>
         </tr>
       </tbody>
