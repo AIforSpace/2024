@@ -234,7 +234,7 @@ The datasets involved are larger and more diverse than that used in previous edi
       </tbody>
     </table>
   </div>
-</div>
+</div><br>
 
 <div class="row" id="keynote">
   <div class="col-xs-12">
