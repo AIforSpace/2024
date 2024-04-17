@@ -201,14 +201,18 @@ The datasets involved are larger and more diverse than that used in previous edi
         </tr>
         <tr>
           <td>09:00</td>
-          <td>Welcome address + SPARK Challenge + housekeeping</td>
+          <td>Welcome address + housekeeping</td>
         </tr>
         <tr>
           <td>09:05</td>
+          <td>SPARK Challenge</td>
+        </tr>
+        <tr>
+          <td>09:10</td>
           <td>Invited Speaker 1: <a href="#keynote">Soon-Jo Chung</a> <br>Title TBD</td>
         </tr>
         <tr>
-          <td>09:30</td>
+          <td>09:35</td>
           <td>Spotlight presentations</td>
         </tr>
         <tr>
