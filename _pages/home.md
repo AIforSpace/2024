@@ -276,7 +276,11 @@ monitoring control interfaces.
     <h2>Accepted Papers</h2>
 
     <p>
-    Each paper will be presented as a spotlight (<b>strictly 4 minutes presentation, plus 1 minute buffer for changover</b>).
+    Each paper will be presented as
+    <ul>
+      <li>A spotlight presentation (<b>strictly 4 minutes presentation, plus 1 minute buffer for changover</b>; see schedule below); and</li>
+      <li>A poster (poster session at 10:35 am.</li>
+    </ul>
     </p>
     
     <table class="table table-striped" id="sl1">
