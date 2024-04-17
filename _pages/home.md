@@ -196,7 +196,7 @@ The datasets involved are larger and more diverse than that used in previous edi
     <table class="table table-striped">
       <tbody>
         <tr>
-            <th>Tel Aviv (IDT=UTC+3)<br>23 October 2022</th>
+            <th>PDT (UTC-7), 17 June 2024</th>
             <th>Activity</th>
         </tr>
         <tr>
