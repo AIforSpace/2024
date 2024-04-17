@@ -320,6 +320,38 @@ monitoring control interfaces.
           <br><em>Roberto Del Prete (University of Naples "Federico II"); Luca Ostrogovich (University of Naples "Federico II"); Nicolas Longepe (ESA); Alfredo Renga (University of Naples "Federico II"); Giuseppe  Tomasicchio (Telespazio Spa)</em>
           </td>
         </tr>
+        <tr>
+          <td>
+          6  <br> 
+          </td>
+          <td>Tackling the Satellite Downlink Bottleneck with Federated Onboard Learning of Image Compression
+          <br><em>Gabriele Meoni (TU Delft); Pablo Gómez (European Space Agency)</em>
+          </td>
+        </tr>
+        <tr>
+          <td>
+          7  <br> 
+          </td>
+          <td>Transformers for Orbit Determination Anomaly Detection and Classification
+          <br><em>Nathan P Ré (Advanced Space, LLC); Matthew Popplewell (Advanced Space, LLC); Michael Caudill (Advanced Space, LLC); Tim Sullivan (Advanced Space, LLC); Tyler Hanf (Advanced Space, LLC); Benjamin Tatman (Advanced Space, LLC); Kanak Parmar (Advanced Space); Tyler Presser (Advanced Space, LLC); Sai Chikine (Advanced Space, LLC); Michael Grant (Advanced Space, LLC); Richard Poulson (Advanced Space, LLC)</em>
+          </td>
+        </tr>
+        <tr>
+          <td>
+          8  <br> 
+          </td>
+          <td>Deploying Machine Learning Anomaly Detection Models to Flight Ready AI Boards
+          <br><em>James Murphy (Réaltra Space Systems Engineering); Maria Buckley (Ubotica Technologies); Léonie Buckley (Ubotica Technologies); Adam Taylor (Adiuvo Engineering & Training); Jake O'Brien (Réaltra Space Systems Engineering); Brian Mac Namee (University College Dublin)</em>
+          </td>
+        </tr>
+        <tr>
+          <td>
+          9  <br> 
+          </td>
+          <td>Cross-Temporal Spectrogram Autoencoder (CTSAE): Unsupervised Dimensionality Reduction for Clustering Gravitational Wave Glitches
+          <br><em>Yi Li (Northwestern University); Yunan Wu (Northwestern University); Aggelos katsaggelos (Northwestern University)</em>
+          </td>
+        </tr>
       </tbody>
     </table>
   </div>
