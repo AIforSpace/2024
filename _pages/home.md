@@ -238,7 +238,7 @@ The datasets involved are larger and more diverse than that used in previous edi
 
 <div class="row" id="keynote">
   <div class="col-xs-12">
-    <h3>Invited Speakers</h3>
+    <h2>Invited Speakers</h2>
     <br>
   </div>
 </div>
@@ -523,7 +523,7 @@ monitoring control interfaces.
 
 <div class="row">
   <div class="col-xs-12">
-    <h3>Sponsors</h3>
+    <h2>Sponsors</h2>
     <br>
   </div>
 </div>
