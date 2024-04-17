@@ -352,6 +352,14 @@ monitoring control interfaces.
           <br><em>Yi Li (Northwestern University); Yunan Wu (Northwestern University); Aggelos katsaggelos (Northwestern University)</em>
           </td>
         </tr>
+        <tr>
+          <td>
+          10  <br> 
+          </td>
+          <td>Monocular 6-DoF Pose Estimation of Spacecrafts Utilizing Self-iterative Optimization and Motion Consistency
+          <br><em>YunFeng Zhang (Academy of Mathematics and Systems Sciences, Chinese Academy of Sciences); Linjing You (Institute of Automation, Chinese Academy of Sciences); luyu yang (Institute of Automation Chinese Academy of Sciences); Zhiwei Zhang (Institute of Automation Chinese Academy of Sciences); Xiangli Nie (Institute of Automation, Chinese Academy of Sciences); Bo Zhang (Institute of Applied Mathematics, AMSS, Chinese Academy of Sciences)</em>
+          </td>
+        </tr>
       </tbody>
     </table>
   </div>
