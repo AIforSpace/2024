@@ -205,7 +205,7 @@ The datasets involved are larger and more diverse than that used in previous edi
         </tr>
         <tr>
           <td>09:05</td>
-          <td>Keynote 1: <a href="#keynote">Michal Segal-Rozenhaimer</a> <br>AI from Space: Machine Vision Applications for Earth Sciences and Beyond</td>
+          <td>Keynote 1: <a href="#keynote">Soon-Jo Chung</a> <br>Title TBD</td>
         </tr>
         <tr>
           <td>09:25</td>
