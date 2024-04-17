@@ -284,39 +284,22 @@ monitoring control interfaces.
           1  <br> 
           </td>
           <td>
-          Transfer Learning for On-Orbit Ship Segmentation
-          <br><em>Vincenzo Fanizza (Ubotica Technologies)*; David Rijlaarsdam (Ubotica Technologies); Pablo Tomás Toledano González (Ubotica Technologies); José Luis Espinosa-Aranda (Ubotica Technologies)</em>
+          Robust Perspective-n-Crater for Crater-based Camera Pose Estimation
+          <br><em>Sofia A McLeod (University of Adelaide); Chee Kheng Chng (The University of Adelaide); Tatsuharu Ono (Hokkaido University); Yuta Shimizu (The University of Tokyo); Ryodo Hemmi (JAXA); Lachlan Holden (The University of Adelaide); Matthew Rodda (The University of Adelaide); Feras Dayoub (The University of Adelaide); Hirdy Miyamoto (University of Tokyo); Yukihiro Takahashi (Hokkaido University); Yasko Kasai (Tokyo Institute of Technology); Tat-Jun Chin (The University of Adelaide)</em>
           </td>
         </tr>
         <tr>
           <td>
           2  <br> 
           </td>
-          <td>Spacecraft Pose Estimation Based on Unsupervised Domain Adaptation and on a 3D-Guided Loss Combination
-          <br><em>Juan Ignacio Bravo (Deimos Space, Universidad Autónoma de Madrid)*; Alvaro Garcia-Martin (Universidad Autónoma de Madrid); Jesus Bescos (Universidad Autónoma de Madrid)</em>
-          </td>
-        </tr>
-        <tr>
-          <td>
-          3  <br> 
-          </td>
-          <td>Monocular 6-DoF Pose Estimation for Non-cooperative Spacecrafts Using Riemannian Regression Network
-          <br><em>Sunhao Chu (Shanghai Jiao Tong University)*; Shufan Wu (Shanghai Jiao Tong University); Yuxiao Duan (Shanghai Jiao Tong University); Klaus Schilling ()</em>
-          </td>
-        </tr>
-        <tr>
-          <td>
-          4  <br> 
-          </td>
-          <td>Asynchronous Kalman Filter for Event-Based Star Tracking
-          <br><em>Yonhon Ng (Australian National University)*; Yasir Latif (The University of Adelaide); Tat-Jun Chin (The University of Adelaide); Robert  Mahony (Australian National University)</em>
+          <td>Exploring AI-based satellite pose estimation: from novel synthetic dataset to in-depth performance evaluation
+          <br><em>Thomas Chambon (IRT Saint-Exupery); Fabien FG Gallet (IRT Saint Exupery); Christophe Marabotto (IRT Saint-Exupery)</em>
           </td>
         </tr>
       </tbody>
     </table>
   </div>
 </div>
-
 
 <div class="row" id="people">
 <hr>
