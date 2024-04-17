@@ -360,6 +360,22 @@ monitoring control interfaces.
           <br><em>YunFeng Zhang (Academy of Mathematics and Systems Sciences, Chinese Academy of Sciences); Linjing You (Institute of Automation, Chinese Academy of Sciences); luyu yang (Institute of Automation Chinese Academy of Sciences); Zhiwei Zhang (Institute of Automation Chinese Academy of Sciences); Xiangli Nie (Institute of Automation, Chinese Academy of Sciences); Bo Zhang (Institute of Applied Mathematics, AMSS, Chinese Academy of Sciences)</em>
           </td>
         </tr>
+        <tr>
+          <td>
+          11  <br> 
+          </td>
+          <td>CroSpace6D: Leveraging Geometric and Motion Cues for High-Precision Cross-Domain 6DoF Pose Estimation for Non-Cooperative Spacecrafts
+          <br><em>Zuo Jianhong (Nanjing University of Aeronautics and Astronautics); Shengyang Zhang (University of Chinese Academy of Sciences); Qianyu Zhang (Technology and Engineering Center for Space Utilization, Chinese Academy of Sciences); Zhao Yutao (Technology and Engineering Center for Space Utilization, Chinese Academy of Sciences); Liu Baichuan (	Technology and Engineering Center for Space Utilization, Chinese Academy of Sciences); Aodi Wu (University of Chinese Academy of Sciences); xue wan (Technology and Engineering Center for Space Utilization, Chinese Academy of Sciences); Leizheng Shu (Technology and Engineering Center for Space Utilization, Chinese Academy of Sciences); Kang Guohua (	Nanjing University of Aeronautics and Astronautics)</em>
+          </td>
+        </tr>
+        <tr>
+          <td>
+          12  <br> 
+          </td>
+          <td>Revisiting the Domain Gap Issue in Non-cooperative Spacecraft Pose Tracking
+          <br><em>Kun Liu (Nanjing university of science and technology); Yongjun Yu (Nanjing university of science and technology)</em>
+          </td>
+        </tr>
       </tbody>
     </table>
   </div>
