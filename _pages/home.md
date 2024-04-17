@@ -279,7 +279,7 @@ monitoring control interfaces.
     Each paper will be presented as
     <ul>
       <li>A spotlight presentation (<b>strictly 4 minutes presentation, plus 1 minute buffer for changover</b>; see schedule below); and</li>
-      <li>A poster (poster session at 10:35 am.</li>
+      <li>A poster (poster session at 10:35 am).</li>
     </ul>
     </p>
     
