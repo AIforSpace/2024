@@ -493,7 +493,10 @@ monitoring control interfaces.
 
 </div>
 
-<br>
+  <div class="row">
+  <hr>
+  <br>
+  </div>
 
 <div class="row">
   <div class="col-md-12">
