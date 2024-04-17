@@ -278,7 +278,7 @@ monitoring control interfaces.
       <tbody>
         <tr>
           <th>
-          Spotlight presentation time
+          Spotlight presentation time (Pacific Daylight Time)
           </th>
           <th>
           Paper title and authors
