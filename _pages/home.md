@@ -200,35 +200,35 @@ The datasets involved are larger and more diverse than that used in previous edi
             <th>Activity</th>
         </tr>
         <tr>
-          <td>09:00</td>
+          <td>09:00 am</td>
           <td>Welcome address + housekeeping</td>
         </tr>
         <tr>
-          <td>09:05</td>
+          <td>09:05 am</td>
           <td>SPARK Challenge</td>
         </tr>
         <tr>
-          <td>09:10</td>
+          <td>09:10 am</td>
           <td>Invited Speaker 1: <a href="#keynote">Soon-Jo Chung</a> <br>Title TBD</td>
         </tr>
         <tr>
-          <td>09:35</td>
+          <td>09:35 am</td>
           <td>Spotlight presentations - <a href="#papers">list of papers and presentation time</a></td>
         </tr>
         <tr>
-          <td>10:30</td>
+          <td>10:30 am</td>
           <td>Poster session + coffee break</td>
         </tr>
         <tr>
-          <td>11:30</td>
+          <td>11:30 am</td>
           <td>Invited Speaker 2: <a href="#keynote">Gianluca Furano</a> <br>Title TBD</td>
         </tr>
         <tr>
-          <td>11:55</td>
+          <td>11:55 am</td>
           <td>Award ceremony and wrap-up</td>
         </tr>
         <tr>
-          <td>12:10</td>
+          <td>12:10 pm</td>
           <td>End</td>
         </tr>
       </tbody>
@@ -281,7 +281,7 @@ monitoring control interfaces.
         </tr>
         <tr>
           <td>
-          1  <br> 
+          9:35 am <br> 
           </td>
           <td>
           Robust Perspective-n-Crater for Crater-based Camera Pose Estimation
@@ -290,7 +290,7 @@ monitoring control interfaces.
         </tr>
         <tr>
           <td>
-          2  <br> 
+          9:40 am <br> 
           </td>
           <td>Exploring AI-based satellite pose estimation: from novel synthetic dataset to in-depth performance evaluation
           <br><em>Thomas Chambon (IRT Saint-Exupery); Fabien FG Gallet (IRT Saint Exupery); Christophe Marabotto (IRT Saint-Exupery)</em>
@@ -298,7 +298,7 @@ monitoring control interfaces.
         </tr>
         <tr>
           <td>
-          3  <br> 
+          9:45 am <br> 
           </td>
           <td>Optimized Martian Dust Displacement Detection Using Explainable Machine Learning
           <br><em>Ana Lomashvili (DLR); Kristin Rammelkamp (DLR); Protim Bhattacharjee (DLR)</em>
@@ -306,7 +306,7 @@ monitoring control interfaces.
         </tr>
         <tr>
           <td>
-          4  <br> 
+          9:50 am <br> 
           </td>
           <td>Mitigating Challenges of the Space Environment for Onboard Artificial Intelligence: Design Overview for a recently launched payload
           <br><em>Miguel Ortiz del Castillo (University of Melbourne); Jonathan Morgan (University of Melbourne); Jack McRobbie (University of Melbourne	); Clint Therakam (University of Melbourne); Zaher Joukhadar (The University of Melbourne); Robert Mearns (University of Melbourne); Simon Barraclough (University of Melbourne); Richard Sinnott (University of Melbourne); Andrew Woods (University of Melbourne); Chris Bayliss (University of Melbourne); Krista A. Ehinger (University of Melbourne); Benjamin Rubinstein (University of Melbourne); James Bailey (University of Melbourne); Airlie Chapman (University of Melbourne); Michele Trenti (University of Melbourne)</em>
@@ -314,7 +314,7 @@ monitoring control interfaces.
         </tr>
         <tr>
           <td>
-          5  <br> 
+          9:55 am <br> 
           </td>
           <td>A Dual-Mode Approach for Vision-Based Navigation in a Lunar Landing Scenario
           <br><em>Roberto Del Prete (University of Naples "Federico II"); Luca Ostrogovich (University of Naples "Federico II"); Nicolas Longepe (ESA); Alfredo Renga (University of Naples "Federico II"); Giuseppe  Tomasicchio (Telespazio Spa)</em>
@@ -322,7 +322,7 @@ monitoring control interfaces.
         </tr>
         <tr>
           <td>
-          6  <br> 
+          10:00 am <br> 
           </td>
           <td>Tackling the Satellite Downlink Bottleneck with Federated Onboard Learning of Image Compression
           <br><em>Gabriele Meoni (TU Delft); Pablo Gómez (European Space Agency)</em>
@@ -330,7 +330,7 @@ monitoring control interfaces.
         </tr>
         <tr>
           <td>
-          7  <br> 
+          10:05 am <br> 
           </td>
           <td>Transformers for Orbit Determination Anomaly Detection and Classification
           <br><em>Nathan P Ré (Advanced Space, LLC); Matthew Popplewell (Advanced Space, LLC); Michael Caudill (Advanced Space, LLC); Tim Sullivan (Advanced Space, LLC); Tyler Hanf (Advanced Space, LLC); Benjamin Tatman (Advanced Space, LLC); Kanak Parmar (Advanced Space); Tyler Presser (Advanced Space, LLC); Sai Chikine (Advanced Space, LLC); Michael Grant (Advanced Space, LLC); Richard Poulson (Advanced Space, LLC)</em>
@@ -338,7 +338,7 @@ monitoring control interfaces.
         </tr>
         <tr>
           <td>
-          8  <br> 
+          10:10 am <br> 
           </td>
           <td>Deploying Machine Learning Anomaly Detection Models to Flight Ready AI Boards
           <br><em>James Murphy (Réaltra Space Systems Engineering); Maria Buckley (Ubotica Technologies); Léonie Buckley (Ubotica Technologies); Adam Taylor (Adiuvo Engineering & Training); Jake O'Brien (Réaltra Space Systems Engineering); Brian Mac Namee (University College Dublin)</em>
@@ -346,7 +346,7 @@ monitoring control interfaces.
         </tr>
         <tr>
           <td>
-          9  <br> 
+          10:15 am <br> 
           </td>
           <td>Cross-Temporal Spectrogram Autoencoder (CTSAE): Unsupervised Dimensionality Reduction for Clustering Gravitational Wave Glitches
           <br><em>Yi Li (Northwestern University); Yunan Wu (Northwestern University); Aggelos katsaggelos (Northwestern University)</em>
@@ -354,7 +354,7 @@ monitoring control interfaces.
         </tr>
         <tr>
           <td>
-          10  <br> 
+          10:20 am <br> 
           </td>
           <td>Monocular 6-DoF Pose Estimation of Spacecrafts Utilizing Self-iterative Optimization and Motion Consistency
           <br><em>YunFeng Zhang (Academy of Mathematics and Systems Sciences, Chinese Academy of Sciences); Linjing You (Institute of Automation, Chinese Academy of Sciences); luyu yang (Institute of Automation Chinese Academy of Sciences); Zhiwei Zhang (Institute of Automation Chinese Academy of Sciences); Xiangli Nie (Institute of Automation, Chinese Academy of Sciences); Bo Zhang (Institute of Applied Mathematics, AMSS, Chinese Academy of Sciences)</em>
@@ -362,7 +362,7 @@ monitoring control interfaces.
         </tr>
         <tr>
           <td>
-          11  <br> 
+          10:25 am <br> 
           </td>
           <td>CroSpace6D: Leveraging Geometric and Motion Cues for High-Precision Cross-Domain 6DoF Pose Estimation for Non-Cooperative Spacecrafts
           <br><em>Zuo Jianhong (Nanjing University of Aeronautics and Astronautics); Shengyang Zhang (University of Chinese Academy of Sciences); Qianyu Zhang (Technology and Engineering Center for Space Utilization, Chinese Academy of Sciences); Zhao Yutao (Technology and Engineering Center for Space Utilization, Chinese Academy of Sciences); Liu Baichuan (	Technology and Engineering Center for Space Utilization, Chinese Academy of Sciences); Aodi Wu (University of Chinese Academy of Sciences); xue wan (Technology and Engineering Center for Space Utilization, Chinese Academy of Sciences); Leizheng Shu (Technology and Engineering Center for Space Utilization, Chinese Academy of Sciences); Kang Guohua (	Nanjing University of Aeronautics and Astronautics)</em>
@@ -370,7 +370,7 @@ monitoring control interfaces.
         </tr>
         <tr>
           <td>
-          12  <br> 
+          10:30 am <br> 
           </td>
           <td>Revisiting the Domain Gap Issue in Non-cooperative Spacecraft Pose Tracking
           <br><em>Kun Liu (Nanjing university of science and technology); Yongjun Yu (Nanjing university of science and technology)</em>
