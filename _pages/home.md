@@ -193,7 +193,6 @@ The datasets involved are larger and more diverse than that used in previous edi
 <div class="row">
   <div class="col-xs-12">
     <!-- <h3>Block A</h3> -->
-    <h3>Block A (<a href="/2022/static/AI4SpaceProgramBlockA.ics" download><b>download calendar</b></a> to add program to your calendar)</h3>
     <table class="table table-striped">
       <tbody>
         <tr>
