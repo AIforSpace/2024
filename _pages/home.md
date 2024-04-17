@@ -216,8 +216,8 @@ The datasets involved are larger and more diverse than that used in previous edi
           <td>Spotlight presentations - <a href="#papers">list of papers and presentation time</a></td>
         </tr>
         <tr>
-          <td>10:30 am</td>
-          <td>Poster session + coffee break</td>
+          <td>10:35 am</td>
+          <td>Poster session + break</td>
         </tr>
         <tr>
           <td>11:30 am</td>
@@ -269,6 +269,11 @@ monitoring control interfaces.
   <br>
   <div class="col-xs-12">
     <h2>Accepted Papers</h2>
+
+    <p>
+    Each paper will be presented as a spotlight (<b>stringly 4 minutes presentation, plus 1 minute buffer for changover</b>).
+    </p>
+    
     <table class="table table-striped" id="sl1">
       <tbody>
         <tr>
