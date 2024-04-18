@@ -190,6 +190,10 @@ The datasets involved are larger and more diverse than that used in previous edi
   </div>
 </div>
 
+<p>
+Workshop date: </b>June 17, 2024</b>. Workshop venue: <b>Seattle Convention Center</b>.
+</p>
+
 <div class="row">
   <div class="col-xs-12">
     <!-- <h3>Block A</h3> -->
