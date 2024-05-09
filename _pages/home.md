@@ -213,7 +213,7 @@ Workshop date: <b>June 17, 2024</b>. Workshop venue: <b>Seattle Convention Cente
         </tr>
         <tr>
           <td>09:10 am</td>
-          <td>Invited Speaker 1: <a href="#keynote">Soon-Jo Chung</a> <br>Title TBD</td>
+          <td>Invited Speaker 1: <a href="#keynote">Soon-Jo Chung</a> <br>Title: Contraction is All You Need in Learning for Space</td>
         </tr>
         <tr>
           <td>09:35 am</td>
