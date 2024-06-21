@@ -225,7 +225,7 @@ Workshop date: <b>June 17, 2024</b>. Workshop venue: <b>Seattle Convention Cente
         </tr>
         <tr>
           <td>11:30 am</td>
-          <td>Invited Speaker 2: <a href="#keynote">Gianluca Furano</a> <br>Title TBD</td>
+          <td>Invited Speaker 2: <a href="#keynote">Gianluca Furano</a> <br>AI for Space, For What?</td>
         </tr>
         <tr>
           <td>11:55 am</td>
@@ -562,6 +562,7 @@ monitoring control interfaces.
 <br>
 </div>
 
+<!-----
 <div class="row">
   <div class="col-xs-12">
     <h2>Sponsors</h2>
@@ -570,6 +571,7 @@ monitoring control interfaces.
 </div>
 
 <p>TBD</p>
+----->
 
 <div class="row">
 <hr>
