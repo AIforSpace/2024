@@ -46,7 +46,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
         <p>
-          <img class="people-pic" src="{{ "/static/img/seattle/presentations.jpeg" | prepend:site.baseurl }}">
+          <img src="{{ "/static/img/seattle/presentations.jpeg" | prepend:site.baseurl }}">
         </p>
   </div>
 </div>
