@@ -31,9 +31,11 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12">
-    <h2><a href="#papers">ACCEPTED PAPERS</a> - Access the PDFs from <a href="https://openaccess.thecvf.com/CVPR2024_workshops/AI4Space">CVF Open Access</a></h2>     
+    <h2><a href="#papers">Accepted Papers</a> - Access the PDFs from <a href="https://openaccess.thecvf.com/CVPR2024_workshops/AI4Space">CVF Open Access</a></h2>     
   </div>
 </div>
+
+<hr>
 
 <div class="row">
   <div class="col-xs-12">
@@ -45,22 +47,20 @@ acknowledgements: ""
         <h4>Best Paper Award</h4>
         <p>  
           Revisiting the Domain Gap Issue in Non-cooperative Spacecraft Pose Tracking.
-          <br><em>Kun Liu (Nanjing university of science and technology); Yongjun Yu (Nanjing university of science and technology)</em>
+          <br><em>Kun Liu and Yongjun Yu</em>
         </p>
         <h4>Best Paper Award (Honourable Mention)</h4>
         <p>
           Mitigating Challenges of the Space Environment for Onboard Artificial Intelligence: Design Overview for a recently launched payload
-          <br><em>Miguel Ortiz del Castillo (University of Melbourne); Jonathan Morgan (University of Melbourne); Jack McRobbie (University of Melbourne	); Clint Therakam (University of Melbourne); Zaher Joukhadar (The University of Melbourne); Robert Mearns (University of Melbourne); Simon Barraclough (University of Melbourne); Richard Sinnott (University of Melbourne); Andrew Woods (University of Melbourne); Chris Bayliss (University of Melbourne); Krista A. Ehinger (University of Melbourne); Benjamin Rubinstein (University of Melbourne); James Bailey (University of Melbourne); Airlie Chapman (University of Melbourne); Michele Trenti (University of Melbourne)</em>
+          <br><em>Miguel Ortiz del Castillo, Jonathan Morgan, Jack McRobbie, Clint Therakam, Zaher Joukhadar, Robert Mearns, Simon Barraclough, Richard Sinnott, Andrew Woods, Chris Bayliss, Krista A. Ehinger, Benjamin Rubinstein, James Bailey, Airlie Chapman and Michele Trenti</em>
         </p>
         <h4>Best Presentation</h4>
         <p>
           A Dual-Mode Approach for Vision-Based Navigation in a Lunar Landing Scenario
-          <br><em>Roberto Del Prete (University of Naples "Federico II"); Luca Ostrogovich (University of Naples "Federico II"); Nicolas Longepe (ESA); Alfredo Renga (University of Naples "Federico II"); Giuseppe  Tomasicchio (Telespazio Spa)</em>
+          <br><em>Roberto Del Prete Luca Ostrogovich, Nicolas Longepe, Alfredo Renga and Giuseppe Tomasicchio</em>
         </p>
   </div>
 </div>
-
-
 
 <hr>
 
