@@ -40,6 +40,21 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12">
+    <h2>Sights from AI4Space 2024</h2>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12">
+        <p>
+          <img class="people-pic" src="{{ "/static/img/seattle/presentations.jpeg" | prepend:site.baseurl }}">
+        </p>
+  </div>
+</div>
+
+<hr>
+
+<div class="row">
+  <div class="col-xs-12">
     <h2>Introduction</h2>
   </div>
 </div>
