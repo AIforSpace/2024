@@ -31,13 +31,23 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12">
-    <h5><a href="#papers">ACCEPTED PAPERS</a></h5>    
-    <p>
-      Access the PDF from <a href="https://openaccess.thecvf.com/CVPR2024_workshops/AI4Space">CVF Open Access</a>.
-    </p>    
-    <h5>Awards</h5>    
+    <h2><a href="#papers">ACCEPTED PAPERS</a> - Access the PDFs from <a href="https://openaccess.thecvf.com/CVPR2024_workshops/AI4Space">CVF Open Access</a></h2>     
   </div>
 </div>
+
+<div class="row">
+  <div class="col-xs-12">
+    <h2>Awards</h2>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12">
+        <p>
+        </p>
+  </div>
+</div>
+
+
 
 <hr>
 
