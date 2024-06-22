@@ -42,7 +42,20 @@ acknowledgements: ""
 </div>
 <div class="row">
   <div class="col-xs-12">
+        <h4>Best Paper Award</h4>
+        <p>  
+          Revisiting the Domain Gap Issue in Non-cooperative Spacecraft Pose Tracking.
+          <br><em>Kun Liu (Nanjing university of science and technology); Yongjun Yu (Nanjing university of science and technology)</em>
+        </p>
+        <h4>Best Paper Award (Honourable Mention)</h4>
         <p>
+          Mitigating Challenges of the Space Environment for Onboard Artificial Intelligence: Design Overview for a recently launched payload
+          <br><em>Miguel Ortiz del Castillo (University of Melbourne); Jonathan Morgan (University of Melbourne); Jack McRobbie (University of Melbourne	); Clint Therakam (University of Melbourne); Zaher Joukhadar (The University of Melbourne); Robert Mearns (University of Melbourne); Simon Barraclough (University of Melbourne); Richard Sinnott (University of Melbourne); Andrew Woods (University of Melbourne); Chris Bayliss (University of Melbourne); Krista A. Ehinger (University of Melbourne); Benjamin Rubinstein (University of Melbourne); James Bailey (University of Melbourne); Airlie Chapman (University of Melbourne); Michele Trenti (University of Melbourne)</em>
+        </p>
+        <h4>Best Paper Presentation</h4>
+        <p>
+          A Dual-Mode Approach for Vision-Based Navigation in a Lunar Landing Scenario
+          <br><em>Roberto Del Prete (University of Naples "Federico II"); Luca Ostrogovich (University of Naples "Federico II"); Nicolas Longepe (ESA); Alfredo Renga (University of Naples "Federico II"); Giuseppe  Tomasicchio (Telespazio Spa)</em>
         </p>
   </div>
 </div>
