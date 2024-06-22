@@ -35,7 +35,7 @@ acknowledgements: ""
   </div>
 </div>
 
-<hr>
+<br>
 
 <div class="row">
   <div class="col-xs-12">
